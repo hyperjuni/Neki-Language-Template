@@ -1,0 +1,4 @@
+[
+  {"op": "replace", "path": "/shortdescription", "value": "(T) Neki Thingy - Poison"},
+  {"op": "replace", "path": "/description", "value": "(T) An odd toxic contraption, may be useful as an upgrade."}
+]

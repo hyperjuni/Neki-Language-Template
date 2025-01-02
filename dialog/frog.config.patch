@@ -1,0 +1,33 @@
+[
+  {"op": "replace", "path": "/converse/default/neki",
+    "value": [
+      "(T) *croak*",
+      "(T) *croak*",
+      "(T) *croak*",
+      "(T) Imagine if they could understand us.",
+      "(T) Wouldn't that be something.",
+      "(T) Hm, this one's staring at me as if it does...",
+      "(T) I better shut up just in case.",
+      "..."
+    ]
+  },
+  {"op": "replace", "path": "/accuse/default/neki", "value": ["(T) *croak..!*"]},
+  {"op": "replace", "path": "/alert/default/neki", "value": ["(T) *croak!*"]},
+  {"op": "replace", "path": "/hail/default/neki", "value": ["(T) *croak*"]},
+  {"op": "replace", "path": "/helpme/default/neki", "value": ["(T) ...crap!"]},
+  {"op": "replace", "path": "/helpthem/default/neki", "value": ["(T) *croak!*"]},
+  {"op": "replace", "path": "/encourage/default/neki", "value": ["(T) *croak*"]},
+  {"op": "replace", "path": "/safe/default/neki", "value": ["(T) *croak*"]},
+  {"op": "replace", "path": "/start/default/neki", "value": ["(T) *croak*"]},
+  {"op": "replace", "path": "/end/default/neki", "value": ["(T) *croak*"]},
+  {"op": "replace", "path": "/follow/default/neki", "value": ["(T) *croak*"]},
+  {"op": "replace", "path": "/welcome/default/neki", "value": ["(T) *croak*"]},
+  {"op": "replace", "path": "/tout/default/neki", "value": ["(T) *croak*"]},
+  {"op": "replace", "path": "/tagCriteria/default/neki", "value": ["(T) *croak!*"]},
+  {"op": "replace", "path": "/enclosedArea/default/neki", "value": ["(T) *croak!*"]},
+  {"op": "replace", "path": "/otherDeed/default/neki", "value": ["(T) *croak!*"]},
+  {"op": "replace", "path": "/severe/default/neki", "value": ["(T) *croak!*"]},
+  {"op": "replace", "path": "/final/default/neki", "value": ["(T) *croak!*"]},
+  {"op": "replace", "path": "/beacon/default/neki", "value": ["(T) *croak*"]},
+  {"op": "replace", "path": "/rent/default/neki", "value": ["(T) *croak*"]}
+]

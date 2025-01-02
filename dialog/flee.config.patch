@@ -1,0 +1,20 @@
+[
+  {"op": "replace", "path": "/helpme/neki",
+    "value": {
+      "default": [
+        "(T) Khhhh..!"
+      ]
+    }
+  },
+  {"op": "replace", "path": "/safe/neki",
+    "value": {
+      "default": [
+        "(T) I better get my claws sharpened.",
+        "(T) I peed a little over there.",
+        "(T) I need to sleep this off.",
+        "(T) I need some food now.",
+        "(T) That was stressful!"
+      ]
+    }
+  }
+]

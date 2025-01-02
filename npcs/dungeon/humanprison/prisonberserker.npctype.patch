@@ -1,0 +1,26 @@
+[
+  {"op": "replace", "path": "/scriptConfig/dialog/attack/human/neki",
+    "value": [
+      "(T) Oi, pussy!",
+      "(T) Fresh pussy!",
+      "(T) Get that pussy!",
+      "(T) Come 'ere, pussy!",
+      "(T) Time for some pussy!",
+      "(T) Time to skin an animal.",
+      "(T) Oh that's it, you're done!",
+      "(T) I'ma skin you alive, beast!",
+      "(T) I like it when the pussy runs!",
+      "(T) Don't even THINK about running!",
+      "(T) You're not gettin' outta here alive!",
+      "(T) Your pelt will look great on my wall!",
+      "(T) You ain't gettin' away, furball!",
+      "(T) Ohohoho! This is gonna be fun!",
+      "(T) This is gonna be satisfying!",
+      "(T) Not this time, you vermin!",
+      "(T) I'ma rip you a new one!",
+      "(T) Finally, some pussy!",
+      "(T) Ohoho, big mistake!",
+      "(T) Oi! Get over 'ere."
+    ]
+  }
+]

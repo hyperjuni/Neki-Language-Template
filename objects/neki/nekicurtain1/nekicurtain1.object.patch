@@ -1,0 +1,32 @@
+[
+  {"op": "replace", "path": "/novakidDescription",
+    "value": "(T) Looks like these curtains have seen some better days."
+  },
+  {"op": "replace", "path": "/nekiDescription",
+    "value": "(T) There, much better!"
+  },
+  {"op": "replace", "path": "/hylotlDescription",
+    "value": "(T) Oh...Oh dear..."
+  },
+  {"op": "replace", "path": "/humanDescription",
+    "value": "(T) These curtains probably used to belong in a mansion."
+  },
+  {"op": "replace", "path": "/glitchDescription",
+    "value": "(T) Concerned. These curtains look beyond repair."
+  },
+  {"op": "replace", "path": "/floranDescription",
+    "value": "(T) Sssomeone tore the fancy curtainss. I think I like them thiss way more."
+  },
+  {"op": "replace", "path": "/avianDescription",
+    "value": "(T) Looks like something was a bit too rough with these."
+  },
+  {"op": "replace", "path": "/apexDescription",
+    "value": "(T) Rich, heavy curtains, ruined by a certain feline touch..."
+  },
+  {"op": "replace", "path": "/description",
+    "value": "(T) Some classy curtains, with a bit of a...feline touch."
+  },
+  {"op": "replace", "path": "/shortdescription",
+    "value": "(T) Neki Curtain"
+  }
+]

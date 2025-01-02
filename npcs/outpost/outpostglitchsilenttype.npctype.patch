@@ -1,0 +1,16 @@
+[
+  {"op": "replace", "path": "/scriptConfig/dialog/converse/default/neki",
+    "value": [
+      "...",
+      "...",
+      "...",
+      "(T) Enraged. OH FOR FUCK'S SAKE, WHAT?!",
+      "(T) Furious. Is EVERYONE a social fiend around here?!", 
+      "(T) Contemplating. I should probably find a better place to be at.",
+      "...",
+      "...",
+      "(T) Bewildered. WHY are you still here?!",
+      "(T) Conceding. You sure are stubborn, aren't you."
+    ]
+  }
+]

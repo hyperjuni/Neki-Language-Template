@@ -1,0 +1,9 @@
+[
+  {"op": "replace", "path": "/scriptConfig/dialog/converse/default/neki",
+    "value": [
+      "(T) You look like you can handle yourself.",
+      "(T) I don't suppose you need a bounty hunter?",
+      "(T) If you do, I could use the pixels."
+    ]
+  }
+]

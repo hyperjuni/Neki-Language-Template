@@ -1,0 +1,39 @@
+[
+  {"op": "replace", "path": "/scriptConfig/dialog/lana/start/default/neki",
+    "value": [
+      "(T) Soldiers, defend our flank! They're coming up from the rear!",
+      "(T) Wait.. hold your fire!\nThis one doesn't seem to be hostile.",
+      "(T) State your business, Neki clone - and do so quickly, or we WILL open fire!",
+      "(T) Hm.. you seem different from the rest of your kind, but how is that possible?",
+      "(T) This one's Control Collar must be malfunctioning.. this may prove useful to us!",
+      "(T) Listen up, Neki!\nWe need a scout underground, and you should be able to fit right in.",
+      "(T) The name's ^orange;Lana Blake^reset;,\nand if you want into this stronghold as much as we do, may as well help us.",
+      "(T) Get down the tunnel access, find a way to lower their defenses for us - and we'll do the rest.",
+      "(T) I hope my trust in you won't prove to be misplaced, clone!"
+    ]
+  },
+
+  {"op": "replace", "path": "/scriptConfig/dialog/lana/mid/default/neki",
+    "value": [
+      "(T) Nice work, Neki.",
+      "(T) Never thought I'd see the day I say that to one, yet here we are.",
+      "(T) Unfortunately I'm wounded - and this may just be my last mission.",
+      "(T) If you are truly on our side, help us break through and take out the final defenses.",
+      "(T) I'm unable to go on, but I'll provide what assistance I can from down here."
+    ]
+  },
+
+  {"op": "replace", "path": "/scriptConfig/dialog/lana/end/default/neki",
+    "value": [
+      "(T) Well done, cl.. hm, I believe it would be unfair to call you that after all you've done for us today.",
+      "(T) Do you have a name, Neki?",
+      "(T) \"^#71f2f6;<entityname>^reset;\"?\nThat's an interesting name.",
+      "(T) Well, ^#71f2f6;<entityname>^reset; - you seem to be so much more than your origins imply.",
+      "(T) Whatever is 'wrong' with you has been instrumental to our victory today, and-",
+      "(T) ..what IS this thing? Its' glow is very distracting!",
+      "(T) Oh, it's what you're after? ..Just take it, then.",
+      "(T) ^#71f2f6;<entityname>^reset;, I'd like to help you, I think that you've earned as much from me.",
+      "(T) I have skills and connections that may prove useful to you."
+    ]
+  }
+]

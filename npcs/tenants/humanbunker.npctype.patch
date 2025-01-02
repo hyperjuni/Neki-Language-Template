@@ -1,0 +1,9 @@
+[
+  {"op": "replace", "path": "/scriptConfig/dialog/converse/neki/default",
+    "value" : [
+      "(T) I'm making sure your place is secure enough against pesky vermin.",
+      "(T) I am here to make sure there's stuff to scrratch. Don't mind me!",
+      "(T) I'm here to surrrvey this spot. Is it a safe spot?"
+    ]
+  }
+]

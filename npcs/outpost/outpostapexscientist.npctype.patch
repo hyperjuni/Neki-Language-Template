@@ -1,0 +1,13 @@
+[
+  {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/neki",
+      "value": [
+        "(T) Oh my!",
+        "(T) I am so glad to see one of you alive and well!",
+        "(T) After all the things you must've gone through in those labs...",
+        "(T) It makes me incredibly happy to see a Neki out and about, living their life.",
+        "(T) I feel terrible for the way my colleagues were treating your kind.",
+        "(T) I truly hope you will find it in you to forgive us one day...",
+        "(T) Go now, Neki! Go live an amazing life full of discovery!"
+    ]
+  }
+]

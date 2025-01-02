@@ -1,0 +1,32 @@
+[
+  {"op": "replace", "path": "/novakidDescription",
+    "value": "(T) Maybe I can make m'self a new sweater on this."
+  },
+  {"op": "replace", "path": "/nekiDescription",
+    "value": "(T) The wheels spin and clothes come out!"
+  },
+  {"op": "replace", "path": "/hylotlDescription",
+    "value": "(T) This would've been an instrument of art, had it been better maintained."
+  },
+  {"op": "replace", "path": "/humanDescription",
+    "value": "(T) A somewhat neglected wooden spinning wheel covered in fur."
+  },
+  {"op": "replace", "path": "/glitchDescription",
+    "value": "(T) Observant. A tailoring tool, not particularly well-maintained."
+  },
+  {"op": "replace", "path": "/floranDescription",
+    "value": "(T) Floran ssspin furry wheel, work thread."
+  },
+  {"op": "replace", "path": "/avianDescription",
+    "value": "(T) A tool for working threads.. why is there fur all over it?"
+  },
+  {"op": "replace", "path": "/apexDescription",
+    "value": "(T) A spinning wheel. It's covered in fur."
+  },
+  {"op": "replace", "path": "/description",
+    "value": "(T) This wheel is used by the Neki to craft various items."
+  },
+  {"op": "replace", "path": "/shortdescription",
+    "value": "^orange;Neki Wheel^reset;"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {"op": "replace", "path": "/novakidDescription",
+    "value": "(T) This here energy field keeps air and gravity inside and space outside."
+  },
+  {"op": "replace", "path": "/nekiDescription",
+    "value": "(T) This is my buzzy bubble, it keeps me safe!"
+  },
+  {"op": "replace", "path": "/hylotlDescription",
+    "value": "(T) Docking fields like this are common in space, they make quite effective airlocks."
+  },
+  {"op": "replace", "path": "/humanDescription",
+    "value": "(T) This type of energy field can contain atmosphere and gravity inside space structures."
+  },
+  {"op": "replace", "path": "/glitchDescription",
+    "value": "(T) Informed. This field is a special energy type meant to contain atmosphere and artificial gravity."
+  },
+  {"op": "replace", "path": "/floranDescription",
+    "value": "(T) This crackling energy containsss air inside."
+  },
+  {"op": "replace", "path": "/avianDescription",
+    "value": "(T) The energy in this docking field contains air and gravity inside."
+  },
+  {"op": "replace", "path": "/apexDescription",
+    "value": "(T) A space docking field, this energy contains the atmosphere inside."
+  },
+  {"op": "replace", "path": "/description",
+    "value": "(T) This energy field can contain both atmosphere and artificial gravity."
+  },
+  {"op": "replace", "path": "/shortdescription",
+    "value": "(T) Neki Docking Field"
+  }
+]

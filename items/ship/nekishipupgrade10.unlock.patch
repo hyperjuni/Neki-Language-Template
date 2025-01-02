@@ -1,0 +1,4 @@
+[
+  {"op": "replace", "path": "/description", "value": "(T) This item allows you to upgrade your ship to Tier 10."},
+  {"op": "replace", "path": "/shortdescription", "value": "(T) Tier 10 ship upgrade"}
+]

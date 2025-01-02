@@ -1,0 +1,14 @@
+[
+  {"op": "replace", "path": "/scriptConfig/dialog/converse/hylotl/neki",
+    "value": [
+      "(T) P..please, this is a p..place of peace!",
+      "(T) Neki, I implore you, please let me be!",
+      "(T) I am extremely fragile, I barely survived a Floran attack earlier.",
+      "(T) I appreciate your striking features, but I'd like to avoid experiencing them.",
+      "(T) Seeing as I'm still not on the floor with something broken...",
+      "(T) ...I would cautiously assume that you mean me no harm today.",
+      "(T) Let us part in peace, my fearsome fluffy friend!",
+      "(T) It was lovely not getting mauled today!"
+    ]
+  }
+]

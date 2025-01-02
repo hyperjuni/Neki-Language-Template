@@ -1,0 +1,30 @@
+[
+  {"op": "replace", "path": "/converse/default/neki",
+    "value": [
+      "(T) Do I look like I'm in a costume? Just askin', it dinnae mean anything...",
+      "(T) Ye ever get sand in a place it dinnae belong? Mighty bother, that.",
+      "(T) Way ye keep yer fur so fine be a riddle, mine always be frizzin'.",
+      "(T) Good set o' legs on ye! Think yer two could keep up with me four?",
+      "(T) I dinnae care what ye look like, as long as ye strong of heart!",
+      "(T) Some hardy stone furniture makes an Alpaca happy, I tell ye!",
+      "(T) How do ye do combat, eh? Ye up close, or shootin' from afar?",
+      "(T) If ye fight as fiercely as ye look, ye be okay in my book.",
+      "(T) I had some wee traveller ask me if this was a costume...",
+      "(T) Wish I had me weapon always on me like yer claws are.",
+      "(T) A mighty fine coat o' fur ye rockin' there, wee one.",
+      "(T) I dinnae see many like ye around, I tell ye that!",
+      "(T) Dinnae cause trouble and we'll treat ye like kin!",
+      "(T) I've been a warrior since I was a wee Alpaca.",
+      "(T) Ye dinnae look like a coward. I respect that.",
+      "(T) Courage is better than keenest durasteel.",
+      "(T) I'm itching tae batter some beasties.",
+      "(T) Always have a wee nap when ye can!",
+      "(T) Eat well if ye want te fight well!",
+      "(T) Do ye get many that look like ye?",
+      "(T) Are ye a fighter, or a craven?",
+      "(T) I'm itching for a wee fight.",
+      "(T) Be keepin' merry, friend!",
+      "(T) Keep the heid!"
+    ]
+  }
+]

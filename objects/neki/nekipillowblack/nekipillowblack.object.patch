@@ -1,0 +1,32 @@
+[
+  {"op": "replace", "path": "/novakidDescription",
+    "value": "(T) This here thing looks highly combustible!"
+  },
+  {"op": "replace", "path": "/nekiDescription",
+    "value": "(T) Mistakes were made, but at least it's comfy!"
+  },
+  {"op": "replace", "path": "/hylotlDescription",
+    "value": "(T) An interesting choice of materials for a pillow."
+  },
+  {"op": "replace", "path": "/humanDescription",
+    "value": "(T) Is it just me, or does this pillow smell of engine oil..?"
+  },
+  {"op": "replace", "path": "/glitchDescription",
+    "value": "(T) Conflicted: I'd be insulted by this if it didn't look so comfortable."
+  },
+  {"op": "replace", "path": "/floranDescription",
+    "value": "(T) Floran impresssed by pillow made from metalman flag!"
+  },
+  {"op": "replace", "path": "/avianDescription",
+    "value": "(T) Oh dear, the Glitch would be furious if they saw this."
+  },
+  {"op": "replace", "path": "/apexDescription",
+    "value": "(T) Whoever made this, was brave enough to steal from a Glitch fortress!"
+  },
+  {"op": "replace", "path": "/description",
+    "value": "(T) A dark pillow, wrapped in a dark Glitch banner."
+  },
+  {"op": "replace", "path": "/shortdescription",
+    "value": "(T) Neki Pillow - Black"
+  }
+]

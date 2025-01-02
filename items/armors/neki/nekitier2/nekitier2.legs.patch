@@ -1,0 +1,4 @@
+[
+  {"op": "replace", "path": "/shortdescription", "value": "(T) Neki T2 Armor"},
+  {"op": "replace", "path": "/description", "value": "(T) It, uhh...\nReinforces my skin?"}
+]

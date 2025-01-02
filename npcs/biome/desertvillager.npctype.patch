@@ -1,0 +1,19 @@
+[
+  {"op": "replace", "path": "/scriptConfig/dialog/converse/default/neki",
+    "value": [
+      "(T) What could possibly bring a creature like you to a planet like this?",
+      "(T) It must be pretty hot for you here with all that fur, poor thing.",
+      "(T) I'd suggest you took a dip in that pond over there, but... well.",
+      "(T) The warm weather out here always makes me happy! What about you?",
+      "(T) Why are you sticking your tongue out? Oh, that's how cool down?",
+      "(T) Are you alright? Would you like to lick an ice cube? Too bad.",
+      "(T) You don't look like you're enduring this climate too well.",
+      "(T) I've managed to adapt to the heat. What about you?",
+      "(T) This is nothing, you should've seen last summer.",
+      "(T) How's the sand feel in that thick fur of yours?",
+      "(T) Get out of the sun, you crazy little beast!",
+      "(T) This place is almost as hot as you are.",
+      "(T) Oh it gets MUCH hotter."
+    ]
+  }
+]

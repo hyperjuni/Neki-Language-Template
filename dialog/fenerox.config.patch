@@ -1,0 +1,21 @@
+[
+  {"op": "replace", "path": "/converse/default/neki",
+    "value": [
+      "(T) Odd Fenerox. Saying hello. Not Fenerox?",
+      "(T) Weird stranger. Not Fenerox? Being polite!",
+      "(T) Guest Fenerox? Ears similar. Giving greetings!",
+      "(T) Meeting stranger. Being friendly. New experience!",
+      "(T) Strange Fenerox. Looks friendly. Offer friendship?",
+      "(T) Another Fenerox? Smells interesting. Quite exciting!",
+      "(T) Friendly Fenerox? Feeling awkward. Cautiously optimistic!",
+      "(T) Pretty stranger. Magnificent fur! Observing cautiously.",
+      "(T) Different person. Maybe Fenerox? Curiously wondering!",
+      "(T) Stranger pretty. Fenerox awed. Anxiety happening!",
+      "(T) Unknown person. Resembles Fenerox. Pretty tail!",
+      "(T) Odd Fenerox. Hopefully nice. Feeling cautious!",
+      "(T) Cute Fenerox. Not Fenerox? Feeling nervous!",
+      "(T) New Fenerox. Not confident. Saying hello!",
+      "(T) Not Fenerox? Stands upright. Pretty ears!"
+    ]
+  }
+]

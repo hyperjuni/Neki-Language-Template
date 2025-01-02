@@ -1,0 +1,9 @@
+[
+  {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/neki",
+    "value": [
+      "(T) Finally a ssstrong hunter!",
+      "(T) Floran is glad to sssee Neki, it hasss been a while.",
+      "(T) Does Neki underssstand the glory of the hunt?"
+    ]
+  }
+]

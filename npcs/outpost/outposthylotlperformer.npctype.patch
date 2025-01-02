@@ -1,0 +1,16 @@
+[
+  {"op": "replace", "path": "/scriptConfig/dialog/converse/hylotl/neki",
+    "value": [
+      "(T) What do Neki do after a fight? Hiss and make up!",
+      "(T) Why was the Neki afraid of the tree? Because of the bark!",
+      "(T) Where does a Neki go if it loses its tail? The re-tail store!",
+      "(T) What do you call a Neki's house? A scratch pad!",
+      "(T) It's called fur-niture for a reason!",
+      "(T) Knock-knock.",
+      "(T) Who's there?",
+      "(T) Claws!",
+      "(T) Claws who?",
+      "(T) Claws the door, I'm getting cold!"
+    ]
+  }
+]

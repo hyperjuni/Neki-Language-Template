@@ -1,0 +1,13 @@
+[
+  {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/neki",
+    "value": [
+      "(T) I don't trust you, even if the others do.",
+      "(T) I'll be watching you closely around here.",
+      "(T) Nothing personal Neki, but I prefer to err on the side of caution.",
+      "(T) It takes me enough effort to keep everything running as is.",
+      "(T) I have nothing more to say to you.",
+      "(T) Please vacate my immediate proximity."
+    ]
+  }
+]
+

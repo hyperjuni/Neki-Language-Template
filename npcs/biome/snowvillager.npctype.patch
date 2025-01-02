@@ -1,0 +1,18 @@
+[
+  {"op": "replace", "path": "/scriptConfig/dialog/converse/default/neki",
+    "value": [
+      "(T) You must've come to this planet for something important, it's not exactly paradise.",
+      "(T) I should try that funny hop you do, seems useful for moving in the snow.",
+      "(T) You look innately prepared for this cold, but I had to adapt.",
+      "(T) You seem to be feeling pretty comfortable in this climate.",
+      "(T) How are those big ears of yours not freezing out here?",
+      "(T) I don't mind the cold, but you seem to be enjoying it!",
+      "(T) I thought I loved the cold, before I moved out here.",
+      "(T) Does jumping around like that help you stay warm?",
+      "(T) This is nothing, you should've seen last winter.",
+      "(T) It gets much colder than this, trust me.",
+      "(T) Wanna play snowball war?",
+      "(T) Wanna build a snowman?"
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {"op": "replace", "path": "/scriptConfig/dialog/converse/default/neki",
+    "value": [
+      "(T) Slept well, sunshine? You're about to miss the ceremony.",
+      "(T) What, no hissy fits today?",
+      "(T) You better not have shed your fur all over my bunk again, <entityname>!",
+      "(T) I've had enough of you for the day, get out of my sight.",
+      "(T) Get out of here, furball!",
+      "(T) Are you deaf? Get out!",
+      "(T) Don't make me make you."
+    ]
+  },
+
+  {"op": "replace", "path": "/scriptConfig/dialog/speak/default/neki",
+    "value": [
+      "(T) Would you look at what the cat dragged in! It's <entityname>, everyone!"
+    ]
+  }  
+]

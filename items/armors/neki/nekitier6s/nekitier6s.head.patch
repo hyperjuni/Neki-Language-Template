@@ -1,0 +1,4 @@
+[
+  {"op": "replace", "path": "/shortdescription", "value": "(T) Neki MK Helmet"},
+  {"op": "replace", "path": "/description", "value": "(T) [Neki-specific]\nA helmet custom-made for the Miniknog's Neki agents."}
+]

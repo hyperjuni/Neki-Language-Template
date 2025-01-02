@@ -1,0 +1,10 @@
+[
+  {"op": "replace", "path": "/scriptConfig/dialog/converse/default/neki",
+    "value": [
+      "(T) Yo-ho-ho, it's the...ghaaaah, a Neki!",
+      "(T) You wouldn't dare touch me, scallywag!",
+      "(T) Me hearties will make shark bait out of ye, savvy?",
+      "(T) Paws off, you blistering scoundrel!"
+    ]
+  }
+]

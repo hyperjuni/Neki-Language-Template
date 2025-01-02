@@ -1,0 +1,11 @@
+[
+  {"op": "replace", "path": "/scriptConfig/dialog/crewmember/roleDescription/neki",
+    "value": {
+      "default": [
+        "(T) I collect brroken toys from the floor.",
+        "(T) Norrmally, I just sleep all day.",
+        "(T) Dust bunnies are murrvellous!"
+      ]
+    }
+  }
+]

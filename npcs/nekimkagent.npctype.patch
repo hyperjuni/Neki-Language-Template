@@ -1,0 +1,44 @@
+[
+  {"op": "replace", "path": "/scriptConfig/dialog/converse/neki/neki/3",
+    "value": "(T) Are you not on duty?"
+  },
+  {"op": "replace", "path": "/scriptConfig/dialog/converse/neki/neki/2",
+    "value": "(T) You smell of outsiderrs."
+  },
+  {"op": "replace", "path": "/scriptConfig/dialog/converse/neki/neki/1",
+    "value": "(T) Why are you out of unifurrm?"
+  },
+  {"op": "replace", "path": "/scriptConfig/dialog/converse/neki/neki/0",
+    "value": "(T) When was the last time you licked yourself?"
+  },
+  {"op": "replace", "path": "/scriptConfig/dialog/converse/neki/apex/3",
+    "value": "(T) Who arre you?"
+  },
+  {"op": "replace", "path": "/scriptConfig/dialog/converse/neki/apex/2",
+    "value": "(T) Mrrwhat are you doing here?"
+  },
+  {"op": "replace", "path": "/scriptConfig/dialog/converse/neki/apex/1",
+    "value": "(T) You're not from arround here."
+  },
+  {"op": "replace", "path": "/scriptConfig/dialog/converse/neki/apex/0",
+    "value": "(T) I'm watching you, outsiderr."
+  },
+  {"op": "replace", "path": "/scriptConfig/dialog/converse/neki/default/3",
+    "value": "(T) Mrr..?"
+  },
+  {"op": "replace", "path": "/scriptConfig/dialog/converse/neki/default/2",
+    "value": "(T) *sniffs*"
+  },
+  {"op": "replace", "path": "/scriptConfig/dialog/converse/neki/default/1",
+    "value": "(T) Purrceed."
+  },
+  {"op": "replace", "path": "/scriptConfig/dialog/converse/neki/default/0",
+    "value": "(T) You smell.. unfamiliarr."
+  },
+  {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/1",
+    "value": "(T) Why am I.. whatever this is?!"
+  },
+  {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/0",
+    "value": "(T) Hey, I'm supposed to be a Neki!"
+  }
+]

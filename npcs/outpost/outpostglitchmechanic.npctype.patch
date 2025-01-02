@@ -1,0 +1,9 @@
+[
+  {"op": "replace", "path": "/scriptConfig/dialog/converse/glitch/neki",
+    "value": [
+      "(T) Grateful. There seem to be plenty of things to fix since your kind started showing up!",
+      "(T) Hesitant. Unfortunately I am not sure how to fix things like YOU, should you break down.",
+      "(T) Surprise. Already knocked something over? How do you keep getting into trouble?"
+    ]
+  }
+]

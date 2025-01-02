@@ -1,0 +1,74 @@
+[
+  {"op": "replace", "path": "/dialog/wakePlayer/5/0",
+    "value":
+     "(T) Rebooting requires a conscious entity to interact with the S.A.I.L console."
+  },
+  {"op": "replace", "path": "/dialog/wakePlayer/4/0",
+    "value":
+     "(T) Rebooting has shown to improve ship interaction satisfaction levels by 73%."
+  },
+  {"op": "replace", "path": "/dialog/wakePlayer/3/0",
+    "value":
+     "(T) To make use of your S.A.I.L please reboot."
+  },
+  {"op": "replace", "path": "/dialog/wakePlayer/2/0",
+    "value":
+     "(T) Reboot process remains uninitiated."
+  },
+  {"op": "replace", "path": "/dialog/wakePlayer/1/0",
+    "value":
+     "(T) Please reboot the system."
+  },
+  {"op": "replace", "path": "/dialog/wakePlayer/0/0",
+    "value":
+     "(T) System is down, please reboot."
+  },
+  {"op": "replace", "path": "/dialog/wakeUp/4/0",
+    "value":
+     "(T) The ship's navigation systems were damaged in our escape. Our location is currently unknown."
+  },
+  {"op": "replace", "path": "/dialog/wakeUp/3/0",
+    "value":
+     "(T) Earth was attacked by an unknown force, and was subsequently annihilated."
+  },
+  {"op": "replace", "path": "/dialog/wakeUp/2/0",
+    "value":
+     "(T) I am also programmed to offer you information and advice."
+  },
+  {"op": "replace", "path": "/dialog/wakeUp/1/0",
+    "value":
+     "(T) I am S.A.I.L, your Ship-based Artificial Intelligence Lattice. I manage the maintainance of your ship."
+  },
+  {"op": "replace", "path": "/dialog/wakeUp/0/0",
+    "value":
+     "(T) Rebooting..."
+  },
+
+  {"op": "replace", "path": "/novakidDescription",
+    "value": "(T) This here station lets me talk with SAIL."
+  },
+  {"op": "replace", "path": "/nekiDescription",
+    "value": "(T) SAIL, because it... sails the ship?"
+  },
+  {"op": "replace", "path": "/hylotlDescription",
+    "value": "(T) This console allows me to communicate with SAIL."
+  },
+  {"op": "replace", "path": "/humanDescription",
+    "value": "(T) This station allows me to communicate with SAIL."
+  },
+  {"op": "replace", "path": "/glitchDescription",
+    "value": "(T) Happy. This station allows me to talk to SAIL."
+  },
+  {"op": "replace", "path": "/floranDescription",
+    "value": "(T) Floran use thisss magic panel to talk to SAIL!"
+  },
+  {"op": "replace", "path": "/avianDescription",
+    "value": "(T) I can use this station to talk to SAIL."
+  },
+  {"op": "replace", "path": "/apexDescription",
+    "value": "(T) I can talk to SAIL through this console."
+  },
+  {"op": "replace", "path": "/description",
+    "value": "(T) Ship-based Artificial Intelligence Lattice, or S.A.I.L for short."
+  }
+]

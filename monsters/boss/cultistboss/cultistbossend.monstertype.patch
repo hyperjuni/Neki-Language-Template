@@ -1,0 +1,16 @@
+[
+  {"op": "replace", "path": "/baseParameters/dialog/intro/default/neki",
+    "value": [
+      "(T) Hnhh... You stubborn, brainwashed little beast...",
+      "(T) Got too many lives?\nLet's fix that for you!"
+    ]
+  },
+  
+  {"op": "replace", "path": "/baseParameters/dialog/death/default/neki",
+    "value": [
+      "(T) What are you even trying to achieve?! You're part Human yourself, don't you get it?!",
+      "(T) You should've been on my side all along, we're not that different you and I!",
+      "(T) My defeat is meaningless, puppet. The Ruin will soon awaken and cleanse this universe of ALL BUT HUMANS!"
+    ]
+  }
+]

@@ -1,0 +1,186 @@
+[
+  {"op": "replace", "path": "/hail/apex/neki",
+    "value": [
+      "(T) I won't interfere, agent, unless you disturb the peace.",
+      "(T) You are free to act, agent, but try not to make a mess.",
+      "(T) I'm loyal to Big Ape, and comply with his directives.",
+      "(T) You do your thing, and I'll be keeping the peace.",
+      "(T) Conform to the directive of conduct, please.",
+      "(T) Welcome, agent. Do you require assistance?",
+      "(T) I bow to the might of the Miniknog.",
+      "(T) I trust the judgement of Big Ape.",
+      "(T) Loyalty to the Miniknog, agent.",
+      "(T) Big Ape is guiding you well."
+    ]
+  },
+  {"op": "replace", "path": "/hail/avian/neki",
+    "value": [
+      "(T) If you start chasing anyone here, I will personally peck you very hard!",
+      "(T) I'm not afraid of you, as I have the faith in Kluex in my arsenal!",
+      "(T) So long as you don't do your thing, you should be fine.",
+      "(T) I'll be watching you closely, Neki.",
+
+    // Vanilla
+      "(T) Just try not to put a cat amongst the pigeons.",
+      "(T) I'm afraid I must ask you to move along.",
+      "(T) If we fight, you will lose.",
+      "(T) I hope we can get along.",
+      "(T) Don't try me."
+    ]
+  },
+  {"op": "replace", "path": "/hail/floran/neki",
+    "value": [
+      "(T) Neki wantsss stab sssomething too?",
+      "(T) Floran likes Neki face very much!",
+      "(T) Brawl with Floran later, Neki?",
+      "(T) Finally comesss fun traveller.",
+      "(T) Floran wantsss hunt with Neki!",
+      "(T) Neki alwaysss welcome here."
+    ]
+  },
+  {"op": "replace", "path": "/hail/glitch/neki",
+    "value": [
+      "(T) Conflicted. I'd play with you, but I'm on duty.",
+      "(T) Optimistic. I'm sure you won't be any trouble.",
+      "(T) Insincere. Have an absolutely wonderful day.",
+      "(T) Cautioning. Stay away from the chicken coop.",
+      "(T) Suspicious. What is your purpose here?",
+      "(T) Reticent. You won't be a problem...",
+      "(T) Concerned. Should you be here?",
+      "(T) Stern. You behave yourself.",
+      "(T) Cautious. Behave yourself.",
+      "(T) Inexperienced. Eep!",
+      "(T) Alert. Who are you?"
+    ]
+  },
+  {"op": "replace", "path": "/hail/human/neki",
+    "value": [
+      "(T) I'll snap you in half, just give me a reason!",
+      "(T) Don't do anything. Preferably don't exist.",
+      "(T) Go ahead and test me, you fuzzy dirtbag.",
+      "(T) You better go away and never return.",
+      "(T) Vermin like you is not welcome here.",
+      "(T) If you touch anything, you're dead.",
+      "(T) Want trouble? I'll give you some!",
+      "(T) Look at what the cat dragged in.",
+      "(T) I'm watching you closely, scum.",
+      "(T) I've got my eyes on you, fluff.",
+      "(T) You'll never be welcome here.",
+      "(T) Just keep walking, fleabag.",
+      "(T) Watch yourself, furball.",
+      "(T) You're not welcome here.",
+      "(T) Tread lightly, Neki."
+    ]
+  },
+  {"op": "replace", "path": "/hail/hylotl/neki",
+    "value": [
+      "(T) Please avoid smiling, your fangs may terrify our peaceful population.",
+      "(T) I won't welcome you, but I will tolerate your presence. For now.",
+      "(T) I won't hesitate to deal with you if you step out of line.",
+      "(T) Keep those claws sheathed, please.",
+
+    // Vanilla
+      "(T) I ask that you do not blemish this place with unnecessary aggression.",
+      "(T) I hope the serenity of our surroundings will influence your actions.",
+      "(T) Let us be peaceful, and have tranquility reign over our encounter.",
+      "(T) We ask only that you behave respectfully within our jurisdiction.",
+      "(T) I hope that we can each keep our steel sheathed and chambered.",
+      "(T) Cross me and I will be forced to strike.",
+      "(T) A Hylotl warrior is trained from birth.",
+      "(T) Walk well, stranger.",
+      "(T) Do not test me."
+    ]
+  },
+  {"op": "replace", "path": "/hail/novakid/neki",
+    "value": [
+      "(T) I ain't lookin' for no trouble, and hope ya ain't either, partner.",
+      "(T) If y'all rattle the snake, you'll have to face <selfname>!",
+      "(T) Name's <selfname>, and I'll be watchin' ya! Just in case.",
+      "(T) Keep them claws n' fangs inside at all times, beastie!",
+      "(T) Ya ain't here for thievin' and stealin', are ya?",
+
+    // Vanilla
+      "(T) Hope you enjoy our ol' village, partner. Jus' don't cause no trouble.",
+      "(T) If you don't intend to cause trouble, then we'll get on jus' fine.",
+      "(T) We're mighty fine with strangers, as long as they aren't trouble.",
+      "(T) I forget, have we seen you round here before?",
+      "(T) Don't cause no fuss around here, partner.",
+      "(T) Howdy!"
+    ]
+  },
+  {"op": "replace", "path": "/hail/neki",
+    "value": {
+      "default": [
+        "(T) What even are you?",
+        "(T) *sniffs*",
+        "(T) Khhh!"
+      ]
+    }
+  },
+  {"op": "replace", "path": "/hail/neki/avian",
+    "value": [
+      "(T) What's that delicious smell?",
+      "(T) Your smell makes me hungry.",
+      "(T) Smells like poultry.",
+      "(T) I smell food.",
+      "(T) *sniffs*",
+      "(T) Khhh!"
+    ]
+  },
+  {"op": "replace", "path": "/hail/neki/apex",
+    "value": [
+      "(T) What's that suspicious smell?",
+      "(T) I smell a trraitor.",
+      "(T) *sniffs*",
+      "(T) Khhh!"
+    ]
+  },
+  {"op": "replace", "path": "/hail/neki/floran",
+    "value": [
+      "(T) Mrr, the smell of fresh grass and blood!",
+      "(T) I can smell frresh blood on you!",
+      "(T) What's that lovely smell?",
+      "(T) *sniffs*",
+      "(T) Khhh!"
+    ]
+  },
+  {"op": "replace", "path": "/hail/neki/glitch",
+    "value": [
+      "(T) Mrr, smells like grease.",
+      "(T) Smells like toys!",
+      "(T) *sniffs*",
+      "(T) Khhh!"
+    ]
+  },
+  {"op": "replace", "path": "/hail/neki/human",
+    "value": [
+      "(T) Hello fellow human.",
+      "(T) *sniffs*",
+      "(T) Khhh!"
+    ]
+  },
+  {"op": "replace", "path": "/hail/neki/hylotl",
+    "value": [
+      "(T) What's that delicious smell?",
+      "(T) Your smell makes me hungry.",
+      "(T) Smells like seafood.",
+      "(T) I smell food.",
+      "(T) *sniffs*",
+      "(T) Khhh!"
+    ]
+  },
+  {"op": "replace", "path": "/hail/neki/novakid",
+    "value": [
+      "(T) Did someone start a fire?",
+      "(T) *sniffs*",
+      "(T) Khhh!"
+    ]
+  },
+  {"op": "replace", "path": "/hail/neki/neki",
+    "value": [
+      "(T) Something smells familiarr.",
+      "(T) *sniffs*",
+      "(T) Khhh!"
+    ]
+  }
+]

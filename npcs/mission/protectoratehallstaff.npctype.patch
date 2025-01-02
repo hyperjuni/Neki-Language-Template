@@ -1,0 +1,18 @@
+[
+  {"op": "replace", "path": "/scriptConfig/dialog/speak/default/neki",
+    "value": [
+      "(T) About time, <entityname>! Hurry it up, we can't stall for much longer."
+    ]
+  },
+
+  {"op": "replace", "path": "/scriptConfig/dialog/converse/default/neki",
+    "value": [
+      "(T) The ceremony is starting, hurry up!",
+      "(T) Remember, the name of the Grand Protector is Leda Portia.",
+      "(T) *sigh*\nI really hope this Neki will keep it together for once...",
+      "(T) Hm..? Pardon, I was just thinking out loud.",
+      "(T) Hurry up, <entityname>!",
+      "(T) Go on!"
+    ]
+  }
+]

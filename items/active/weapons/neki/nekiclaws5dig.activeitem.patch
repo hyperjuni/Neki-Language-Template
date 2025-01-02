@@ -1,0 +1,4 @@
+[
+  {"op": "replace", "path": "/shortdescription", "value": "(T) Neki T6 Digging Claws"},
+  {"op": "replace", "path": "/description", "value": "(T) Dig a hole, dig a hole."}
+]

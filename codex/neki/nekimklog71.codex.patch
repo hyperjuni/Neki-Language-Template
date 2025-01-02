@@ -1,0 +1,19 @@
+[
+  {"op": "replace", "path": "/contentPages",
+    "value": [
+"(T) While (what's left of) my team focuses on the newly-synthesized specimen, I've been doing some digging.
+
+Some of our Earth experts theorize that the introduction of these traits could have something to do with an age-old fascination with said traits in a family of primitive Earth-endemic species, which many Humans seem to have always been afflicted by.
+
+While such a degree of attraction to lesser species seems irrational at best - it would hardly surprise me,  ^cyan;>>^reset;",
+
+"given what we know of the innate addiction of the Humans to emotion over any and all reason.
+
+However, despite the notion of it being a mere 'human vanity project' likely being convincing enough for many of my peers, it only further incites my curiosity. I suspect that only interaction with the subjects themselves on a deeper level could provide the necessary insight for a better understanding.
+
+Long live... oh, who cares."
+    ]
+  },
+  {"op": "replace", "path": "/description", "value": "(T) A classified scientific research log of the Miniknog."},
+  {"op": "replace", "path": "/title", "value": "(T) Log 3489.#0071"}
+]

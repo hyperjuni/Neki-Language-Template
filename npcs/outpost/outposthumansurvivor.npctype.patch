@@ -1,0 +1,13 @@
+[
+  {"op": "replace", "path": "/scriptConfig/dialog/converse/human/neki",
+    "value": [
+      "(T) Just as I thought my day couldn't get any worse...",
+      "(T) One of YOUR kind shows up!",
+      "(T) What do you want from me, furball?",
+      "(T) Haven't you done enough already?",
+      "(T) Get out of my face, you vermin.",
+      "(T) I have nothing to say to you.",
+      "(T) Get lost."
+    ]
+  }
+]

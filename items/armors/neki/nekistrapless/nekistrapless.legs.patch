@@ -1,0 +1,4 @@
+[
+  {"op": "replace", "path": "/shortdescription", "value": "(T) Neki Strapless"},
+  {"op": "replace", "path": "/description", "value": "(T) The name's Toe. Camel Toe."}
+]

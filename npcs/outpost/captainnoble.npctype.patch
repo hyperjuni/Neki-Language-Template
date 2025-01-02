@@ -1,0 +1,10 @@
+[
+  {"op": "replace",  "path": "/scriptConfig/dialog/converse/default/neki",
+    "value": [
+      "(T) Always keep yer ears pointy and yer tail armed, Officer <entityname>!",
+      "(T) What in tarnation..? I mean howdy-doo, kitten! I mean Officer <entityname>!",
+      "(T) Ain't ever had one quite like you, Officer <entityname>!",
+      "(T) Did ya just strut in hind-first, gunnin' for a shindig?"
+    ]
+  }
+]

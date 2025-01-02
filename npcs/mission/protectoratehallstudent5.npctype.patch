@@ -1,0 +1,10 @@
+[
+  {"op": "replace", "path": "/scriptConfig/dialog/converse/default/neki",
+    "value": [
+      "(T) Do not approach any closer, <entityname> - you're causing me great distress.",
+      "(T) Please, kindly stop the incessant sniffing, it is highly unsettling.",
+      "(T) You seem to so easily disregard any and all social conventions.",
+      "(T) I ardently hope to not get assigned on any future missions with a Neki."
+    ]
+  }
+]

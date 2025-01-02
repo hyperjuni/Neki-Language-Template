@@ -1,0 +1,27 @@
+[
+  {"op": "replace", "path": "/scriptConfig/dialog/merchant/start/default/neki",
+    "value": [
+      "(T) Hello, ^#71f2f6;<entityname>^reset;. I've acquired a shipment of Augments. Are these of any use to you?"
+    ]
+  },
+
+  {"op": "replace", "path": "/scriptConfig/dialog/merchant/welcome/default/neki",
+    "value": [
+      "(T) Hello, ^#71f2f6;<entityname>^reset;. I've acquired a shipment of Augments. Are these of any use to you?"
+    ]
+  },
+
+  {"op": "replace", "path": "/scriptConfig/dialog/merchant/end/default/neki",
+    "value": [
+      "(T) I'll have a new shipment tomorrow, come back when you need to.",
+      "(T) Come back tomorrow, ^#71f2f6;<entityname>^reset;, I'll have a new shipment by then."
+    ]
+  },
+
+  {"op": "replace", "path": "/scriptConfig/dialog/merchant/tout/default/neki",
+    "value": [
+      "(T) I got a shipment of Augments straight from the rebel camps.",
+      "(T) ^#71f2f6;<entityname>^reset; - the rebels have shipped me a new batch of Augments."
+    ]
+  }
+]

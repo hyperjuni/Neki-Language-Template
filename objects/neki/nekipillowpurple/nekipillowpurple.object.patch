@@ -1,0 +1,32 @@
+[
+  {"op": "replace", "path": "/novakidDescription",
+    "value": "(T) I'll be darned if I hadn't seen this pattern before!"
+  },
+  {"op": "replace", "path": "/nekiDescription",
+    "value": "(T) The most stylish pillow ever!"
+  },
+  {"op": "replace", "path": "/hylotlDescription",
+    "value": "(T) That cultist banner looks infinitely more appealing in pillow form."
+  },
+  {"op": "replace", "path": "/humanDescription",
+    "value": "(T) An undeniably snazzy-looking pillow!"
+  },
+  {"op": "replace", "path": "/glitchDescription",
+    "value": "(T) Satisfied. A shoddy banner was made into something notably more practical."
+  },
+  {"op": "replace", "path": "/floranDescription",
+    "value": "(T) Pillow looksss very worn, like after battle."
+  },
+  {"op": "replace", "path": "/avianDescription",
+    "value": "(T) The striking colors of this pillow are a bit unsettling."
+  },
+  {"op": "replace", "path": "/apexDescription",
+    "value": "(T) I would love to see one made out of a Miniknog banner as well."
+  },
+  {"op": "replace", "path": "/description",
+    "value": "(T) A worn purple pillow with spraypainted orange stripes."
+  },
+  {"op": "replace", "path": "/shortdescription",
+    "value": "(T) Neki Pillow - Purple"
+  }
+]

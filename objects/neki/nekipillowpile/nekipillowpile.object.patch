@@ -1,0 +1,32 @@
+[
+  {"op": "replace", "path": "/novakidDescription",
+    "value": "(T) Someone's either movin' out or just hoardin' feathers!"
+  },
+  {"op": "replace", "path": "/nekiDescription",
+    "value": "(T) Fort!"
+  },
+  {"op": "replace", "path": "/hylotlDescription",
+    "value": "(T) Resembling mere garbage bags from afar, up close these are far more grotesque."
+  },
+  {"op": "replace", "path": "/humanDescription",
+    "value": "(T) I wanna dive bomb right into that!"
+  },
+  {"op": "replace", "path": "/glitchDescription",
+    "value": "(T) Perplexed. The practical purpose of this structure eludes me."
+  },
+  {"op": "replace", "path": "/floranDescription",
+    "value": "(T) Pile isss good place to hide for ambush!"
+  },
+  {"op": "replace", "path": "/avianDescription",
+    "value": "(T) Can almost forgive the unprecedented feather theft for how comfy these are."
+  },
+  {"op": "replace", "path": "/apexDescription",
+    "value": "(T) These don't seem like they'd make for great cover in a firefight."
+  },
+  {"op": "replace", "path": "/description",
+    "value": "(T) A pile of odd-looking colorful pillows."
+  },
+  {"op": "replace", "path": "/shortdescription",
+    "value": "(T) Neki Pillow Pile"
+  }
+]

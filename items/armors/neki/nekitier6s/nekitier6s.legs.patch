@@ -1,0 +1,4 @@
+[
+  {"op": "replace", "path": "/shortdescription", "value": "(T) Neki MK Armor"},
+  {"op": "replace", "path": "/description", "value": "(T) [Animated]\nAn armor designed for the Miniknog's Neki agents."}
+]

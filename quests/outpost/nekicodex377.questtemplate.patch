@@ -1,0 +1,7 @@
+[
+  {"op": "replace", "path": "/completionText", "value": "(T) This smells so familiarr..."},
+  {"op": "replace", "path": "/text",
+    "value": "(T) A recent shipment of augments had a ^orange;data log entry^reset; with an awfully familiar phrasing attached to it; I have an idea about who may have recorded it, but I'll need a few more of these to know for sure.\n\nMeanwhile, see if it rings any bells for you."
+  },
+  {"op": "replace", "path": "/title", "value": "(T) Private Log #0377"}
+]

@@ -1,0 +1,23 @@
+[
+  {"op": "replace", "path": "/contentPages",
+    "value": [
+"(T) ^gray;*click* ... *THUD*
+
+[long silence]
+
+*scratching*
+*rustling*
+*BEEP!*^reset;
+\"Khhhhhh!\"^gray; ... *THUMP*
+
+[long silence]
+
+*sniffing*^reset;
+\"Dumb thingy! Pfft.\"
+
+^gray;*soft steps, fading away*"
+    ]
+  },
+  {"op": "replace", "path": "/description", "value": "(T) An unusual-looking private log entry."},
+  {"op": "replace", "path": "/title", "value": "(T) Private Log #0342"}
+]

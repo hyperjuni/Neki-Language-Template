@@ -1,0 +1,21 @@
+[
+  {"op": "replace", "path": "/outOfRangeText/neki",
+    "value": [
+      "(T) There's purrobably something over there!",
+      "(T) I can't see that from here, but I MUST!",
+      "(T) I need to get closer and explore.",
+      "(T) Is this scanner thingy even working?"
+    ]
+  },
+
+  {"op": "replace", "path": "/nothingThereText/neki",
+    "value": [
+      "(T) Doesn't smell purrticularly interesting.",
+      "(T) Purrhaps I should explore another place.",
+      "(T) Nope, it's not over there.",
+      "(T) Nothing tasty over there.",
+      "(T) That's just boring stuff.",
+      "(T) Doesn't look impurrtant."
+    ]
+  }
+]

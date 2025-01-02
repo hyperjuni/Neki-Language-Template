@@ -1,0 +1,12 @@
+[
+  {"op": "replace", "path": "/converse/default/neki",
+    "value": [
+      "(T) Boastful. Even the sneakiest of species cannot escape our gaze.",
+      "(T) Observant. Your wandering eyes are a sign of healthy curiosity.",
+      "(T) Uppity. The All-Seeing Knights see more about you than you think.",
+      "(T) Analytical. Of all the species we observed, we've seen the least of yours.",
+      "(T) Engaged. You have my unabashed, undivided, unblinking attention.",
+      "(T) Curious. Your presence has caught my eye."
+    ]
+  }
+]

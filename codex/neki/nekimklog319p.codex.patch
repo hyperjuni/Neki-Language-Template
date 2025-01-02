@@ -1,0 +1,13 @@
+[
+  {"op": "replace", "path": "/contentPages",
+    "value": [
+"(T) The twins are -incredible- learners.
+
+From the moment they were out of their pods, they've been completely overwhelming us with their insatiable curiosity and capacity to learn. They figured rudimentary speech out within a day of listening to us talk, and within just weeks could already comprehend complex topics that normally take years of studies to get even a basic grasp on!
+
+I am both extremely excited about and utterly terrified of their potential."
+    ]
+  },
+  {"op": "replace", "path": "/description", "value": "(T) A private log entry by a Miniknog genetic research scientist."},
+  {"op": "replace", "path": "/title", "value": "(T) Log 3497.#0319; Personal"}
+]

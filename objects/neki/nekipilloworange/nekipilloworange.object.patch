@@ -1,0 +1,32 @@
+[
+  {"op": "replace", "path": "/novakidDescription",
+    "value": "(T) I ain't the least impressed by this thing."
+  },
+  {"op": "replace", "path": "/nekiDescription",
+    "value": "(T) I like that pillow. That is a nice pillow!"
+  },
+  {"op": "replace", "path": "/hylotlDescription",
+    "value": "(T) This pillow's texture feels rough and the colors are rather dull."
+  },
+  {"op": "replace", "path": "/humanDescription",
+    "value": "(T) A crappy-looking pillow."
+  },
+  {"op": "replace", "path": "/glitchDescription",
+    "value": "(T) Unimpressed. The fabric on this pillow looks primitive even by my standards."
+  },
+  {"op": "replace", "path": "/floranDescription",
+    "value": "(T) Floran butt become shiny from ssitting on thisss!."
+  },
+  {"op": "replace", "path": "/avianDescription",
+    "value": "(T) I think I know what this is made of, but that's hardly an improvement."
+  },
+  {"op": "replace", "path": "/apexDescription",
+    "value": "(T) Is this one of our standard-issue curtains? That is hilarious!"
+  },
+  {"op": "replace", "path": "/description",
+    "value": "(T) A dull orange pillow wrapped in a crude curtain."
+  },
+  {"op": "replace", "path": "/shortdescription",
+    "value": "(T) Neki Pillow - Orange"
+  }
+]

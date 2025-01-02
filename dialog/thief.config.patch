@@ -1,0 +1,16 @@
+[
+  {"op": "replace", "path": "/accuse/neki",
+    "value": {
+      "default": [
+        "(T) Khhh! Don't take that!"
+      ]
+    }
+  },
+  {"op": "replace", "path": "/alert/neki",
+    "value": {
+      "default": [
+        "(T) WRRROOOWWWW!"
+      ]
+    }
+  }
+]

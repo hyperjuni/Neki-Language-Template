@@ -1,0 +1,4 @@
+[
+  {"op": "replace", "path": "/shortdescription", "value": "(T) Cast Titanium Claws"},
+  {"op": "replace", "path": "/description", "value": "(T) A set of sharp titanium claws. Used in creating the Neki T4 Sharp Claws."}
+]

@@ -1,0 +1,4 @@
+[
+  {"op": "replace", "path": "/shortdescription", "value": "(T) Cosmetic Angel Wings"},
+  {"op": "replace", "path": "/description", "value": "(T) [Neki]\nThe carnage involved in making these had better been worth it."}
+]

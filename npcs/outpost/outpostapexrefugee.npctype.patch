@@ -1,0 +1,11 @@
+[
+  {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/neki",
+    "value": [
+      "(T) Hello, I suppose.",
+      "(T) Excuse me, but I don't feel comfortable being around you.",
+      "(T) You make me feel very uneasy.",
+      "(T) I would prefer it if we parted ways now.",
+      "(T) Goodbye."
+    ]
+  }
+]

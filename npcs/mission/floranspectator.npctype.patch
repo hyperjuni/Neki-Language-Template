@@ -1,0 +1,31 @@
+[
+  {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/neki",
+    "value": [
+      "(T) Who will win The Hunt this year? Floran betss on Neki!",
+      "(T) Neki will join The Hunt? Floran wantss to see this!",
+      "(T) What are the chancesss that you'll best Nuru, Neki?",
+      "(T) Iss Neki here to enter the caverns and compete?",
+      "(T) Floran thinks Neki isss worthy rival for Nuru!",
+      "(T) Neki bessst hurry if Neki wants to catch up!",
+      "(T) If Neki here for The Hunt, Neki isss late!",
+      "(T) Why even bother, Neki? Nuru is unbeatable!",
+      "(T) Iss Neki going to hunt in the cavernss?",
+      "(T) Neki iss fast, but Nuru is fassster!",
+      "(T) Neki hopesss to beat Nuru?",
+      "(T) Huntersss! You're late!",
+      "(T) Floran ssee a Neki!",
+      "(T) Isss that a Neki?",
+
+    // Vanilla
+      "(T) Who will win The Hunt this year? Floran betss on Nuru!",
+      "(T) Floran ssso tired of Nuru winning The Hunt every year!",
+      "(T) Floran is sssure Nuru will win once again!",
+      "(T) What's the point? Nuru winss every year!",
+      "(T) Maybe ssomeone else will win this year?",
+      "(T) Nuru puts other hunterss to shame.",
+      "(T) Maybe Nuru won't win thiss year?",
+      "(T) More hunterss, more excitement!",
+      "(T) Are you here to join The Hunt?"
+    ]
+  }
+]

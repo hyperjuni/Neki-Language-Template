@@ -1,0 +1,15 @@
+[
+  {"op": "replace", "path": "/scriptConfig/dialog/converse/default/neki",
+    "value": [
+      "(T) How kind of you to finally grace us with your presence!",
+      "(T) Slept through your SAIL alarms again?  How typical of you.",
+      "(T) Try to behave yourself on the podium this time, will you?",
+      "(T) How one of you even got into the academy is beyond me.",
+      "(T) And they let you become a Protector! What a disgrace.",
+      "(T) I hope never to see you or any of your kind again after today.",
+      "(T) Get moving, <entityname>! Haven't you held everyone up for long enough?",
+      "(T) Just go already, sheesh.",
+      "(T) Up the stairs, go on."
+    ]
+  }
+]

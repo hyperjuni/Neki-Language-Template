@@ -1,0 +1,62 @@
+[
+  {"op": "replace", "path": "/chatOther",
+    "value": [
+      "(T) ^yellow;INCOMPATIBLE GENETIC MATERIAL^reset;",
+      "(T) ^yellow;GENETIC PROFILE MISMATCH^reset;",
+      "(T) ^yellow;UNSUPPORTED SPECIMEN^reset;",
+      "(T) ^yellow;UNAUTHORIZED SPECIMEN^reset;"
+    ]
+  },
+  {"op": "replace", "path": "/chatNovakid",
+    "value": [
+      "(T) ^yellow;NO ORGANIC MATERIAL DETECTED^reset;",
+      "(T) ^yellow;LARGE ENERGY SPIKE DETECTED^reset;",
+      "(T) ^yellow;ANOMALOUS OBJECT MASS^reset;"
+    ]
+  },
+  {"op": "replace", "path": "/chatGlitch",
+    "value": [
+      "(T) ^yellow;CRITICAL MASS OF INORGANIC CONTAMINANT^reset;",
+      "(T) ^yellow;CONTAINMENT BREACHED BY FOREIGN OBJECT^reset;",
+      "(T) ^yellow;UNEXPECTED ITEM IN BAGGING AREA^reset;\nRemove this item before continuing.",
+      "(T) ^yellow;LARGE FOREIGN OBJECT DETECTED^reset;"
+    ]
+  },
+  {"op": "replace", "path": "/chatApex",
+    "value": [
+      "(T) ^red;UNSANCTIONED INCURSION DETECTED^reset;\nPlease stand by for disciplinary action.",
+      "(T) ^red;DETECTING UNAUTHORIZED ENTRY^reset;\nPlease stand by for punitive measures.",
+      "(T) ^red;DO NOT THE SUBJECTS^reset;"
+    ]
+  },
+  {"op": "replace", "path": "/novakidDescription",
+    "value": "(T) I ain't going near that."
+  },
+  {"op": "replace", "path": "/nekiDescription",
+    "value": "(T) I love mother."
+  },
+  {"op": "replace", "path": "/hylotlDescription",
+    "value": "(T) It appears to be intended for some sort of creature, perhaps an aquatic one."
+  },
+  {"op": "replace", "path": "/humanDescription",
+    "value": "(T) Hey, this looks about the right size for me!"
+  },
+  {"op": "replace", "path": "/glitchDescription",
+    "value": "(T) Attentive. Machine appears to be life support for some unknown creature."
+  },
+  {"op": "replace", "path": "/floranDescription",
+    "value": "(T) Sssuch machines are unnatural."
+  },
+  {"op": "replace", "path": "/avianDescription",
+    "value": "(T) This is dark science..."
+  },
+  {"op": "replace", "path": "/apexDescription",
+    "value": "(T) I've never seen a pod this large before, I wonder what it's meant to contain."
+  },
+  {"op": "replace", "path": "/description",
+    "value": "(T) This life support pod allows the Neki to quickly revitalize themselves."
+  },
+  {"op": "replace", "path": "/shortdescription",
+    "value": "(T) Neki Pod"
+  }
+]

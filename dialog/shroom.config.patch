@@ -1,0 +1,22 @@
+[
+  {"op": "replace", "path": "/hail/floran/neki",
+    "value": [
+      "(T) Hoom hoom! Plesta mesti, furbutt.",
+      "(T) Halhoom, furbutt. Nab smashroom, plesta.",
+      "(T) Furbutt hoom! Enjoy house choka smashroom?",
+      "(T) Halmarr, furbutt! Habba rumphose deka bizarra!",
+      "(T) Halhoom furbutt! Humfah, halberdeen deka hairthing?",
+      "(T) Halhalhalhoom, nab feara shroom! Mesti nab chop furbutt.",
+      "(T) Hoom. Hoom furbutt. Nabi spike cutshroom, plesta?",
+      "(T) Hoom! Mesti fry deka headpads, cuddle plesta?",
+      "(T) Hoom. Mesti nab chop furbutt. Halhoom!"
+    ]
+  },
+  {"op": "replace", "path": "/start/default/neki",
+    "value": [
+      "(T) Halhalhoom, furbutt! Habba shopshroom plesta?",
+      "(T) Hoomay furbutt! Shroom nab chop, mesta clink clink!",
+      "(T) Hoom, furbutt! Nab smashroom habba clinker house. Okay?"
+    ]
+  }
+]

@@ -1,0 +1,4 @@
+[
+  {"op": "replace", "path": "/shortdescription", "value": "(T) Neki T3 Claws"},
+  {"op": "replace", "path": "/description", "value": "(T) The archenemy of furniture."}
+]

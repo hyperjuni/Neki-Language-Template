@@ -1,0 +1,32 @@
+[
+  {"op": "replace", "path": "/novakidDescription",
+    "value": "(T) A mooshi poof?"
+  },
+  {"op": "replace", "path": "/nekiDescription",
+    "value": "(T) It's fluffy, purrdy and smells amazing!"
+  },
+  {"op": "replace", "path": "/hylotlDescription",
+    "value": "(T) A gruesome display of the needless slaughter of innocent creatures. Absolutely revolting."
+  },
+  {"op": "replace", "path": "/humanDescription",
+    "value": "(T) Pretty sure my grandmother had a few of these."
+  },
+  {"op": "replace", "path": "/glitchDescription",
+    "value": "(T) Unnerved: Is it considered stylish to cover furniture in the skin of animals?"
+  },
+  {"op": "replace", "path": "/floranDescription",
+    "value": "(T) Floran approvesss of pillow made from ssspoils of the hunt."
+  },
+  {"op": "replace", "path": "/avianDescription",
+    "value": "(T) I suppose this is a better use for pelts than wall decorations."
+  },
+  {"op": "replace", "path": "/apexDescription",
+    "value": "(T) A beautifully-patterned bright pelt-wrapped pillow."
+  },
+  {"op": "replace", "path": "/description",
+    "value": "(T) A striped white furry pillow, wrapped in an animal's hide."
+  },
+  {"op": "replace", "path": "/shortdescription",
+    "value": "(T) Neki Pillow - White"
+  }
+]

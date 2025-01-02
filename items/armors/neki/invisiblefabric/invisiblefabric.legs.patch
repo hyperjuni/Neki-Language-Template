@@ -1,0 +1,4 @@
+[
+  {"op": "replace", "path": "/shortdescription", "value": "(T) Invisi-Pants (Neki)"},
+  {"op": "replace", "path": "/description", "value": "(T) These extraordinary pants turn your actual pants invisible, for better or for worse."}
+]

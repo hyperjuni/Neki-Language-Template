@@ -1,0 +1,20 @@
+[
+  {"op": "replace",  "path": "/scriptConfig/dialog/converse/default/neki",
+    "value": [
+      "(T) Welcome to the jungle,\nWe've got fun and games!",
+      "(T) I have nothing to say to you"
+    ]
+  },
+  {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/neki",
+    "value": [
+      "(T) Floran likesss living in the foresst - knows all the plantsss and all the trails.",
+      "(T) Forest gives Floran peace of mind, can better focusss on the hunt.",
+      "(T) A Neki in Floran's foresst! This isss good day for Floran.",
+      "(T) Neki like Floran's place? Floran built it alone!",
+      "(T) Floran help Neki hunt around thisss foresst!",
+      "(T) Floran wantsss to have Neki hunting buddy.",
+      "(T) Doesss Neki also live as one with nature?",
+      "(T) Neki come to hunt with Floran?"
+    ]
+  }
+]

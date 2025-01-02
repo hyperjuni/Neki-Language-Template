@@ -1,0 +1,9 @@
+[
+  {"op": "replace", "path": "/scriptConfig/dialog/converse/neki/default",
+    "value" : [
+      "(T) These clothes let me interact with compurrters with my mind!",
+      "(T) Why are my ears always sticking out?",
+      "(T) Do you like how techy I look?"
+    ]
+  }
+]

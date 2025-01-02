@@ -1,0 +1,12 @@
+[
+  {"op": "replace",  "path": "/converse/apex/neki",
+    "value": [
+      "(T) I knew there was good in the Neki, Officer <entityname>, and you're the living proof!",
+      "(T) I'm just glad to finally meet a Neki who isn't telling me to \"pick up that can\"...",
+      "(T) I have a suspicion that a case I'm researching for you ties to the Miniknog...",
+      "(T) An Agent, a Protector AND a Peacekeeper? You're one accomplished Neki!",
+      "(T) A Neki Peacekeeper still feels so paradoxical to me, I'm sorry.",
+      "(T) What would you do if your next target is a Miniknog operative?"
+    ]
+  }
+]

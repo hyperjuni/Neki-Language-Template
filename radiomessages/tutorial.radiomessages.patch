@@ -1,0 +1,14 @@
+[
+  {"op": "replace",  "path": "/nekinofoodpoisontutorial/text",
+    "value": "(T) Did you just consume a chunk of raw flesh?!"
+  },
+  {"op": "replace",  "path": "/nekinofoodpoisontutorial2/text",
+    "value": "(T) Seeing as you clearly aren't experiencing the ill effects of raw meat consumption, I assume that you are somehow immune to them. This ought to improve your chances of survival by 8.9%."
+  },
+  {"op": "replace",  "path": "/nekipoisontutorial/text",
+    "value": "(T) The discomfort you are experiencing is likely due to being poisoned. I suggest avoiding foods that contain the brown beans, as those appear to be highly toxic to you."
+  },
+  {"op": "replace",  "path": "/pickupflagneki/text",
+    "value": "(T) It would be prudent to point out that some may misinterpret this flag as an invitation for wrongdoing, but it'll work. Place it, give it a name and I'll configure it as a teleport location."
+  }
+]

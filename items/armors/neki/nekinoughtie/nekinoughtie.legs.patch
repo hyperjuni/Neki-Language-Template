@@ -1,0 +1,4 @@
+[
+  {"op": "replace", "path": "/shortdescription", "value": "(T) Neki Noughtie"},
+  {"op": "replace", "path": "/description", "value": "(T) It's got you less covered."}
+]

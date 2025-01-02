@@ -1,0 +1,24 @@
+[
+  {"op": "replace", "path": "/beacon/neki",
+    "value": {
+      "default": [
+        "(T) What's in here? Oh, can I go out now?",
+        "(T) I came for snuggles! Give!",
+        "(T) Purrr...headpats please?",
+        "(T) Mrrow...will we cuddle?",
+        "(T) Food? Food..? Purrr..."
+      ]
+    }
+  },
+  {"op": "replace", "path": "/rent/neki",
+    "value": {
+      "default": [
+        "(T) I give you this thingy because you are very love!",
+        "(T) I found this thingy and I thought of you...",
+        "(T) For loving me and feeding me I got you this!",
+        "(T) I hunted this for you...am I love?",
+        "(T) I really like you and...here."
+      ]
+    }
+  }
+]

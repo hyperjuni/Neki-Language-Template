@@ -1,0 +1,29 @@
+[
+  {"op": "replace", "path": "/scriptConfig/dialog/crewmember/roleDescription/neki",
+    "value": {
+      "default": [
+        "(T) I purrvide health benefits.",
+        "(T) I'm the doctor now."
+      ]
+    }
+  },
+  {"op": "replace", "path": "/scriptConfig/dialog/crewmember/fieldBenefit/neki",
+    "value": {
+      "default": [
+        "(T) How did you even hurt yourself?",
+        "(T) Why are you hurting yourself?",
+        "(T) Well, you look like shit.",
+        "(T) Can you please NOT?"
+      ]
+    }
+  },
+  {"op": "replace", "path": "/scriptConfig/dialog/crewmember/combatBenefit/neki",
+    "value": {
+      "default": [
+        "(T) You're bleeding! Let me lick it.",
+        "(T) Come on, I'll try to heal that.",
+        "(T) I have no idea what I'm doing."
+      ]
+    }
+  }
+]

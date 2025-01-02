@@ -1,0 +1,32 @@
+[
+  {"op": "replace", "path": "/novakidDescription",
+    "value": "(T) I ain't seein' it, what's this good for?"
+  },
+  {"op": "replace", "path": "/nekiDescription",
+    "value": "(T) This is much nicer than the silly green sack."
+  },
+  {"op": "replace", "path": "/hylotlDescription",
+    "value": "(T) Neither the original nor this reimagining seem particularly comfortable to me."
+  },
+  {"op": "replace", "path": "/humanDescription",
+    "value": "(T) Why ruin a perfectly good green sleeping bag like that?!"
+  },
+  {"op": "replace", "path": "/glitchDescription",
+    "value": "(T) Sarcasm. Lovely. Now it's even less useful."
+  },
+  {"op": "replace", "path": "/floranDescription",
+    "value": "(T) Ssstupid bag is now soft chair! Thisss make Floran happy!"
+  },
+  {"op": "replace", "path": "/avianDescription",
+    "value": "(T) This pillow feels so comfortable, as if it were filed with...wait a minute..."
+  },
+  {"op": "replace", "path": "/apexDescription",
+    "value": "(T) An interesting use for a sleeping bag."
+  },
+  {"op": "replace", "path": "/description",
+    "value": "(T) A green sleeping bag, stuffed with feathers."
+  },
+  {"op": "replace", "path": "/shortdescription",
+    "value": "(T) Neki Pillow - Green"
+  }
+]

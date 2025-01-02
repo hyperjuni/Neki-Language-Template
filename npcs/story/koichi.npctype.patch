@@ -1,0 +1,14 @@
+[
+  {"op": "replace", "path": "/scriptConfig/dialog/koichi/greet/default/neki",
+    "value": [
+      "(T) Stay back, Neki!\nI'm willing to defend\nmyself to the death!",
+      "(T) Wait.. you're the one I've been guiding through the library this entire time?",
+      "(T) How bizarre of you to go\nthrough all this trouble,\njust to come torture me\nall the way down here.",
+      "(T) I guess I should accept\nmy fate, for being so\nblind and foolish.",
+      "(T) So, what are you waiting\nfor, Neki? Do your worst...",
+      "(T) Hm.. I'm still alive, so this must mean that you're not here for me.",
+      "(T) What ARE you here\nfor, in that case?",
+      "(T) Oh, you're here for this artifact too? How intriguing..."
+    ]
+  }
+]

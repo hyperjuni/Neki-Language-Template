@@ -1,0 +1,13 @@
+[
+  {"op": "replace", "path": "/scriptConfig/dialog/converse/neki",
+    "value": {
+      "default": [
+        "(T) This is fascinating! I need to take some samples.",
+        "(T) This place will do nicely for my expurriments.",
+        "(T) Do these eye-rings make me look more sciency?",
+        "(T) I'm doing extremely impurrtant research!",
+        "(T) Don't worry, my research is purrivate."
+      ]
+    }
+  }
+]

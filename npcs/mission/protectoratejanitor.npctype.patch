@@ -1,0 +1,21 @@
+[
+  {"op": "replace", "path": "/scriptConfig/dialog/converse/default/neki",
+    "value": [
+      "(T) Excited. <entityname>! You're a sight for sore eyes. Figuratively speaking.",
+      "(T) Attentive. Aren't you graduating today?",
+      "(T) Wistful. At least one of us will get to graduate properly.",
+      "(T) Compliment. You don't look half as bad today as you normally do.",
+      "(T) Supportive. I'm sure you'll do great, there's nothing to worry about.",
+      "(T) Advisory. You should get going before you miss the ceremony!",
+      "(T) Sociable. We can play together afterwards, if you want.",
+      "(T) Concerned. If you don't go now, you'll miss it!",
+      "(T) Reassuring. I'll be waiting for you here."
+    ]
+  },
+
+  {"op": "replace", "path": "/scriptConfig/dialog/complain/default/neki",
+    "value": [
+      "(T) Snarky. At least petals are easier to sweep up than fur."
+    ]
+  }
+]

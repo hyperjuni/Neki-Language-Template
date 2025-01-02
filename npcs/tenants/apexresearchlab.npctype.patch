@@ -1,0 +1,10 @@
+[
+  {"op": "replace", "path": "/scriptConfig/dialog/converse/neki/default",
+    "value" : [
+      "(T) I hope you'll be coopurrative. You know what happens to trraitors...",
+      "(T) I'm purrtending to be a scientist so that I can do fun stuff!",
+      "(T) I'm here for some very impurrtant stuff, don't mind me.",
+      "(T) Are you a trrraitor? I don't like them! Not sure why."
+    ]
+  }
+]

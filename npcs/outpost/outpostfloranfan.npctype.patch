@@ -1,0 +1,10 @@
+[
+  {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/neki",
+    "value": [
+      "(T) Floran happy to ssee Neki here!",
+      "(T) Floran try be like human, no sstab and no fight for now.",
+      "(T) Neki looksss like human, Floran wantsss to look like human too.",
+      "(T) Following Neki around gives Floran great joy!"
+    ]
+  }
+]

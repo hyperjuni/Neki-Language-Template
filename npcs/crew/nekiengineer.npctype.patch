@@ -1,0 +1,20 @@
+[
+  {"op": "replace", "path": "/scriptConfig/dialog/crewmember/roleDescription/neki/default/2",
+    "value": "(T) I'll go drop something in the engine room."
+  },
+  {"op": "replace", "path": "/scriptConfig/dialog/crewmember/roleDescription/neki/default/1",
+    "value": "(T) I dropped something on the engine and now it works faster."
+  },
+  {"op": "replace", "path": "/scriptConfig/dialog/crewmember/roleDescription/neki/default/0",
+    "value": "(T) I tripped on some cables and your engine is whirring faster now. You're welcome."
+  },
+  {"op": "replace", "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/1",
+    "value": "(T) Why am I... whatever this is?!"
+  },
+  {"op": "replace", "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
+    "value": "(T) Hey, I'm supposed to be a Neki!"
+  },
+  {"op": "replace", "path": "/scriptConfig/crew/role/field",
+    "value": "(T) Stuff-Dropping"
+  }
+]

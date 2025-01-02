@@ -1,0 +1,47 @@
+[
+  {"op": "replace", "path": "/tagCriteria/neki",
+    "value": {
+      "default": [
+        "(T) Put my stuff back!",
+        "(T) You brroke everything!",
+        "(T) Where'd you put my toys!?"
+      ]
+    }
+  },
+  {"op": "replace", "path": "/enclosedArea/neki",
+    "value": {
+      "default": [
+        "(T) Can you please fix my home?",
+        "(T) My home is a little brroken...",
+        "(T) It's not cozy with the wall being like that!"
+      ]
+    }
+  },
+  {"op": "replace", "path": "/otherDeed/neki",
+    "value": {
+      "default": [
+        "(T) Khhh! I won't share my home!",
+        "(T) Why is there a smelly stranger in my home!?",
+        "(T) If someone moves in, they'll become my dinner."
+      ]
+    }
+  },
+  {"op": "replace", "path": "/severe/neki",
+    "value": {
+      "default": [
+        "(T) I think I'll need to find a new home.",
+        "(T) It's not fun at all to live like this!",
+        "(T) I will claw you if you don't fix this soon!"
+      ]
+    }
+  },
+  {"op": "replace", "path": "/final/neki",
+    "value": {
+      "default": [
+        "(T) I give up, I'll go live in a box instead.",
+        "(T) Living here has been terrible, I can't do it anymore...",
+        "(T) You clearly don't love me enough, so I'll go find someone who does!"
+      ]
+    }
+  }
+]

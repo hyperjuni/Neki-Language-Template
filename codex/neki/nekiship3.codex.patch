@@ -1,0 +1,13 @@
+[
+  {"op": "replace", "path": "/contentPages",
+    "value": [
+"(T) Capturing the asset is proving to be more... challenging than the original plan has ever accounted for.
+
+The subject has recognized us by smell and doesn't seem to be at all alarmed by our presence; our cover was nearly blown multiple times by its incessant attempts at greeting us.
+
+^cyan;Acquiring the target without violating the mission parameters is beginning to appear highly unlikely at this stage.^reset;"
+    ]
+  },
+  {"op": "replace", "path": "/description", "value": "(T) A classified Miniknog mission report."},
+  {"op": "replace", "path": "/title", "value": "(T) Extraction Mission: Day 3"}
+]

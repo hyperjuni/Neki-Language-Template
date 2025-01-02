@@ -1,0 +1,32 @@
+[
+  {"op": "replace", "path": "/novakidDescription",
+    "value": "(T) Seems t'me like this pillow is made of small banners."
+  },
+  {"op": "replace", "path": "/nekiDescription",
+    "value": "(T) Too many stitches, but I rrreally like the color!"
+  },
+  {"op": "replace", "path": "/hylotlDescription",
+    "value": "(T) An interesting choice of materials for a pillow."
+  },
+  {"op": "replace", "path": "/humanDescription",
+    "value": "(T) Welp, at least those napkin-sized banners weren't used for worse stuff."
+  },
+  {"op": "replace", "path": "/glitchDescription",
+    "value": "(T) Dismayed. I'd hate to be an Avian and see this."
+  },
+  {"op": "replace", "path": "/floranDescription",
+    "value": "(T) Thisss pillow made of birdman napkinsss."
+  },
+  {"op": "replace", "path": "/avianDescription",
+    "value": "(T) Kluex almighty! Avian children's rite of passage banners made into...this thing!"
+  },
+  {"op": "replace", "path": "/apexDescription",
+    "value": "(T) Frankly, a better use for symbolic pieces of cloth."
+  },
+  {"op": "replace", "path": "/description",
+    "value": "(T) A pillow made of multiple small Avian banners stitched together."
+  },
+  {"op": "replace", "path": "/shortdescription",
+    "value": "(T) Neki Pillow - Yellow"
+  }
+]

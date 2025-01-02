@@ -1,0 +1,4 @@
+[
+  {"op": "replace", "path": "/shortdescription", "value": "(T) Nekini Top"},
+  {"op": "replace", "path": "/description", "value": "(T) Pure torture."}
+]

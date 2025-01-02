@@ -1,0 +1,35 @@
+[
+  {"op": "replace", "path": "/emptyText",
+    "value": "(T) This box doesn't seem contain anything, and isn't large enough to be useful in any meaningful way."
+  },
+  {"op": "replace", "path": "/novakidDescription",
+    "value": "(T) Sum'n's off 'bout this 'ere box."
+  },
+  {"op": "replace", "path": "/nekiDescription",
+    "value": "(T) The best box for the best butt!"
+  },
+  {"op": "replace", "path": "/hylotlDescription",
+    "value": "(T) It's quite a festive-looking box, but something about it is making me feel uneasy."
+  },
+  {"op": "replace", "path": "/humanDescription",
+    "value": "(T) Presents! Gifts! Wrapping! Yeah! Whoo!"
+  },
+  {"op": "replace", "path": "/glitchDescription",
+    "value": "Внимательность. Этот подарок никому не адресован."
+  },
+  {"op": "replace", "path": "/floranDescription",
+    "value": "(T) Floran want present! Ssstab everything!"
+  },
+  {"op": "replace", "path": "/avianDescription",
+    "value": "Какой-то этот подарок.. вонючий."
+  },
+  {"op": "replace", "path": "/apexDescription",
+    "value": "(T) I have a bad feeling about this gift."
+  },
+  {"op": "replace", "path": "/description",
+    "value": "(T) A small, brightly-colored giftbox."
+  },
+  {"op": "replace", "path": "/shortdescription",
+    "value": "(T) Neki Basic Chair"
+  }
+]

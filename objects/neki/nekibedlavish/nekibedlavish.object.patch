@@ -1,0 +1,32 @@
+[
+  {"op": "replace", "path": "/novakidDescription",
+    "value": "(T) Holy molly, that's one gaudy-lookin' bed!"
+  },
+  {"op": "replace", "path": "/nekiDescription",
+    "value": "(T) This is the purrdiest, most comfurrtable bed in the entire universe!"
+  },
+  {"op": "replace", "path": "/hylotlDescription",
+    "value": "(T) Who in their right mind would make such an astoundingly tasteless piece of furniture..?"
+  },
+  {"op": "replace", "path": "/humanDescription",
+    "value": "(T) That's one heck of a luxurious place to sleep!"
+  },
+  {"op": "replace", "path": "/glitchDescription",
+    "value": "(T) Shocked: Never have I seen so much luxury cobbled together in such an impractical way."
+  },
+  {"op": "replace", "path": "/floranDescription",
+    "value": "(T) Thisss where Floran's couch went?!"
+  },
+  {"op": "replace", "path": "/avianDescription",
+    "value": "(T) Such a grotesque display of blasphemous artefact thievery!"
+  },
+  {"op": "replace", "path": "/apexDescription",
+    "value": "(T) A bed like this would offend even Big Ape's tastes."
+  },
+  {"op": "replace", "path": "/description",
+    "value": "(T) A bed made out of various opulent items."
+  },
+  {"op": "replace", "path": "/shortdescription",
+    "value": "(T) Neki Lavish Bed"
+  }
+]

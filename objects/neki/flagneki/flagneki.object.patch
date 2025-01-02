@@ -1,0 +1,32 @@
+[
+  {"op": "replace", "path": "/novakidDescription",
+    "value": "(T) Ain't this jus' the sweetest darn panty!"
+  },
+  {"op": "replace", "path": "/nekiDescription",
+    "value": "(T) A thingy that smells like its owner, on a stick!"
+  },
+  {"op": "replace", "path": "/hylotlDescription",
+    "value": "(T) What indecent creature would purposefully display their undergarment this way?"
+  },
+  {"op": "replace", "path": "/humanDescription",
+    "value": "(T) That's one way to mark your turf, I suppose."
+  },
+  {"op": "replace", "path": "/glitchDescription",
+    "value": "(T) Amused. Somebody somewhere is running around bottomless."
+  },
+  {"op": "replace", "path": "/floranDescription",
+    "value": "(T) Flag hasss Nekismell, makes Floran happy!"
+  },
+  {"op": "replace", "path": "/avianDescription",
+    "value": "(T) Looks like a good use for underwear... Mine feel awful on the feathers!"
+  },
+  {"op": "replace", "path": "/apexDescription",
+    "value": "(T) Interesting... I guess this makes sense on an animal level."
+  },
+  {"op": "replace", "path": "/description",
+    "value": "(T) That's.. one way to mark your territory."
+  },
+  {"op": "replace", "path": "/shortdescription",
+    "value": "(T) Neki Flag"
+  }
+]

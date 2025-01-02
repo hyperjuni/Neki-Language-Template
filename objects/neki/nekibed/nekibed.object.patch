@@ -1,0 +1,32 @@
+[
+  {"op": "replace", "path": "/novakidDescription",
+    "value": "(T) A flimsy ol' box full o' pillows."
+  },
+  {"op": "replace", "path": "/nekiDescription",
+    "value": "(T) I fits and I sleeps."
+  },
+  {"op": "replace", "path": "/hylotlDescription",
+    "value": "(T) A suspiciously warm cardboard box. Looks like it's being used as shelter by an animal."
+  },
+  {"op": "replace", "path": "/humanDescription",
+    "value": "(T) A busted smelly cardboard box. Looks like it's seen better days."
+  },
+  {"op": "replace", "path": "/glitchDescription",
+    "value": "(T) Intrigued. This box is in disrepair, but looks like it's being actively used."
+  },
+  {"op": "replace", "path": "/floranDescription",
+    "value": "(T) Box is good hiding place, and cozy inssside."
+  },
+  {"op": "replace", "path": "/avianDescription",
+    "value": "(T) A fairly large cardboard box with some bitemarks."
+  },
+  {"op": "replace", "path": "/apexDescription",
+    "value": "(T) An unappealing cardboard box with an odd smell."
+  },
+  {"op": "replace", "path": "/description",
+    "value": "(T) A beat-up box with scratches and fur all over, filled with crudely-made pillows."
+  },
+  {"op": "replace", "path": "/shortdescription",
+    "value": "(T) Neki Basic Bed"
+  }
+]

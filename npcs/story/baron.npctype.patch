@@ -1,0 +1,44 @@
+[
+  {"op": "replace", "path": "/scriptConfig/dialog/baron/start/default/neki",
+    "value": [
+      "(T) Excited. A Neki, and in my fortress! How delightful!",
+      "(T) Jovial. I did not realize that\nit was Caturday already!\nHa ha ha ha!",
+      "(T) Observant. Hmm?\nYou want to play with me? Oh, with that thing..."
+    ]
+  },
+
+  {"op": "replace", "path": "/scriptConfig/dialog/baron/showRelic/default/neki",
+    "value": [
+      "(T) Reminiscing. I found it some years ago and it's mine now; it's pretty and I like it.",
+      "(T) Uppity. Paws off!\nHaven't you heard of what curiosity did to the cat?",
+      "(T) Dismissive. Well, I hope you find some other nice toys to play with. Bye now!"
+    ]
+  },
+
+  {"op": "replace", "path": "/scriptConfig/dialog/baron/alerted/default/neki",
+    "value": [
+      "(T) Startled. Do you hear...\n or, rather, SMELL that?",
+      "(T) Aggravated. Those cloaked vagrants! Back again!\nThis is the fourth time!", 
+      "(T) Upset. They have been keeping me busier than a one-eyed cat watching two mouse holes!",
+      "(T) Decisive. Let's make a deal!\nYou hunt down the cultists, and I'll let you play with the shiny bauble."
+    ]
+  },
+
+  {"op": "replace", "path": "/scriptConfig/dialog/baron/finalWaveComplete/default/neki",
+    "value": [
+      "(T) Impressed. Dog my cats, brilliant work! I doubt I'll suffer a return visit from them...",
+      "(T) Gracious: I reckon you earned your right to play with...",              
+      "(T) Aghast. What's that\nin the sky?!",
+      "(T) Speechless. ..."
+    ]
+  },
+
+  {"op": "replace", "path": "/scriptConfig/dialog/baron/missionComplete/default/neki",
+    "value": [
+      "(T) Astounded. You sure do\nhave nine lives!",
+      "(T) Galvanised. You can have the artifact outright, but only if I come along with it.",
+      "(T) Helpful. Let's use my teleporter back there, and go sort this business out.",
+      "(T) Reflective. I've been feeling like a cat on a hot tin roof around here lately, anyway."
+    ]
+  }
+]

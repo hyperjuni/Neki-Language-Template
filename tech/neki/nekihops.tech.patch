@@ -1,0 +1,5 @@
+[
+  {"op": "replace", "path": "/description",
+    "value": "(T) Double tap ^green;[A]^reset; or ^green;[D] ^reset;to Hop, hold ^green;[S]^reset; then ^green;[W]^reset; to Pounce!"},
+  {"op": "replace", "path": "/shortDescription", "value": "(T) Neki Hops"}
+]

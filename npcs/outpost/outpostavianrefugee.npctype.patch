@@ -1,0 +1,11 @@
+[
+  {"op": "replace", "path": "/scriptConfig/dialog/converse/avian/neki",
+    "value": [
+      "(T) Should I be afraid of you, Neki? I'm not sure anymore.",
+      "(T) I almost became an Ascendant, I stared in the face of certain death...",
+      "(T) I do not fear it anymore.",
+      "(T) Kluex will not help me, as it is but a myth.",
+      "(T) Shall I run away once again, or face my destiny?"
+    ]
+  }
+]

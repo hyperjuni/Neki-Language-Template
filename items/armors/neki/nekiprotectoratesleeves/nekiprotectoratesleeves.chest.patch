@@ -1,0 +1,4 @@
+[
+  {"op": "replace", "path": "/shortdescription", "value": "(T) Neki Protectorate Sleeves"},
+  {"op": "replace", "path": "/description", "value": "(T) A custom-tailored Terrene Protectorate uniform's sleeves."}
+]

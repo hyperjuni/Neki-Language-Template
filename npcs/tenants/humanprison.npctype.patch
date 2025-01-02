@@ -1,0 +1,10 @@
+[
+  {"op": "replace", "path": "/scriptConfig/dialog/converse/neki/default",
+    "value" : [
+      "(T) Don't worry, I'm not dangerous! I was in purrison for being too playful...",
+      "(T) I only wanted to play, but ended up in purrison somehow.",
+      "(T) I just got out of purrison! It was fun!",
+      "(T) Do I look edgy in this jumpsuit?"
+    ]
+  }
+]

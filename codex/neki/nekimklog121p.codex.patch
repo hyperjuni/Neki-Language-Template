@@ -1,0 +1,11 @@
+[
+  {"op": "replace", "path": "/contentPages",
+    "value": [
+"(T) ...and frankly, it's getting increasingly harder to blame them. Most specimen appear to have gone through multiple generations of unnatural evolution, which prioritized their 'cute' and 'endearing' aspects above all else.
+
+They literally EVOLVED to be this alluring, and any material we use from current specimen will naturally exhibit the same qualities. The way those ruthless primordial predators transformed into adorable companions could be the subject for an entire research project in and of itself!"
+    ]
+  },
+  {"op": "replace", "path": "/description", "value": "(T) A private log entry by a Miniknog genetic research scientist."},
+  {"op": "replace", "path": "/title", "value": "(T) Log 3489.#0121; Personal"}
+]

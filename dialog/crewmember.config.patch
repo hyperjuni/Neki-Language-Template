@@ -1,0 +1,17 @@
+[
+  {"op": "replace", "path": "/converse/neki",
+    "value": {
+      "default": [
+        "(T) I like our huge metal box!",
+        "(T) Let's just sleep all day.",
+        "(T) What's for  breakfast?",
+        "(T) Can we play today?",
+        "(T) Let's go sleep.",
+        "(T) I wanna sleep!",
+        "(T) I wanna play!",
+        "(T) Purrr...",
+        "(T) Mrrow?"
+      ]
+    }
+  }
+]

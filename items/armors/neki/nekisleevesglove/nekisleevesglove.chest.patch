@@ -1,0 +1,4 @@
+[
+  {"op": "replace", "path": "/shortdescription", "value": "(T) Neki Sleeves - Glove"},
+  {"op": "replace", "path": "/description", "value": "(T) For touching yucky stuff, but in style."}
+]

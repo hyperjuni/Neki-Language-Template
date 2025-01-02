@@ -1,0 +1,29 @@
+[
+  {"op": "replace", "path": "/novakidDescription",
+    "value": "(T) Time to reboot this station so I can talk to SAIL."
+  },
+  {"op": "replace", "path": "/nekiDescription",
+    "value": "(T) No wonder we're stuck, SAIL is broken!"
+  },
+  {"op": "replace", "path": "/hylotlDescription",
+    "value": "(T) This console will allow me to communicate with SAIL. I need to reboot it first."
+  },
+  {"op": "replace", "path": "/humanDescription",
+    "value": "(T) If I can reboot this station SAIL should come back online!"
+  },
+  {"op": "replace", "path": "/glitchDescription",
+    "value": "(T) Distressed. I first need to reboot this station to communicate with SAIL."
+  },
+  {"op": "replace", "path": "/floranDescription",
+    "value": "(T) Floran fix thisss panel to wake ship up!"
+  },
+  {"op": "replace", "path": "/avianDescription",
+    "value": "(T) Rebooting this station should enable me to talk to SAIL."
+  },
+  {"op": "replace", "path": "/apexDescription",
+    "value": "(T) When it's working, I can talk to SAIL through this console."
+  },
+  {"op": "replace", "path": "/description",
+    "value": "(T) Ship-based Artificial Intelligence Lattice, or S.A.I.L for short."
+  }
+]

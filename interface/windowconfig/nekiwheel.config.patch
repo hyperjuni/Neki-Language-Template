@@ -1,0 +1,10 @@
+[
+  {"op": "replace", "path": "/paneLayout/filter/hint", "value": "(T) Search"},
+  {"op": "replace", "path": "/paneLayout/lblProduct/value", "value": "(T) MATERIALS AVAILABLE"},
+  {"op": "replace", "path": "/paneLayout/btnStopCraft/caption", "value": "(T) Stop"},
+  {"op": "replace", "path": "/paneLayout/btnCraft/caption", "value": "(T) Craft"},
+  {"op": "replace", "path": "/paneLayout/lblProducttitle/value", "value": "(T) PRODUCT"},
+  {"op": "replace", "path": "/paneLayout/lblSchematics/value", "value": "(T) BLUEPRINTS"},
+  {"op": "replace", "path": "/paneLayout/windowtitle/subtitle", "value": "(T)  Neki Thingies"},
+  {"op": "replace", "path": "/paneLayout/windowtitle/title", "value": "(T)  NEKI WHEEL"}
+]

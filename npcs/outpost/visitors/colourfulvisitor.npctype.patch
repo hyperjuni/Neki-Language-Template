@@ -1,0 +1,13 @@
+[
+  {"op": "replace", "path": "/scriptConfig/dialog/converse/default/neki",
+    "value": [
+      "(T) Proud. We Rainbow Rogues may know little of you, but if you fight for the greater good, you are a friend!",
+      "(T) Suspicious. You wouldn't happen to know much about an eye cult, would you? You're not with them, are you?",
+      "(T) Flamboyant. Our colors depict our pride and presence to everyone; we are not afraid to be the shining symbol of justice!",
+      "(T) Valiant. The Guild of the Rainbow Rogues protect the innocent from harm! We are a serious institution!",
+      "(T) Friendly. I may be a Rainbow Rogue, but it doesn't mean we cannot converse!",
+      "(T) Boastful. I am on an errand on behalf of my kin, the Rainbow Rogues!",
+      "(T) Friendly. Well met, friend!"
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {"op": "replace", "path": "/converse/default/neki",
+    "value": [
+      "(T) I won't interfere, agent, unless you disturb the peace.",
+      "(T) You are free to act, agent, but try not to make a mess.",
+      "(T) I'm loyal to Big Ape, and comply with his directives.",
+      "(T) You do your thing, and I'll be keeping the peace.",
+      "(T) Conform to the directive of conduct, please.",
+      "(T) Welcome, agent. Do you require assistance?",
+      "(T) I bow to the might of the Miniknog.",
+      "(T) I trust the judgement of Big Ape.",
+      "(T) Loyalty to the Miniknog, agent.",
+      "(T) Big Ape is guiding you well."
+    ]
+  }
+]

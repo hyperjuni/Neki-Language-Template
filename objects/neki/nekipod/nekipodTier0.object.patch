@@ -1,0 +1,32 @@
+[
+  {"op": "replace", "path": "/novakidDescription",
+    "value": "(T) I ain't going near that."
+  },
+  {"op": "replace", "path": "/nekiDescription",
+    "value": "(T) I love mother."
+  },
+  {"op": "replace", "path": "/hylotlDescription",
+    "value": "(T) It appears to be intended for some sort of creature, perhaps an aquatic one."
+  },
+  {"op": "replace", "path": "/humanDescription",
+    "value": "(T) Hey, this looks about the right size for me!"
+  },
+  {"op": "replace", "path": "/glitchDescription",
+    "value": "(T) Attentive. Machine appears to be life support for some unknown creature."
+  },
+  {"op": "replace", "path": "/floranDescription",
+    "value": "(T) Sssuch machines are unnatural."
+  },
+  {"op": "replace", "path": "/avianDescription",
+    "value": "(T) This is dark science..."
+  },
+  {"op": "replace", "path": "/apexDescription",
+    "value": "(T) I've never seen a pod this large before, I wonder what it's meant to contain."
+  },
+  {"op": "replace", "path": "/description",
+    "value": "(T) This Neki life support pod seems to be offline."
+  },
+  {"op": "replace", "path": "/shortdescription",
+    "value": "(T) Neki Pod (offline)"
+  }
+]

@@ -1,0 +1,4 @@
+[
+  {"op": "replace", "path": "/shortdescription", "value": "(T) Neki Scientist Coat"},
+  {"op": "replace", "path": "/description", "value": "(T) Obstructs your highly sensitive self while handling highly sensitive stuff."}
+]

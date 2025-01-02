@@ -1,0 +1,32 @@
+[
+  {"op": "replace", "path": "/novakidDescription",
+    "value": "(T) This light is nearly as bright as me!"
+  },
+  {"op": "replace", "path": "/nekiDescription",
+    "value": "(T) A way to shed some light on things."
+  },
+  {"op": "replace", "path": "/hylotlDescription",
+    "value": "(T) A pleasant, soft light."
+  },
+  {"op": "replace", "path": "/humanDescription",
+    "value": "(T) I've always wanted to be in the spotlight."
+  },
+  {"op": "replace", "path": "/glitchDescription",
+    "value": "(T) Stealthy. By analysing this floodlight's patterns, it would be easy to sneak around it."
+  },
+  {"op": "replace", "path": "/floranDescription",
+    "value": "(T) Floran feelss like centre of attention."
+  },
+  {"op": "replace", "path": "/avianDescription",
+    "value": "(T) A soft light."
+  },
+  {"op": "replace", "path": "/apexDescription",
+    "value": "(T) Such spotlights are used by the Miniknog to force people to talk. Spotlights, and worse..."
+  },
+  {"op": "replace", "path": "/description",
+    "value": "(T) This soft light is useful for illuminating small areas."
+  },
+  {"op": "replace", "path": "/shortdescription",
+    "value": "(T) Miniknog Shiplight"
+  }
+]

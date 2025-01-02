@@ -1,0 +1,11 @@
+[
+  {"op": "replace", "path": "/scriptConfig/dialog/converse/default/neki",
+    "value": [
+      "(T) Not many Floran become Protectorsss. Floran isss glad Neki and Floran were chosen!",
+      "(T) Floran hopesss this will mean more ssstabbing optionssss for Floran.",
+      "(T) And more clawing opportunitiesss for Neki!",
+      "(T) Floran and Neki would make a fearsssome crew! Floran can't wait for firsst mission!",
+      "(T) Floran thinksss Neki should hurry up and get to sstage!"
+    ]
+  }
+]

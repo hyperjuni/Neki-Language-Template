@@ -1,0 +1,18 @@
+[
+  {"op": "replace", "path": "/scriptConfig/dialog/converse/neki/default",
+    "value" : [
+      "(T) I'm here to take naps and chew sparrkly ropes! And I'm all out of ropes.",
+      "(T) I'm an electrrrician, but... I have no idea how any of this works.",
+      "(T) I'd rrrather be napping, but I have sparrkly ropes to play with.",
+      "(T) You'll be shocked to find out how good of an electrrician I am!",
+      "(T) This suit isn't comfurrtable at all, why do I even wear it?",
+      "(T) These sparrkly ropes aren't going to play with themselves!",
+      "(T) I'm here to play with all these electrical cirrcuits!",
+      "(T) Do you think I look cute in this plastic hat?",
+      "(T) I may shock you.. with how good I am at this!",
+      "(T) Nice sparrkly rope you have. Can I touch?",
+      "(T) I'm here to play with sparrkly ropes!",
+      "(T) This helmet is making my ears itch."
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {"op": "replace", "path": "/scriptConfig/dialog/converse/hylotl/neki",
+    "value": [
+      "(T) I may seem weak to you, but test me and you may witness the resolve we Hylotl have.",
+      "(T) Many of us fear your kind, but seeing you I'm beginning to suspect those fears may be unfounded.",
+      "(T) I may tolerate your presence, but you will not catch me off-guard, Neki."
+    ]
+  }
+]

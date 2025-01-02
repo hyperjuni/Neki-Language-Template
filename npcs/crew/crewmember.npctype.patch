@@ -1,0 +1,82 @@
+[
+  {"op": "replace", "path": "/scriptConfig/dialog/crewmember/offer/neki",
+    "value": {
+      "default": [
+        "(T) So how's the food at your place?",
+        "(T) Alright, show me your place.",
+        "(T) You're taking me with you.",
+        "(T) You know you want me."
+      ]
+    }
+  },
+  {"op": "replace", "path": "/scriptConfig/dialog/crewmember/roleDescription/neki",
+    "value": {
+      "default": [
+        "(T) So I'll sleep over here and over there and also on that thing.",
+        "(T) Can't wait to play with all the cool toys we have!",
+        "(T) Just show me where the food is and you can go.",
+        "(T) You'll be taking me with you on hunts, yes?",
+        "(T) I'll just live with you, then.",
+        "(T) This will do I guess."
+      ]
+    }
+  },
+  {"op": "replace", "path": "/scriptConfig/dialog/crewmember/respawned/neki",
+    "value": {
+      "default": [
+        "(T) Oh, we're back here again.",
+        "(T) I was here the whole time.",
+        "(T) Let's do THAT again!",
+        "(T) And now I'm sleepy.",
+        "(T) And now I'm hungry.",
+        "(T) My ear is brroken.",
+        "(T) Eight more to go."
+      ]
+    }
+  },
+  {"op": "replace", "path": "/scriptConfig/dialog/crewmember/unfollow/neki",
+    "value": {
+      "default": [
+        "(T) If you return without snacks, we'll have a purroblem.",
+        "(T) Fine, I'll go drop your all stuff then.",
+        "(T) I'll just go pee on your shoes then.",
+        "(T) Don't come back empty-handed!",
+        "(T) Guess I'll just sleep, then.",
+        "(T) You're gonna go without me?",
+        "(T) Didn't want to go anyway.",
+        "(T) But I wanted to come!"
+      ]
+    }
+  },
+  {"op": "replace", "path": "/scriptConfig/dialog/crewmember/follow/neki",
+    "value": {
+      "default": [
+        "(T) Adventure time!",
+        "(T) Hunting time!",
+        "(T) Murrvellous!",
+        "(T) Can't wait!",
+        "(T) Purrfect!",
+        "(T) Let's go!",
+        "(T) Outside?",
+        "(T) Walkies?",
+        "(T) Finally!",
+        "(T) Coming!",
+        "(T) Mrraw!"
+      ]
+    }
+  },
+  {"op": "replace", "path": "/scriptConfig/dialog/crewmember/cantreach/neki",
+    "value": {
+      "default": [
+        "(T) Come back, it's more fun here!",
+        "(T) I like it more over here.",
+        "(T) Wait, I need to pee.",
+        "(T) Over here's better!",
+        "(T) I like this thing.",
+        "(T) Fascinating.",
+        "(T) Interesting.",
+        "(T) *stares*"
+      ]
+    }
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {"op": "replace", "path": "/scriptConfig/dialog/converse/default/neki",
+    "value": [
+      "(T) Such flashy fangs!\nWant your ship flashy too? Come visit Penguin Bay out back!"
+    ]
+  }
+]

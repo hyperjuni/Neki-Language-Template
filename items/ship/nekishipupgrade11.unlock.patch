@@ -1,0 +1,4 @@
+[
+  {"op": "replace", "path": "/description", "value": "(T) A destructible version of the Neki T10 ship."},
+  {"op": "replace", "path": "/shortdescription", "value": "(T) Tier 11 ship upgrade"}
+]

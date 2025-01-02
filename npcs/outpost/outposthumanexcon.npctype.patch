@@ -1,0 +1,10 @@
+[
+  {"op": "replace", "path": "/scriptConfig/dialog/converse/human/neki",
+    "value": [
+      "(T) I've done some things I'm not proud of, but I guess I haven't done enough if YOU are here.",
+      "(T) Sure, Earth may not have been perfect, but it was my home. You have taken that away from us.",
+      "(T) Oh, the things I'd do to you if we'd met elsewhere...",
+      "(T) Get out of my sight before I stop being nice."
+    ]
+  }
+]

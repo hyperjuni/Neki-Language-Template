@@ -1,0 +1,24 @@
+[
+  {"op": "replace", "path": "/converse/default/neki",
+    "value": [
+      "(T) May Kluex's light guide you."
+    ]
+  },
+
+  {"op": "replace", "path": "/converse/avian/neki",
+    "value": [
+      "(T) Kluex give me strength...",
+      "(T) By Kluex's wings! A Neki! Hide!",
+      "(T) Let me live fluffy one, I implore you!",
+      "(T) You're so terrifying, yet so... beautiful!",
+      "(T) I don't fear you Neki, not with Kluex by my side.",
+      "(T) If my demise by your claws is the will of Kluex, so be it.",
+      "(T) I'd make a poor meal, I'm all feathers and bones!",
+      "(T) The Avoscript doesn't mention your kind...",
+      "(T) How can something so cute be this mean..?",
+      "(T) Did Kluex send you to punish us?",
+      "(T) Oh, what sharp fangs you have!",
+      "(T) Kluex have mercy! A Neki!"
+    ]
+  }
+]

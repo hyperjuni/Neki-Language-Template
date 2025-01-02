@@ -1,0 +1,32 @@
+[
+  {"op": "replace", "path": "/novakidDescription",
+    "value": "(T) A good ol' box, servin' double duty as both a table and a lair."
+  },
+  {"op": "replace", "path": "/nekiDescription",
+    "value": "(T) The bestest table!\nI can hops on top AND hide inside!"
+  },
+  {"op": "replace", "path": "/hylotlDescription",
+    "value": "(T) This worn cardboard box seems to have been turned into primitive, crudely-built shelter."
+  },
+  {"op": "replace", "path": "/humanDescription",
+    "value": "(T) Oh my god, is that a box fort?"
+  },
+  {"op": "replace", "path": "/glitchDescription",
+    "value": "(T) Confused. There are better uses for a box, and there are better things to construct shelter out of."
+  },
+  {"op": "replace", "path": "/floranDescription",
+    "value": "(T) Box is good ssstalking sspot and strong enough to ssstand on."
+  },
+  {"op": "replace", "path": "/avianDescription",
+    "value": "(T) This looks and smells like a predator's nest, I better stay away."
+  },
+  {"op": "replace", "path": "/apexDescription",
+    "value": "(T) I didn't realize that homelessness was still a thing out here."
+  },
+  {"op": "replace", "path": "/description",
+    "value": "(T) A sturdy cardboard box that's being used as shelter."
+  },
+  {"op": "replace", "path": "/shortdescription",
+    "value": "(T) Neki Basic Table"
+  }
+]

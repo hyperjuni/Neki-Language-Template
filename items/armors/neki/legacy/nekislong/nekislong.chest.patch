@@ -1,0 +1,4 @@
+[
+  {"op": "replace", "path": "/shortdescription", "value": "(T) Neki Gloves"},
+  {"op": "replace", "path": "/description", "value": "(T) [Non-animated]\nGrab them by anything safely with these."}
+]

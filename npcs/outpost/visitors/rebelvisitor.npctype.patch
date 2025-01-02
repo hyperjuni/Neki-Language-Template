@@ -1,0 +1,11 @@
+[
+  {"op": "replace", "path": "/scriptConfig/dialog/converse/default/neki",
+    "value": [
+      "(T) Gah! Didn't expect to see one of YOU here!",
+      "(T) What is your mission? Some sort of sabotage, I bet.",
+      "(T) Your presence here means that the Miniknog must be getting closer.",
+      "(T) You'll never get anything out of me, so quit following me around!",
+      "(T) I better inform command of this immediately!"
+    ]
+  }
+]

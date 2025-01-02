@@ -1,0 +1,32 @@
+[
+  {"op": "replace", "path": "/novakidDescription",
+    "value": "(T) Somethin' done boogered up this light!"
+  },
+  {"op": "replace", "path": "/nekiDescription",
+    "value": "(T) This light is less boring this way."
+  },
+  {"op": "replace", "path": "/hylotlDescription",
+    "value": "(T) An underpowered light."
+  },
+  {"op": "replace", "path": "/humanDescription",
+    "value": "(T) This light's on the blink."
+  },
+  {"op": "replace", "path": "/glitchDescription",
+    "value": "(T) Concerned. This light is malfunctioning."
+  },
+  {"op": "replace", "path": "/floranDescription",
+    "value": "(T) Broken light makesss Floran dizzy."
+  },
+  {"op": "replace", "path": "/avianDescription",
+    "value": "(T) A flickering light."
+  },
+  {"op": "replace", "path": "/apexDescription",
+    "value": "(T) This light has been tampered with."
+  },
+  {"op": "replace", "path": "/description",
+    "value": "(T) There, I made it better!"
+  },
+  {"op": "replace", "path": "/shortdescription",
+    "value": "(T) Broken Iron Spotlight"
+  }
+]

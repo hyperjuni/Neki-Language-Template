@@ -5,7 +5,7 @@ It can be installed as-is by placing into the 'mods' folder of the game; the pat
 
 To create a full localization using this template:
 - Make sure you are have the [Neki mod](https://github.com/hyperjuni/Neki) installed
-- Download this (Code -> Download Zip) and extract it into Starbound's 'mods' folder
+- Download this (Code -> Download ZIP) and extract it into Starbound's 'mods' folder
 - Translate all of the text that starts with a "(T)" in all of the files of this 'mod' into another language
 - Modify the '_metadata' file - edit the 'author', 'name' and 'friendlyName' fields accordingly
 - Playtest thoroughly to make sure you haven't missed or mistranslated anything

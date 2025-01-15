@@ -19,13 +19,13 @@
     ]
   },
   {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/default",
-      "value": [
-        "(T) It's pretty cold here! My lab coat isn't very warm.",
-        "(T) I wish my research didn't involve being sent to THIS planet...",
-        "(T) I can barely feel my fingers in this cold climate. How can I take notes like this?",
-        "(T) This place may be cold, but it sure is beautiful.",
-        "(T) What brings you here? Are you conducting research too?"
-      ]
+    "value": [
+      "(T) It's pretty cold here! My lab coat isn't very warm.",
+      "(T) I wish my research didn't involve being sent to THIS planet...",
+      "(T) I can barely feel my fingers in this cold climate. How can I take notes like this?",
+      "(T) This place may be cold, but it sure is beautiful.",
+      "(T) What brings you here? Are you conducting research too?"
+    ]
   },
   {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/neki",
     "value": [

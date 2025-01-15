@@ -15,13 +15,13 @@
     "value": "(T) Presents! Gifts! Wrapping! Yeah! Whoo!"
   },
   {"op": "replace", "path": "/glitchDescription",
-    "value": "Внимательность. Этот подарок никому не адресован."
+    "value": "(T) Observant. This present doesn't seem to be addressed to anyone."
   },
   {"op": "replace", "path": "/floranDescription",
     "value": "(T) Floran want present! Ssstab everything!"
   },
   {"op": "replace", "path": "/avianDescription",
-    "value": "Какой-то этот подарок.. вонючий."
+    "value": "(T) This present is smelly."
   },
   {"op": "replace", "path": "/apexDescription",
     "value": "(T) I have a bad feeling about this gift."

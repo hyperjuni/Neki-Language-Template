@@ -9,7 +9,7 @@
     "value": "(T) An inconspicuous storage solution."
   },
   {"op": "replace", "path": "/humanDescription",
-    "value": "(T) A stealthy storage locker. Ninja stash"
+    "value": "(T) A stealthy storage locker. Ninja stash!"
   },
   {"op": "replace", "path": "/glitchDescription",
     "value": "(T) Pleased. This ship's storage system is well concealed."

@@ -1,32 +1,21 @@
 [
-  {"op": "replace", "path": "/scriptConfig/dialog/converse/neki/default/7",
-    "value": "(T) Am I too purrdy to be here?"
+  {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default",
+    "value": [
+      "(T) Hey, I'm supposed to be a Neki!",
+      "(T) Why am I.. whatever this is?!"
+    ]
   },
-  {"op": "replace", "path": "/scriptConfig/dialog/converse/neki/default/6",
-    "value": "(T) There's nothing tasty around here, only furrozen bird-food."
-  },
-  {"op": "replace", "path": "/scriptConfig/dialog/converse/neki/default/5",
-    "value": "(T) I fell asleep in a spacebox and woke up in this cool place!"
-  },
-  {"op": "replace", "path": "/scriptConfig/dialog/converse/neki/default/4",
-    "value": "(T) I purrtend to know what I'm doing, and others just play along."
-  },
-  {"op": "replace", "path": "/scriptConfig/dialog/converse/neki/default/3",
-    "value": "(T) I don't know what I'm doing here, but they purrobably don't either."
-  },
-  {"op": "replace", "path": "/scriptConfig/dialog/converse/neki/default/2",
-    "value": "(T) I'm purrtending to do the same things they are, and it keeps me fed."
-  },
-  {"op": "replace", "path": "/scriptConfig/dialog/converse/neki/default/1",
-    "value": "(T) They were giving me weirrd looks before I put these ugly clothes on."
-  },
-  {"op": "replace", "path": "/scriptConfig/dialog/converse/neki/default/0",
-    "value": "(T) I purrfer this cool place to the hot one the spacebox brrought me from."
-  },
-  {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/1",
-    "value": "(T) Why am I.. whatever this is?!"
-  },
-  {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/0",
-    "value": "(T) Hey, I'm supposed to be a Neki!"
+
+  {"op": "replace", "path": "/scriptConfig/dialog/converse/neki/default",
+    "value": [
+      "(T) I purrfer this cool place to the hot one the spacebox brrought me from.",
+      "(T) They were giving me weirrd looks before I put these ugly clothes on.",
+      "(T) I'm purrtending to do the same things they are, and it keeps me fed.",
+      "(T) I don't know what I'm doing here, but they purrobably don't either.",
+      "(T) I purrtend to know what I'm doing, and others just play along.",
+      "(T) I fell asleep in a spacebox and woke up in this cool place!",
+      "(T) There's nothing tasty around here, only furrozen bird-food.",
+      "(T) Am I too purrdy to be here?"
+    ]
   }
 ]

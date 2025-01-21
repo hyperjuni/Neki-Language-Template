@@ -1,14 +1,18 @@
 [
-  {"op": "replace", "path": "/scriptConfig/dialog/crewmember/roleDescription/neki/default/0",
-    "value": "(T) I'll make your ship suck less...\nof the purrple goo."
-  },
-  {"op": "replace", "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/1",
-    "value": "(T) Why am I... whatever this is?!"
-  },
-  {"op": "replace", "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
-    "value": "(T) Hey, I'm supposed to be a Neki!"
-  },
   {"op": "replace", "path": "/scriptConfig/crew/role/field",
     "value": "(T) Purrple Goo"
+  },
+
+  {"op": "replace", "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default",
+    "value": [
+      "(T) Hey, I'm supposed to be a Neki!",
+      "(T) Why am I... whatever this is?!"
+    ]
+  },
+
+  {"op": "replace", "path": "/scriptConfig/dialog/crewmember/roleDescription/neki/default",
+    "value": [
+      "(T) I'll make your ship suck less...\nof the purrple goo."
+    ]
   }
 ]

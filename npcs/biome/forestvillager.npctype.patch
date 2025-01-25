@@ -2,7 +2,7 @@
   {"op": "replace",  "path": "/scriptConfig/dialog/converse/default/neki",
     "value": [
       "(T) Welcome to the jungle,\nWe've got fun and games!",
-      "(T) I have nothing to say to you"
+      "(T) I have nothing to say to you."
     ]
   },
   {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/neki",

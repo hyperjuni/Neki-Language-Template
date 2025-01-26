@@ -10,7 +10,7 @@ To create a full localization using this template:
 - Modify the '_metadata' file - edit the 'author', 'name' and 'friendlyName' fields accordingly
 - Playtest thoroughly to make sure you haven't missed or mistranslated anything
 - Playtest some more, let your friends playtest it too ^-^
-- Publish your translation to the Steam Workshop (or anywhere else)
+- Publish your translation to the Steam Workshop (and/or anywhere else)
 
 ---
 ## Links

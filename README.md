@@ -7,9 +7,9 @@ How to use:
 - Make sure you are have [Neki](https://github.com/hyperjuni/Neki) installed
 - Download this ('Code' -> 'Download ZIP') and extract it into Starbound's 'mods' folder
 - Translate all of the text that starts with a "(T)" in all of the files into another language
-- Modify the '_metadata' file: edit the 'author', 'name' and 'friendlyName' fields accordingly
+- Modify the '_metadata' file: edit 'author', 'name' and 'friendlyName' accordingly
 - Playtest thoroughly to make sure you haven't missed or mistranslated anything
-- Playtest some more, let your friends playtest it too ^-^
+- Playtest some more, let your friends playtest it too :)
 - Publish your translation to the Steam Workshop (and/or anywhere else)
 
 ---

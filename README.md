@@ -5,12 +5,12 @@ It can be installed as-is by placing into the 'mods' folder of the game; the pat
 
 How to use:
 - Make sure you are have [Neki](https://github.com/hyperjuni/Neki) installed
-- Download this ('Code' -> 'Download ZIP') and extract it into Starbound's 'mods' folder
-- Translate all of the text that starts with a "(T)" in all of the files into another language
+- Download (or clone) this repository into Starbound's 'mods' folder
+- Translate all of the text starting with a "(T)" in all of the files into your language
 - Modify the '_metadata' file: edit 'author', 'name' and 'friendlyName' accordingly
-- Playtest thoroughly to make sure you haven't missed or mistranslated anything
+- Playtest thoroughly, make sure you haven't missed or mistranslated anything
 - Playtest some more, let your friends playtest it too :)
-- Publish your translation to the Steam Workshop (and/or anywhere else)
+- Publish your translation onto the Steam Workshop (and/or anywhere else)
 
 ---
 ## Links

@@ -1,81 +1,101 @@
 [
-  {"op": "replace", "path": "/scriptConfig/dialog/converse/avian/default",
-    "value": [
-      "(T) It's pretty cold here! My lab coat isn't very warm.",
-      "(T) I wish my research didn't involve being sent to THIS planet...",
-      "(T) I can barely feel my fingers in this cold climate. How can I take notes like this?",
-      "(T) This place may be cold, but it sure is beautiful.",
-      "(T) What brings you here? Are you conducting research too?"
-    ]
-  },
-  {"op": "replace", "path": "/scriptConfig/dialog/converse/avian/neki",
-    "value": [
-      "(T) Quit staring at me as if I was food and give me a hand with this research!",
-      "(T) Eating me won't sustain you for long out here, so control your instincts!",
-      "(T) I wish I had a snout like yours, my nares keep freezing up in this cold!",
-      "(T) Either eat me or help with the science, Neki, I don't have all day!",
-      "(T) Is your fur as effective as my feathers against the cold?",
-      "(T) Oh, a Neki! Did you come here to do science too?"
-    ]
-  },
-  {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/default",
-    "value": [
-      "(T) It's pretty cold here! My lab coat isn't very warm.",
-      "(T) I wish my research didn't involve being sent to THIS planet...",
-      "(T) I can barely feel my fingers in this cold climate. How can I take notes like this?",
-      "(T) This place may be cold, but it sure is beautiful.",
-      "(T) What brings you here? Are you conducting research too?"
-    ]
-  },
-  {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/neki",
-    "value": [
-      "(T) I much prefer this remote corner of the universe to the stresses of working at Miniknog facilities.",
-      "(T) After being exiled for refusing to help weaponize your kind, I came here to continue my research.",
-      "(T) It's so surreal, seeing one of you in the flesh. I remember a time when you were just.. research.",
-      "(T) Wait, you're... <entityname>! Don't worry, I know a lot more about you than just your name.",
-      "(T) Are you one of the early prototypes, or a later revision? Let me get a look at you...",
-      "(T) No way, a Neki! How did you manage to escape the secure facilities? What happened?",
-      "(T) Some of my research was used for the program that resulted in.. you."
-    ]
-  },
-  {"op": "replace", "path": "/scriptConfig/dialog/converse/human/default",
-    "value": [
-      "(T) It's pretty cold here! My lab coat isn't very warm.",
-      "(T) I wish my research didn't involve being sent to THIS planet...",
-      "(T) I can barely feel my fingers in this cold climate. How can I take notes like this?",
-      "(T) This place may be cold, but it sure is beautiful.",
-      "(T) What brings you here? Are you conducting research too?"
-    ]
-  },
-  {"op": "replace", "path": "/scriptConfig/dialog/converse/human/neki",
-    "value": [
-      "(T) You look so fluffy and soft, I wish I had someone like you to keep me warm around here.",
-      "(T) With your natural abilities, you could be an invaluable asset to this expedition.",
-      "(T) Having fur like yours must be super convenient for doing science out in the cold.",
-      "(T) This may sound a little unprofessional, but may I snuggle with you? For science!",
-      "(T) What can your huge ears hear out there? Mine only hear the howling of the wind.",
-      "(T) Sorry, I'm too preoccupied with my research to pay any attention to you.",
-      "(T) Got a way to help me with my research, Neki? If not, get out of my way.",
-      "(T) Yes yes, fascinating... Now run along, I'm busy."
-    ]
-  },
-  {"op": "replace", "path": "/scriptConfig/dialog/converse/hylotl/default",
-    "value": [
-      "(T) It's pretty cold here! My lab coat isn't very warm.",
-      "(T) I wish my research didn't involve being sent to THIS planet...",
-      "(T) I can barely feel my fingers in this cold climate. How can I take notes like this?",
-      "(T) This place may be cold, but it sure is beautiful.",
-      "(T) What brings you here? Are you conducting research too?"
-    ]
-  },
-  {"op": "replace", "path": "/scriptConfig/dialog/converse/hylotl/neki",
-    "value": [
-      "(T) I'd send you to collect specimen, but I'm fairly certain you'd just eat them on the way.",
-      "(T) This cold environment is so serene, everything slows down... Except for you, it seems.",
-      "(T) What would a Neki even come to this frozen place for? Can't be the science.",
-      "(T) If all you're looking for is food - why did you come here, of all places?",
-      "(T) Calm down, Neki, and just appreciate the beauty of this place.",
-      "(T) If you damage my research, I will.. be very saddened by that."
-    ]
-  }
+  [
+    {"op": "test", "path": "/scriptConfig/dialog/converse/avian/default/3",
+      "value": "This place may be cold, but it sure is beautiful."
+    },
+    {"op": "replace", "path": "/scriptConfig/dialog/converse/avian/default",
+      "value": [
+        "(T) It's pretty cold here! My lab coat isn't very warm.",
+        "(T) I wish my research didn't involve being sent to THIS planet...",
+        "(T) I can barely feel my fingers in this cold climate. How can I take notes like this?",
+        "(T) This place may be cold, but it sure is beautiful.",
+        "(T) What brings you here? Are you conducting research too?"
+      ]
+    },
+    {"op": "replace", "path": "/scriptConfig/dialog/converse/avian/neki",
+      "value": [
+        "(T) Quit staring at me as if I was food and give me a hand with this research!",
+        "(T) Eating me won't sustain you for long out here, so control your instincts!",
+        "(T) I wish I had a snout like yours, my nares keep freezing up in this cold!",
+        "(T) Either eat me or help with the science, Neki, I don't have all day!",
+        "(T) Is your fur as effective as my feathers against the cold?",
+        "(T) Oh, a Neki! Did you come here to do science too?"
+      ]
+    }
+  ],
+  [
+    {"op": "test", "path": "/scriptConfig/dialog/converse/apex/default/3",
+      "value": "This place may be cold, but it sure is beautiful."
+    },
+    {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/default",
+      "value": [
+        "(T) It's pretty cold here! My lab coat isn't very warm.",
+        "(T) I wish my research didn't involve being sent to THIS planet...",
+        "(T) I can barely feel my fingers in this cold climate. How can I take notes like this?",
+        "(T) This place may be cold, but it sure is beautiful.",
+        "(T) What brings you here? Are you conducting research too?"
+      ]
+    },
+    {"op": "replace", "path": "/scriptConfig/dialog/converse/apex/neki",
+      "value": [
+        "(T) I much prefer this remote corner of the universe to the stresses of working at Miniknog facilities.",
+        "(T) After being exiled for refusing to help weaponize your kind, I came here to continue my research.",
+        "(T) It's so surreal, seeing one of you in the flesh. I remember a time when you were just.. research.",
+        "(T) Wait, you're... <entityname>! Don't worry, I know a lot more about you than just your name.",
+        "(T) Are you one of the early prototypes, or a later revision? Let me get a look at you...",
+        "(T) No way, a Neki! How did you manage to escape the secure facilities? What happened?",
+        "(T) Some of my research was used for the program that resulted in.. you."
+      ]
+    }
+  ],
+  [
+    {"op": "test", "path": "/scriptConfig/dialog/converse/human/default/3",
+      "value": "This place may be cold, but it sure is beautiful."
+    },
+    {"op": "replace", "path": "/scriptConfig/dialog/converse/human/default",
+      "value": [
+        "(T) It's pretty cold here! My lab coat isn't very warm.",
+        "(T) I wish my research didn't involve being sent to THIS planet...",
+        "(T) I can barely feel my fingers in this cold climate. How can I take notes like this?",
+        "(T) This place may be cold, but it sure is beautiful.",
+        "(T) What brings you here? Are you conducting research too?"
+      ]
+    },
+    {"op": "replace", "path": "/scriptConfig/dialog/converse/human/neki",
+      "value": [
+        "(T) You look so fluffy and soft, I wish I had someone like you to keep me warm around here.",
+        "(T) With your natural abilities, you could be an invaluable asset to this expedition.",
+        "(T) Having fur like yours must be super convenient for doing science out in the cold.",
+        "(T) This may sound a little unprofessional, but may I snuggle with you? For science!",
+        "(T) What can your huge ears hear out there? Mine only hear the howling of the wind.",
+        "(T) Sorry, I'm too preoccupied with my research to pay any attention to you.",
+        "(T) Got a way to help me with my research, Neki? If not, get out of my way.",
+        "(T) Yes yes, fascinating... Now run along, I'm busy."
+      ]
+    }
+  ],
+  [
+    {"op": "test", "path": "/scriptConfig/dialog/converse/hylotl/default/3",
+      "value": "This place may be cold, but it sure is beautiful."
+    },
+    {"op": "replace", "path": "/scriptConfig/dialog/converse/hylotl/default",
+      "value": [
+        "(T) It's pretty cold here! My lab coat isn't very warm.",
+        "(T) I wish my research didn't involve being sent to THIS planet...",
+        "(T) I can barely feel my fingers in this cold climate. How can I take notes like this?",
+        "(T) This place may be cold, but it sure is beautiful.",
+        "(T) What brings you here? Are you conducting research too?"
+      ]
+    },
+    {"op": "replace", "path": "/scriptConfig/dialog/converse/hylotl/neki",
+      "value": [
+        "(T) I'd send you to collect specimen, but I'm fairly certain you'd just eat them on the way.",
+        "(T) This cold environment is so serene, everything slows down... Except for you, it seems.",
+        "(T) What would a Neki even come to this frozen place for? Can't be the science.",
+        "(T) If all you're looking for is food - why did you come here, of all places?",
+        "(T) Calm down, Neki, and just appreciate the beauty of this place.",
+        "(T) If you damage my research, I will.. be very saddened by that."
+      ]
+    }
+  ]
 ]

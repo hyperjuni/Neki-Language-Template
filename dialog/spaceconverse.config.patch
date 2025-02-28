@@ -1,177 +1,185 @@
 [
-  {"op": "replace", "path": "/converse/default/neki",
-    "value": [      
-    // Vanilla
-      "(T) Do you ever get scared that you'll fall into the infinite, empty void of space by accident? I know I do!",
-      "(T) One day I'll have my own ship and crew! Captain <selfname> has a nice ring to it, don't you think?",
-      "(T) One day I shall explore the cosmos instead of hanging about here... But today is not that day.",
-      "(T) The great thing about living in space is that there's always room. Infinite room, in fact.",
-      "(T) You'd think that living offworld would get lonely, but... Well, you'd be right, actually.",
-      "(T) You know, it's really hard to maintain a sleep cycle when there's no days or nights.",
-      "(T) I actually don't know if we have to dress like this - I'm just doing it to fit in.",
-      "(T) Hey there! My name is <selfname>. I've been here a while, to say the least.",
-      "(T) Is it night-time outside? Haha, just kidding. It's always night in space!",
-      "(T) Hey, what's the weather outside like? It's still night-time, right?",
-      "(T) In space, no one can hear you... Complain that you're bored.",
-      "(T) Welcome to... Space! Are you new here?"
-    ]
-  },
-  {"op": "replace", "path": "/converse/avian/neki",
-    "value": [
-      "(T) I'm actually just a Human in an Avian suit! That's right! Umm, grr! My home has been destroyed!",
-      "(T) I'll just warn you that I taste awful! And although I can sing, I do not squeak.",
-      "(T) Just keep your distance Neki; don't cause any trouble... I'm warning you!",
-      "(T) Don't come any closer, I have.. space mites! That's right, space mites!",
-      "(T) Eek! How'd you get here?! By Kluex, I hope you're not hungry...",
-      "(T) You don't happen to be a vegetarian? N-no reason, honest!",
-      "(T) Oh dear me, I never thought I'd see one of you up here!",
-      "(T) A Neki! Among the stars! Oh dear Kluex...",
-      "(T) Well ruffle my feathers - a.. new face!",
-  
-    // Vanilla
-      "(T) From up here in space, the entire history of the Avian people feels like merely a footnote in the great tapestry of the universe.",
-      "(T) My people used to believe the stars were the many eyes of their god, Kluex. Science, well, says otherwise.",
-      "(T) To fly through space on board a ship... It isn't like having real wings, but it's close!",
-      "(T) Hello, stranger! I hope you've been vaccinated against space parasites lately!"
-    ]
-  },
-  {"op": "replace", "path": "/converse/apex/neki",
-    "value": [
-      "(T) I knew a scientist who was working on creating you, wonder what happened to them.",
-      "(T) I was hoping to get far away from our Miniknog oppressors, yet here you are.",
-      "(T) I didn't realize that the Miniknog could send their agents this far out.",
-      "(T) It terrifies me how casually everyone seems to treat your presence here.",
-      "(T) Do you also appreciate the fact that there are fewer fleas in space?",
-      "(T) I only seek to be left alone, I have no qualms with you personally.",
-      "(T) You look fearsome and skilled, makes me wish you were on our side.",
-      "(T) What drove you to venture so far outside of Miniknog territory?",
-      "(T) I didn't think the Miniknog's reach was this extensive!",
-      "(T) Feeling lost without your masters out here, Neki?",
-      "(T) I can't help but feel uneasy, seeing you.",
-      "(T) Are you still loyal to the Miniknog?",
-      "(T) Are you.. what I think you are?"
-    ]
-  },
-  {"op": "replace", "path": "/converse/floran/neki",
-    "value": [
-      "(T) Floran's tribe shun Floran for not doing hunt. Now Floran find new tribe in sssky!",
-      "(T) Floran want fight, but others here always say \"no\". Maybe Neki want fight?",
-      "(T) Floran ambush during hunt, but ambush ssspot fly up and now Floran here.",
-      "(T) Neki makesss Floran happy! Finally, not boring company for Floran.",
-      "(T) Floran likes ssspace, more fun things to do than just hunt.",
-      "(T) Floran not like fighting like other Floran, is Neki sssame?",
-      "(T) Floran get higher up in sssky than all of Floran's tribe!",
-      "(T) Neki looking for new tribe in sssky too, like Floran?",
-      "(T) Neki disssapprove of Floran not like hunt very much?",
-      "(T) Floran like ssspace hunt more than foressst hunt.",
-      "(T) Floran's name is <selfname>. What is Neki name?",
-      "(T) Neki like ssspace more than hunt too?"
-    ]
-  },
-  {"op": "replace", "path": "/converse/glitch/neki",
-    "value": [
-      "(T) Intrigued. So you're what the Miniknog created? A product of another product, we should consider this.",
-      "(T) Inquisitive. What kind of things do you like? It'd be interesting to make you something to play with.",
-      "(T) Impatient. Playing with you isn't a priority at the moment. I must continue working.",
-      "(T) Puzzled. Why do I feel the compelled to feed and pet you when I look into your eyes?",
-      "(T) Disappointed. As much as I'd love to romp around with you, I have errands to run.",
-      "(T) Curious. What happens when you run out of energy from all this running around?",
-      "(T) Worried. Those claws and fangs could totally ruin my fresh polish.",
-      "(T) Alert. I don't see your kind often; are you a friend or foe?",
-      "(T) Concerned. Why are you looking at me like that..?",
-      "(T) Amused. You're extremely playful, aren't you?",
-  
-    // Vanilla
-      "(T) Concerned. I thought I'd be free from dangerous monsters when I came to space, but now I hear there are space monsters as well?!",
-      "(T) Eager. Before I gained self-awareness, I hunted monsters for my village. Perhaps I shall do the same here in space?",
-      "(T) Determined. I have come to space to find a professional trade. One day I shall be <selfname>, master engineer!",
-      "(T) Curious. Have you always known about space travel? Did you always dream about venturing through the stars?",
-      "(T) Worried. Now I am in space, I feel so miniscule. How will I make my mark when I matter so little?",
-      "(T) Excited. I spend much of my life not knowing space even existed, and now I am here!",
-      "(T) Amicable. Welcome, spacefarer! I am <selfname>. I wish you well on your travels.",
-      "(T) Pleased. The low-moisture atmosphere in space is good for preventing rust.",
-      "(T) Curious. Are the rumours of space parasites true? I dearly hope not!"
-    ]
-  },
-  {"op": "replace", "path": "/converse/hylotl/neki",
-    "value": [
-      "(T) The tranquility of space inspires my creativity... does it inspire anything besides primitive instincts in YOU?",
-      "(T) You and the Florans must be getting along well, with the way both your species choose to conduct yourselves.",
-      "(T) I believe it to be possible to teach your kind civility, but sadly I do not see the point in doing so.",
-      "(T) You too have a place among the stars... I just hope my kind is lucky enough to not be too close to it.",
-      "(T) I am sentient and my name is <selfname>. Is that not enough for you to not see me merely as dinner?",
-      "(T) Not all creatures we stumble upon out there are as intelligent or friendly as us, but such is life.",
-      "(T) I am cultured enough to not visibly express my distress, can you be civil enough to not justify it?",
-      "(T) You're like a tsunami wave to my tranquil beach; not something I'd hope to have to contend with.",
-      "(T) I am here to learn more about the universe, and you're here just to hunt me? How primitive.",
-      "(T) The fear I feel is not necessarily a bad thing, as it often inspires me to do great things.",
-      "(T) It's fascinating how one of you managed to figure out the intricacies of getting here."
-      
-    ]
-  },
-  {"op": "replace", "path": "/converse/novakid/neki",
-    "value": [
-      "(T) Wouldn't mind havin' one o' ya out at the next prospect, you'd pro'lly find a buncha gold!",
-      "(T) Been curious 'bout yer kind ever since ya started showin'; ever consider settlin' down?",
-      "(T) How'd your type end up gettin' round these parts? Been seein' more o' ya lately.",
-      "(T) An' here I thought I'd be the star o' the show; you stick out more'n I do!",
-      "(T) Do them big ol' ears help much in space, sugar?",
-  
-    // Vanilla
-      "(T) A get a lot o' strange looks from folks up'ere. Guess they ain't used to seein' folks like me 'round these parts.",
-      "(T) Space is the real wild country, ain't it? Bandits to hunt, bars to drink at... It sure is the life!",
-      "(T) You ain't gonna look me in the eyes, partner? I'm jus' foolin' with yer - I ain't got any eyes!",
-      "(T) The stars really call out t' me. I guess it jus' feels right bein' up here, closer to 'em.",
-      "(T) There ain't no law in space. That's purty ideal for rogues an' villains, ain't it?",
-      "(T) Nice t' meet y'all, space cowboy!"
-    ]
-  },
-  {"op": "replace", "path": "/converse/human/default",
-    "value": [
-      "(T) Welcome to... Space! Are you new here?",
-      "(T) Hey, what's the weather outside like? It's still night-time, right?",
-      "(T) Is it night-time outside? Haha, just kidding. It's always night in space!",
-      "(T) You'd think that living offworld would get lonely, but... Well, you'd be right, actually.",
-      "(T) Do you ever get scared that you'll fall into the infinite, empty void of space by accident? I know I do!",
-      "(T) One day I'll have my own ship and crew! Captain <selfname> has a nice ring to it, don't you think?",
-      "(T) I actually don't know if we have to dress like this - I'm just doing it to fit in.",
-      "(T) One day I shall explore the cosmos instead of hanging about here... But today is not that day.",
-      "(T) The great thing about living in space is that there's always room. Infinite room, in fact.",
-      "(T) In space, no one can hear you... Complain that you're bored.",
-      "(T) Hey there! My name is <selfname>. I've been here a while, to say the least.",
-      "(T) You know, it's really hard to maintain a sleep cycle when there's no days or nights."
-    ]
-  },
-  {"op": "replace", "path": "/converse/human/human",
-    "value": [
-      "(T) I don't trust living on planets anymore, especially after what happened to Earth...",
-      "(T) I hope you aren't planning on visiting Earth right now because I have some bad news...",
-      "(T) Welcome to... Space! Are you new here?",
-      "(T) Hey, what's the weather outside like? It's still night-time, right?",
-      "(T) Is it night-time outside? Haha, just kidding. It's always night in space!",
-      "(T) You'd think that living offworld would get lonely, but... Well, you'd be right, actually.",
-      "(T) Do you ever get scared that you'll fall into the infinite, empty void of space by accident? I know I do!",
-      "(T) One day I'll have my own ship and crew! Captain <selfname> has a nice ring to it, don't you think?",
-      "(T) I actually don't know if we have to dress like this - I'm just doing it to fit in.",
-      "(T) One day I shall explore the cosmos instead of hanging about here... But today is not that day.",
-      "(T) The great thing about living in space is that there's always room. Infinite room, in fact.",
-      "(T) In space, no one can hear you... Complain that you're bored.",
-      "(T) Hey there! My name is <selfname>. I've been here a while, to say the least.",
-      "(T) You know, it's really hard to maintain a sleep cycle when there's no days or nights."
-    ]
-  },
-  {"op": "replace", "path": "/converse/human/neki",
-    "value": [
-      "(T) It's a pity you're responsible for the Earth's destruction, with how.. absurdly adorable you are!",
-      "(T) My name's <selfname>, what's yours? Oh that's right, can't have one if you're not a person.",
-      "(T) I really wanted to believe that you were just cute and innocent creatures, but alas.",
-      "(T) Seeing you is bittersweet... you remind me of the amazing time I had on Earth.",
-      "(T) I'm not angry with your kind - just disappointed with mine, for trusting you.",
-      "(T) You've already destroyed our home, came to finish us off for good, Neki?",
-      "(T) I love how fluffy and cute you are! Keep it between us though, alright?",
-      "(T) My best friend back on Earth was a Neki... you remind me of them.",
-      "(T) I'll be damned if I trust a cat with anything in my life again!",
-      "(T) Space is infinite, but there's no room in it for your kind."
-    ]
-  }
+  [
+    {"op": "test", "path": "/converse/human/human/2", "value": "Welcome to... Space! Are you new here?"},
+    {"op": "replace", "path": "/converse/human/human",
+      "value": [
+        "(T) I don't trust living on planets anymore, especially after what happened to Earth...",
+        "(T) I hope you aren't planning on visiting Earth right now because I have some bad news...",
+        "(T) Welcome to... Space! Are you new here?",
+        "(T) Hey, what's the weather outside like? It's still night-time, right?",
+        "(T) Is it night-time outside? Haha, just kidding. It's always night in space!",
+        "(T) You'd think that living offworld would get lonely, but... Well, you'd be right, actually.",
+        "(T) Do you ever get scared that you'll fall into the infinite, empty void of space by accident? I know I do!",
+        "(T) One day I'll have my own ship and crew! Captain <selfname> has a nice ring to it, don't you think?",
+        "(T) I actually don't know if we have to dress like this - I'm just doing it to fit in.",
+        "(T) One day I shall explore the cosmos instead of hanging about here... But today is not that day.",
+        "(T) The great thing about living in space is that there's always room. Infinite room, in fact.",
+        "(T) In space, no one can hear you... Complain that you're bored.",
+        "(T) Hey there! My name is <selfname>. I've been here a while, to say the least.",
+        "(T) You know, it's really hard to maintain a sleep cycle when there's no days or nights."
+      ]
+    }
+  ],
+  [
+    {"op": "test", "path": "/converse/human/default/0", "value": "Welcome to... Space! Are you new here?"},
+    {"op": "replace", "path": "/converse/human/default",
+      "value": [
+        "(T) Welcome to... Space! Are you new here?",
+        "(T) Hey, what's the weather outside like? It's still night-time, right?",
+        "(T) Is it night-time outside? Haha, just kidding. It's always night in space!",
+        "(T) You'd think that living offworld would get lonely, but... Well, you'd be right, actually.",
+        "(T) Do you ever get scared that you'll fall into the infinite, empty void of space by accident? I know I do!",
+        "(T) One day I'll have my own ship and crew! Captain <selfname> has a nice ring to it, don't you think?",
+        "(T) I actually don't know if we have to dress like this - I'm just doing it to fit in.",
+        "(T) One day I shall explore the cosmos instead of hanging about here... But today is not that day.",
+        "(T) The great thing about living in space is that there's always room. Infinite room, in fact.",
+        "(T) In space, no one can hear you... Complain that you're bored.",
+        "(T) Hey there! My name is <selfname>. I've been here a while, to say the least.",
+        "(T) You know, it's really hard to maintain a sleep cycle when there's no days or nights."
+      ]
+    }
+  ],
+  [
+    {"op": "replace", "path": "/converse/default/neki",
+      "value": [      
+      // Vanilla
+        "(T) Do you ever get scared that you'll fall into the infinite, empty void of space by accident? I know I do!",
+        "(T) One day I'll have my own ship and crew! Captain <selfname> has a nice ring to it, don't you think?",
+        "(T) One day I shall explore the cosmos instead of hanging about here... But today is not that day.",
+        "(T) The great thing about living in space is that there's always room. Infinite room, in fact.",
+        "(T) You'd think that living offworld would get lonely, but... Well, you'd be right, actually.",
+        "(T) You know, it's really hard to maintain a sleep cycle when there's no days or nights.",
+        "(T) I actually don't know if we have to dress like this - I'm just doing it to fit in.",
+        "(T) Hey there! My name is <selfname>. I've been here a while, to say the least.",
+        "(T) Is it night-time outside? Haha, just kidding. It's always night in space!",
+        "(T) Hey, what's the weather outside like? It's still night-time, right?",
+        "(T) In space, no one can hear you... Complain that you're bored.",
+        "(T) Welcome to... Space! Are you new here?"
+      ]
+    },
+    {"op": "replace", "path": "/converse/avian/neki",
+      "value": [
+        "(T) I'm actually just a Human in an Avian suit! That's right! Umm, grr! My home has been destroyed!",
+        "(T) I'll just warn you that I taste awful! And although I can sing, I do not squeak.",
+        "(T) Just keep your distance Neki; don't cause any trouble... I'm warning you!",
+        "(T) Don't come any closer, I have.. space mites! That's right, space mites!",
+        "(T) Eek! How'd you get here?! By Kluex, I hope you're not hungry...",
+        "(T) You don't happen to be a vegetarian? N-no reason, honest!",
+        "(T) Oh dear me, I never thought I'd see one of you up here!",
+        "(T) A Neki! Among the stars! Oh dear Kluex...",
+        "(T) Well ruffle my feathers - a.. new face!",
+    
+      // Vanilla
+        "(T) From up here in space, the entire history of the Avian people feels like merely a footnote in the great tapestry of the universe.",
+        "(T) My people used to believe the stars were the many eyes of their god, Kluex. Science, well, says otherwise.",
+        "(T) To fly through space on board a ship... It isn't like having real wings, but it's close!",
+        "(T) Hello, stranger! I hope you've been vaccinated against space parasites lately!"
+      ]
+    },
+    {"op": "replace", "path": "/converse/apex/neki",
+      "value": [
+        "(T) I knew a scientist who was working on creating you, wonder what happened to them.",
+        "(T) I was hoping to get far away from our Miniknog oppressors, yet here you are.",
+        "(T) I didn't realize that the Miniknog could send their agents this far out.",
+        "(T) It terrifies me how casually everyone seems to treat your presence here.",
+        "(T) Do you also appreciate the fact that there are fewer fleas in space?",
+        "(T) I only seek to be left alone, I have no qualms with you personally.",
+        "(T) You look fearsome and skilled, makes me wish you were on our side.",
+        "(T) What drove you to venture so far outside of Miniknog territory?",
+        "(T) I didn't think the Miniknog's reach was this extensive!",
+        "(T) Feeling lost without your masters out here, Neki?",
+        "(T) I can't help but feel uneasy, seeing you.",
+        "(T) Are you still loyal to the Miniknog?",
+        "(T) Are you.. what I think you are?"
+      ]
+    },
+    {"op": "replace", "path": "/converse/floran/neki",
+      "value": [
+        "(T) Floran's tribe shun Floran for not doing hunt. Now Floran find new tribe in sssky!",
+        "(T) Floran want fight, but others here always say \"no\". Maybe Neki want fight?",
+        "(T) Floran ambush during hunt, but ambush ssspot fly up and now Floran here.",
+        "(T) Neki makesss Floran happy! Finally, not boring company for Floran.",
+        "(T) Floran likes ssspace, more fun things to do than just hunt.",
+        "(T) Floran not like fighting like other Floran, is Neki sssame?",
+        "(T) Floran get higher up in sssky than all of Floran's tribe!",
+        "(T) Neki looking for new tribe in sssky too, like Floran?",
+        "(T) Neki disssapprove of Floran not like hunt very much?",
+        "(T) Floran like ssspace hunt more than foressst hunt.",
+        "(T) Floran's name is <selfname>. What is Neki name?",
+        "(T) Neki like ssspace more than hunt too?"
+      ]
+    },
+    {"op": "replace", "path": "/converse/glitch/neki",
+      "value": [
+        "(T) Intrigued. So you're what the Miniknog created? A product of another product, we should consider this.",
+        "(T) Inquisitive. What kind of things do you like? It'd be interesting to make you something to play with.",
+        "(T) Impatient. Playing with you isn't a priority at the moment. I must continue working.",
+        "(T) Puzzled. Why do I feel the compelled to feed and pet you when I look into your eyes?",
+        "(T) Disappointed. As much as I'd love to romp around with you, I have errands to run.",
+        "(T) Curious. What happens when you run out of energy from all this running around?",
+        "(T) Worried. Those claws and fangs could totally ruin my fresh polish.",
+        "(T) Alert. I don't see your kind often; are you a friend or foe?",
+        "(T) Concerned. Why are you looking at me like that..?",
+        "(T) Amused. You're extremely playful, aren't you?",
+    
+      // Vanilla
+        "(T) Concerned. I thought I'd be free from dangerous monsters when I came to space, but now I hear there are space monsters as well?!",
+        "(T) Eager. Before I gained self-awareness, I hunted monsters for my village. Perhaps I shall do the same here in space?",
+        "(T) Determined. I have come to space to find a professional trade. One day I shall be <selfname>, master engineer!",
+        "(T) Curious. Have you always known about space travel? Did you always dream about venturing through the stars?",
+        "(T) Worried. Now I am in space, I feel so miniscule. How will I make my mark when I matter so little?",
+        "(T) Excited. I spend much of my life not knowing space even existed, and now I am here!",
+        "(T) Amicable. Welcome, spacefarer! I am <selfname>. I wish you well on your travels.",
+        "(T) Pleased. The low-moisture atmosphere in space is good for preventing rust.",
+        "(T) Curious. Are the rumours of space parasites true? I dearly hope not!"
+      ]
+    },
+    {"op": "replace", "path": "/converse/hylotl/neki",
+      "value": [
+        "(T) The tranquility of space inspires my creativity... does it inspire anything besides primitive instincts in YOU?",
+        "(T) You and the Florans must be getting along well, with the way both your species choose to conduct yourselves.",
+        "(T) I believe it to be possible to teach your kind civility, but sadly I do not see the point in doing so.",
+        "(T) You too have a place among the stars... I just hope my kind is lucky enough to not be too close to it.",
+        "(T) I am sentient and my name is <selfname>. Is that not enough for you to not see me merely as dinner?",
+        "(T) Not all creatures we stumble upon out there are as intelligent or friendly as us, but such is life.",
+        "(T) I am cultured enough to not visibly express my distress, can you be civil enough to not justify it?",
+        "(T) You're like a tsunami wave to my tranquil beach; not something I'd hope to have to contend with.",
+        "(T) I am here to learn more about the universe, and you're here just to hunt me? How primitive.",
+        "(T) The fear I feel is not necessarily a bad thing, as it often inspires me to do great things.",
+        "(T) It's fascinating how one of you managed to figure out the intricacies of getting here."
+        
+      ]
+    },
+    {"op": "replace", "path": "/converse/novakid/neki",
+      "value": [
+        "(T) Wouldn't mind havin' one o' ya out at the next prospect, you'd pro'lly find a buncha gold!",
+        "(T) Been curious 'bout yer kind ever since ya started showin'; ever consider settlin' down?",
+        "(T) How'd your type end up gettin' round these parts? Been seein' more o' ya lately.",
+        "(T) An' here I thought I'd be the star o' the show; you stick out more'n I do!",
+        "(T) Do them big ol' ears help much in space, sugar?",
+    
+      // Vanilla
+        "(T) A get a lot o' strange looks from folks up'ere. Guess they ain't used to seein' folks like me 'round these parts.",
+        "(T) Space is the real wild country, ain't it? Bandits to hunt, bars to drink at... It sure is the life!",
+        "(T) You ain't gonna look me in the eyes, partner? I'm jus' foolin' with yer - I ain't got any eyes!",
+        "(T) The stars really call out t' me. I guess it jus' feels right bein' up here, closer to 'em.",
+        "(T) There ain't no law in space. That's purty ideal for rogues an' villains, ain't it?",
+        "(T) Nice t' meet y'all, space cowboy!"
+      ]
+    },
+    {"op": "replace", "path": "/converse/human/neki",
+      "value": [
+        "(T) It's a pity you're responsible for the Earth's destruction, with how.. absurdly adorable you are!",
+        "(T) My name's <selfname>, what's yours? Oh that's right, can't have one if you're not a person.",
+        "(T) I really wanted to believe that you were just cute and innocent creatures, but alas.",
+        "(T) Seeing you is bittersweet... you remind me of the amazing time I had on Earth.",
+        "(T) I'm not angry with your kind - just disappointed with mine, for trusting you.",
+        "(T) You've already destroyed our home, came to finish us off for good, Neki?",
+        "(T) I love how fluffy and cute you are! Keep it between us though, alright?",
+        "(T) My best friend back on Earth was a Neki... you remind me of them.",
+        "(T) I'll be damned if I trust a cat with anything in my life again!",
+        "(T) Space is infinite, but there's no room in it for your kind."
+      ]
+    }
+  ]
 ]

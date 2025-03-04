@@ -1,25 +1,34 @@
 [
-  {"op": "replace", "path": "/merchantStart/human/default",
-    "value": [
-      "(T) Welcome to my shop!",
-      "(T) See anything you like?",
-      "(T) What can I help you with?"
-    ]
-  },
-  {"op": "replace", "path": "/follow/human/default",
-    "value": [
-      "(T) Come with me, we can do business in my shop!",
-      "(T) Come in, come in and see what I've got!"
-    ]
-  },
-  {"op": "replace", "path": "/tout/human/default",
-    "value": [
-      "(T) Goods for sale!",
-      "(T) Hey you, come check out my amazing wares!",
-      "(T) Best deals around!",
-      "(T) Cheap buys!"
-    ]
-  },
+  [
+    {"op": "test", "path": "/merchantStart/human/default", "value": true},
+    {"op": "replace", "path": "/merchantStart/human/default",
+      "value": [
+        "(T) Welcome to my shop!",
+        "(T) See anything you like?",
+        "(T) What can I help you with?"
+      ]
+    }
+  ],
+  [
+    {"op": "test", "path": "/follow/human/default", "value": true},
+    {"op": "replace", "path": "/follow/human/default",
+      "value": [
+        "(T) Come with me, we can do business in my shop!",
+        "(T) Come in, come in and see what I've got!"
+      ]
+    }
+  ],
+  [
+    {"op": "test", "path": "/tout/human/default", "value": true},
+    {"op": "replace", "path": "/tout/human/default",
+      "value": [
+        "(T) Goods for sale!",
+        "(T) Hey you, come check out my amazing wares!",
+        "(T) Best deals around!",
+        "(T) Cheap buys!"
+      ]
+    }
+  ],
 
 // --------------- merchantStart ---------------
 

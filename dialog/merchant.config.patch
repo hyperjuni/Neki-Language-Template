@@ -277,7 +277,7 @@
   //  },
     {"op": "replace", "path": "/welcome/floran/neki",
       "value": [
-        "(T) Here'sss my shop. What did you need?",
+        "(T) Here'sss floran's shop. What did you need?",
         "(T) We're here! What can Floran get you?",
         "(T) Neki here, at Floran's shop! Neki trade with Floran!",
         "(T) Now, what can Floran buy that Neki caught?"
@@ -373,7 +373,7 @@
         "(T) Kitty wants a snack?",
         "(T) Kitty wants a toy?",
         "(T) Great, one of them. Time to break out the hair brushes...",
-        "(T) Good for-oh, I mean no goods for sale! We're sold out!",
+        "(T) Goods for-oh, I mean no goods for sale! We're sold out!",
         "(T) Tch, one of you. Remind me to mark up the prices...",
         "(T) For you, I'll trade in Voxels, not Pixels."
       ]
@@ -428,7 +428,7 @@
     {"op": "replace", "path": "/tagCriteria/floran/neki",
       "value": [
         "(T) Ssstop sstealing stuff...",
-        "(T) Put my shop back how it wasss.",
+        "(T) Put floran's shop back how it wasss.",
         "(T) Floran's sstore was great before. Make it right again!",
         "(T) Neki made ssstore look wrong! Fix store or Floran ssstab!",
         "(T) Floran upsset! Neki took that! Give it back to Floran!",

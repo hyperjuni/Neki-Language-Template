@@ -108,63 +108,77 @@
       "(T) Howdy!"
     ]
   },
-  {"op": "replace", "path": "/hail/neki",
-    "value": {
-      "default": [
-        "(T) What even are you?",
-        "(T) *sniffs*",
-        "(T) Khhh!"
-      ],
-      "avian": [
-        "(T) What's that delicious smell?",
-        "(T) Your smell makes me hungry.",
-        "(T) Smells like poultry.",
-        "(T) I smell food.",
-        "(T) *sniffs*",
-        "(T) Khhh!"
-      ],
-      "apex": [
-        "(T) What's that suspicious smell?",
-        "(T) I smell a trraitor.",
-        "(T) *sniffs*",
-        "(T) Khhh!"
-      ],
-      "floran": [
-        "(T) Mrr, the smell of fresh grass and blood!",
-        "(T) I can smell frresh blood on you!",
-        "(T) What's that lovely smell?",
-        "(T) *sniffs*",
-        "(T) Khhh!"
-      ],
-      "glitch": [
-        "(T) Mrr, smells like grease.",
-        "(T) Smells like toys!",
-        "(T) *sniffs*",
-        "(T) Khhh!"
-      ],
-      "human": [
-        "(T) Hello fellow human.",
-        "(T) *sniffs*",
-        "(T) Khhh!"
-      ],
-      "hylotl": [
-        "(T) What's that delicious smell?",
-        "(T) Your smell makes me hungry.",
-        "(T) Smells like seafood.",
-        "(T) I smell food.",
-        "(T) *sniffs*",
-        "(T) Khhh!"
-      ],
-      "novakid": [
-        "(T) Did someone start a fire?",
-        "(T) *sniffs*",
-        "(T) Khhh!"
-      ],
-      "neki": [
-        "(T) Something smells familiarr.",
-        "(T) *sniffs*",
-        "(T) Khhh!"
-      ]
-    }
+  {"op": "replace", "path": "/hail/neki/default",
+    "value": [
+      "(T) What even are you?",
+      "(T) *sniffs*",
+      "(T) Khhh!"
+    ]
+  },
+  {"op": "replace", "path": "/hail/neki/avian",
+    "value": [
+      "(T) What's that delicious smell?",
+      "(T) Your smell makes me hungry.",
+      "(T) Smells like poultry.",
+      "(T) I smell food.",
+      "(T) *sniffs*",
+      "(T) Khhh!"
+    ]
+  },
+  {"op": "replace", "path": "/hail/neki/apex",
+    "value": [
+      "(T) What's that suspicious smell?",
+      "(T) I smell a trraitor.",
+      "(T) *sniffs*",
+      "(T) Khhh!"
+    ]
+  },
+  {"op": "replace", "path": "/hail/neki/floran",
+    "value": [
+      "(T) Mrr, the smell of fresh grass and blood!",
+      "(T) I can smell frresh blood on you!",
+      "(T) What's that lovely smell?",
+      "(T) *sniffs*",
+      "(T) Khhh!"
+    ]
+  },
+  {"op": "replace", "path": "/hail/neki/glitch",
+    "value": [
+      "(T) Mrr, smells like grease.",
+      "(T) Smells like toys!",
+      "(T) *sniffs*",
+      "(T) Khhh!"
+    ]
+  },
+  {"op": "replace", "path": "/hail/neki/human",
+    "value": [
+      "(T) Hello fellow human.",
+      "(T) *sniffs*",
+      "(T) Khhh!"
+    ]
+  },
+  {"op": "replace", "path": "/hail/neki/hylotl",
+    "value": [
+      "(T) What's that delicious smell?",
+      "(T) Your smell makes me hungry.",
+      "(T) Smells like seafood.",
+      "(T) I smell food.",
+      "(T) *sniffs*",
+      "(T) Khhh!"
+    ]
+  },
+  {"op": "replace", "path": "/hail/neki/novakid",
+    "value": [
+      "(T) Did someone start a fire?",
+      "(T) *sniffs*",
+      "(T) Khhh!"
+    ]
+  },
+  {"op": "replace", "path": "/hail/neki/neki",
+    "value": [
+      "(T) Something smells familiarr.",
+      "(T) *sniffs*",
+      "(T) Khhh!"
+    ]
   }
 ]

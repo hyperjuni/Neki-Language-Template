@@ -188,35 +188,32 @@
         "(T) Mrrow?",
         "(T) Heya!",
         "(T) Hey!"
+      ],
+      "generic": [
+        "(T) Come back with more food!",
+        "(T) I wish you happy hunting!",
+        "(T) You have a strong odour.",
+        "(T) Did you feed me yet..?",
+        "(T) Where are the snacks?",
+        "(T) Do you like to play?",
+        "(T) Where are the toys?",
+        "(T) Do you like my fur?",
+        "(T) What's for dinner?",
+        "(T) Do you have food?",
+        "(T) Got toys for me?",
+        "(T) You smell weird.",
+        "(T) Got any boxes?",
+        "(T) I'm sleepy...",
+        "(T) Hiss! Mrrow?",
+        "(T) Wanna play?",
+        "(T) Feed me..?",
+        "(T) Feed me!",
+        "(T) Purrr..",
+        "(T) Mrrow?",
+        "(T) Heya!",
+        "(T) Hey!"
       ]
     }
-  },
-
-  {"op": "replace", "path": "/greeting/neki/generic",
-    "value": [
-      "(T) Come back with more food!",
-      "(T) I wish you happy hunting!",
-      "(T) You have a strong odour.",
-      "(T) Did you feed me yet..?",
-      "(T) Where are the snacks?",
-      "(T) Do you like to play?",
-      "(T) Where are the toys?",
-      "(T) Do you like my fur?",
-      "(T) What's for dinner?",
-      "(T) Do you have food?",
-      "(T) Got toys for me?",
-      "(T) You smell weird.",
-      "(T) Got any boxes?",
-      "(T) I'm sleepy...",
-      "(T) Hiss! Mrrow?",
-      "(T) Wanna play?",
-      "(T) Feed me..?",
-      "(T) Feed me!",
-      "(T) Purrr..",
-      "(T) Mrrow?",
-      "(T) Heya!",
-      "(T) Hey!"
-    ]
   },
 
 // --------------- NPCs conversing with Neki player ---------------
@@ -539,35 +536,32 @@
         "(T) Arre you fun?",
         "(T) Mrrrow?",
         "(T) Mrr?"
+      ],
+      "generic": [
+        "(T) Like how soft my fur is? I just licked it.",
+        "(T) Today was fun, but I should've slept more!",
+        "(T) *sniffs*\nYou don't smell interesting.",
+        "(T) *sniffs*\nI like the way you smell.",
+        "(T) Okay, so wherre's the food at..?",
+        "(T) Are you cold? Because I'm not.",
+        "(T) What's that you've got there?",
+        "(T) I urgently need to climb you.",
+        "(T) This is your cue to feed me.",
+        "(T) What are your tasty bits?",
+        "(T) Wanna pet me? Too bad.",
+        "(T) I wanna take a bite.",
+        "(T) Got anything tasty?",
+        "(T) Can I take a bite?",
+        "(T) I need your leg.",
+        "(T) Arre you useful?",
+        "(T) You look tasty.",
+        "(T) Are you tasty?",
+        "(T) *purrs softly*",
+        "(T) My claws itch.",
+        "(T) Arre you fun?",
+        "(T) Mrrrow?",
+        "(T) Mrr?"
       ]
     }
-  },
-
-  {"op": "replace", "path": "/converse/neki/generic",
-    "value": [
-      "(T) Like how soft my fur is? I just licked it.",
-      "(T) Today was fun, but I should've slept more!",
-      "(T) *sniffs*\nYou don't smell interesting.",
-      "(T) *sniffs*\nI like the way you smell.",
-      "(T) Okay, so wherre's the food at..?",
-      "(T) Are you cold? Because I'm not.",
-      "(T) What's that you've got there?",
-      "(T) I urgently need to climb you.",
-      "(T) This is your cue to feed me.",
-      "(T) What are your tasty bits?",
-      "(T) Wanna pet me? Too bad.",
-      "(T) I wanna take a bite.",
-      "(T) Got anything tasty?",
-      "(T) Can I take a bite?",
-      "(T) I need your leg.",
-      "(T) Arre you useful?",
-      "(T) You look tasty.",
-      "(T) Are you tasty?",
-      "(T) *purrs softly*",
-      "(T) My claws itch.",
-      "(T) Arre you fun?",
-      "(T) Mrrrow?",
-      "(T) Mrr?"
-    ]
   }
 ]

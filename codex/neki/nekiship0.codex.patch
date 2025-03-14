@@ -11,6 +11,6 @@ Agents are to maintain cover at all times and mission details classified.
 ^red;Violating mission parameters will trigger the Termination Clause.^reset;"
     ]
   },
-  {"op": "replace", "path": "/description", "value": "(T) Mission parameters for a highly-classified Miniknog extraction operation"},
+  {"op": "replace", "path": "/description", "value": "(T) Mission parameters for a highly-classified Miniknog extraction operation."},
   {"op": "replace", "path": "/title", "value": "(T) Extraction Mission Briefing"}
 ]

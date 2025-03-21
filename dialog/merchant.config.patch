@@ -68,7 +68,7 @@
     {"op": "replace", "path": "/merchantStart/glitch/neki",
       "value": [
         "(T) Cordial. You look like a connossieur of all things useful! Take a look.",
-        "(T) Pleading. May I interst you in this shiny trinket to play with?",
+        "(T) Pleading. May I interest you in this shiny trinket to play with?",
         "(T) Excited. I sell toys that would most certainly interest you!",
         "(T) Nervous. I'm not for sale! Everything else is, though."
       ]

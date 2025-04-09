@@ -2,7 +2,7 @@
   {"op": "replace", "path": "/scriptConfig/dialog/converse/default/neki",
     "value": [
       "(T) Oh hello there, cutie!",
-      "(T) I've seen a few of your kind around while exploring lately.",
+      "(T) I've seen a few of your kind around while exploring cold planets lately.",
       "(T) I don't think that your kind had anything to do with the Earth's destruction.",
       "(T) How could such innocent and sincere creatures like yourself ever have any ulterior motives?",
       "(T) It's amazing to see in you what could've been, if we Humans weren't, well... ourselves.",

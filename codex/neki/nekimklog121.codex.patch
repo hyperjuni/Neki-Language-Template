@@ -5,7 +5,7 @@
 
 Their behavior, however, seems highly unpredictable, often manifesting in sudden outbreaks of intense rapture, anguish or affection over seemingly innocuous circumstances.  ^cyan;>>^reset;",
 
-"(T) Multiple members of the research team appear to find said traits 'endearing'; some seem increasingly ignorant to the importance of keeping judgement untainted by emotion, despite knowing full well what the punishment is for failing to do so."
+"(T) Multiple members of the research team appear to find said traits 'endearing'; some seem increasingly ignorant to the importance of keeping judgment untainted by emotion, despite knowing full well what the punishment is for failing to do so."
     ]
   },
   {"op": "replace", "path": "/description", "value": "(T) A classified scientific research log of the Miniknog."},

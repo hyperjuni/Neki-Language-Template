@@ -1,35 +1,36 @@
 [
- {"op": "replace", "path": "/deniedText",
-   "value": "(T) Are you well?\nDo you have brain damage?"
- },
- {"op": "replace", "path": "/novakidDescription",
-   "value": "(T) A stealthy locker for stealthily puttin' things in."
- },
- {"op": "replace", "path": "/nekiDescription",
-   "value": "(T) I fits and I sleeps."
- },
- {"op": "replace", "path": "/hylotlDescription",
-   "value": "(T) An inconspicuous storage solution... Or is it?"
- },
- {"op": "replace", "path": "/humanDescription",
-   "value": "(T) A stealthy storage locker. Ninja stash!"
- },
- {"op": "replace", "path": "/glitchDescription",
-   "value": "(T) Pleased. This ship's storage system is well concealed."
- },
- {"op": "replace", "path": "/floranDescription",
-   "value": "(T) Ssstalking spot disguised as sstorage! Floran approves."
- },
- {"op": "replace", "path": "/avianDescription",
-   "value": "(T) A stealthy device that holds many items for safe keeping."
- },
- {"op": "replace", "path": "/apexDescription",
-   "value": "(T) This otherwise typical locker appears to have an unusual coating."
- },
- {"op": "replace", "path": "/description",
-   "value": "(T) A spacious wall-mounted locker, coated in a dark substance."
- },
- {"op": "replace", "path": "/shortdescription",
-   "value": "(T) Neki Wall Bed"
- }
+  {"op": "replace", "path": "/deniedText",
+    "value": "(T) Are you well?\nDo you have brain damage?"
+  },
+
+  {"op": "replace", "path": "/novakidDescription",
+    "value": "(T) A stealthy locker for stealthily puttin' things in."
+  },
+  {"op": "replace", "path": "/nekiDescription",
+    "value": "(T) I fits and I sleeps."
+  },
+  {"op": "replace", "path": "/hylotlDescription",
+    "value": "(T) An inconspicuous storage solution... Or is it?"
+  },
+  {"op": "replace", "path": "/humanDescription",
+    "value": "(T) A stealthy storage locker. Ninja stash!"
+  },
+  {"op": "replace", "path": "/glitchDescription",
+    "value": "(T) Pleased. This ship's storage system is well concealed."
+  },
+  {"op": "replace", "path": "/floranDescription",
+    "value": "(T) Ssstalking spot disguised as sstorage! Floran approves."
+  },
+  {"op": "replace", "path": "/avianDescription",
+    "value": "(T) A stealthy device that holds many items for safe keeping."
+  },
+  {"op": "replace", "path": "/apexDescription",
+    "value": "(T) This otherwise typical locker appears to have an unusual coating."
+  },
+  {"op": "replace", "path": "/description",
+    "value": "(T) A spacious wall-mounted locker, coated in a dark substance."
+  },
+  {"op": "replace", "path": "/shortdescription",
+    "value": "(T) Neki Wall Bed"
+  }
 ]

@@ -682,7 +682,7 @@
     },
     {"op": "replace", "path": "/severe/hylotl/neki",
       "value": [
-        "(T) My requests are left unanswered, my entreaties fall on deaf ears... Shameful. ",
+        "(T) My requests are left unanswered, my entreaties fall on deaf ears... Shameful.",
         "(T) These conditions are deplorable, and your behaviour reprehensible.",
         "(T) This is simply disgraceful, I demand you fix my shop.",
         "(T) These conditions are unacceptable for my line of business, it's both uncomfortable and unsightly!",

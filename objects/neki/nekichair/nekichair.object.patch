@@ -2,6 +2,7 @@
   {"op": "replace", "path": "/emptyText",
     "value": "(T) This box doesn't seem contain anything, and isn't large enough to be useful in any meaningful way."
   },
+
   {"op": "replace", "path": "/novakidDescription",
     "value": "(T) Sum'n's off 'bout this 'ere box."
   },

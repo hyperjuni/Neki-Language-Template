@@ -50,7 +50,7 @@
   {"op": "replace", "path": "/scriptConfig/dialog/converse/human/neki",
     "value": [
       "(T) Stay out!\nI already peed all around this territory, can't you smell?",
-      "(T) You're the first warm fluffy thing I've seen in a loооng time...",
+      "(T) You're the first warm fluffy thing I've seen in a looong time...",
       "(T) There's just no hole one of you wouldn't crawl into, is there?",
       "(T) It's nice to see another.. oh, you're one of THOSE things.",
       "(T) Aren't you just adorable! Come closer, I won't bite...",

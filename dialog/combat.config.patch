@@ -1,4 +1,5 @@
 [
+// reattack
   {"op": "replace", "path": "/reattack/neki",
     "value": {
       "default": [
@@ -10,6 +11,18 @@
       ]
     }
   },
+  {"op": "replace", "path": "/reattack/nekistripes",
+    "value": {
+      "default": [
+        "(T) I will smack you some more!",
+        "(T) You dare to come back?!",
+        "(T) It's back!",
+        "(T) You again!"
+      ]
+    }
+  },
+
+// attack
   {"op": "replace", "path": "/attack/neki",
     "value": {
       "default": [
@@ -23,6 +36,18 @@
       ]
     }
   },
+  {"op": "replace", "path": "/attack/nekistripes",
+    "value": {
+      "default": [
+        "(T) ^gray;*roars*^reset; Get it!",
+        "(T) Wrrawww!",
+        "(T) ^gray;*roars*^reset;",
+        "(T) Khhhh!"
+      ]
+    }
+  },
+
+// killedTarget
   {"op": "replace", "path": "/killedTarget/neki",
     "value": {
       "default": [
@@ -36,6 +61,21 @@
       ]
     }
   },
+  {"op": "replace", "path": "/killedTarget/nekistripes",
+    "value": {
+      "default": [
+        "(T) Purroblem solved.",
+        "(T) Fur untouched.",
+        "(T) That was fun!",
+        "(T) Murrvellous.",
+        "(T) Purrfect.",
+        "(T) ^gray;*yawns*^reset;",
+        "(T) Mrreh."
+      ]
+    }
+  },
+
+// lostTarget
   {"op": "replace", "path": "/lostTarget/neki",
     "value": {
       "default": [
@@ -48,6 +88,19 @@
       ]
     }
   },
+  {"op": "replace", "path": "/lostTarget/nekistripes",
+    "value": {
+      "default": [
+        "(T) You can't hide from me!",
+        "(T) Come out, rrright now!",
+        "(T) I can smell you!",
+        "(T) Where'd you go?!",
+        "(T) ^gray;*frustrated roar*^reset;"
+      ]
+    }
+  },
+
+// outOfSight
   {"op": "replace", "path": "/outOfSight/neki",
     "value": {
       "default": [
@@ -57,6 +110,17 @@
       ]
     }
   },
+  {"op": "replace", "path": "/outOfSight/nekistripes",
+    "value": {
+      "default": [
+        "(T) It's getting away!",
+        "(T) Where is it...",
+        "(T) ^gray;*frustrated roar*^reset;"
+      ]
+    }
+  },
+
+// cantReach
   {"op": "replace", "path": "/cantReach/neki",
     "value": {
       "default": [
@@ -69,12 +133,39 @@
       ]
     }
   },
+  {"op": "replace", "path": "/cantReach/nekistripes",
+    "value": {
+      "default": [
+        "(T) That won't save you!",
+        "(T) I'm coming for you!",
+        "(T) Get back here!",
+        "(T) I'll get you!",
+        "(T) Come closer!",
+        "(T) Come here!",
+        "(T) ^gray;*frustrated roar*^reset;"
+      ]
+    }
+  },
+
+// cheerOn
   {"op": "replace", "path": "/cheerOn/neki",
     "value": {
       "default": [
         "(T) Save some for me!",
         "(T) Get the prrey!",
         "(T) I'm excited!",
+        "(T) Get them!",
+        "(T) Come on!",
+        "(T) Get it!"
+      ]
+    }
+  },
+  {"op": "replace", "path": "/cheerOn/nekistripes",
+    "value": {
+      "default": [
+        "(T) Let me at them!",
+        "(T) Get them good!",
+        "(T) I'm scared!",
         "(T) Get them!",
         "(T) Come on!",
         "(T) Get it!"

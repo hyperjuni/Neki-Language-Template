@@ -1,0 +1,21 @@
+[
+  {"op": "replace", "path": "/title",
+    "value": "(T) A tiger from another realm"
+  },
+
+  {"op": "replace", "path": "/text",
+    "value": "(T) I was just going about my day, when all of a sudden the world went all dark and spinny...\nThe next ting I knew - I woke up in that strange metal wardrobe!\n\nI have no idea where I am or what to do...\n\nEveryone is giving me strange looks and I'm scared... May I please come with you?"
+  },
+
+  {"op": "replace", "path": "/completionText",
+    "value": "(T) She seems lost and genuinely terrified.\nLet's hope she can feel safer and more comfortable aboard the ship."
+  },
+
+  {"op": "replace", "path": "/scriptConfig/descriptions/findStripes",
+    "value": "(T) Find ^orange;Stripes^reset; at the Outpost and add her to your crew."
+  },
+
+  {"op": "replace", "path": "/scriptConfig/descriptions/alreadyHaveStripes",
+    "value": "(T) Stripes is already a part of your crew."
+  }
+]

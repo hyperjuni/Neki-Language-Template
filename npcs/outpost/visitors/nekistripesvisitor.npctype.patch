@@ -1,0 +1,13 @@
+[
+  {"op": "replace", "path": "/identity/name",
+    "value": "(T) Stripes"
+  },
+  
+  {"op": "replace", "path": "/scriptConfig/dialog/converse/default/default/0",
+    "value": "(T) Oh no, this isn't my body!"
+  },
+  
+  {"op": "replace", "path": "/scriptConfig/dialog/converse/nekistripes/default/0",
+    "value": "(T) Hey, I'm ^orange;<selfname>^reset;! What is this place?"
+  }
+]

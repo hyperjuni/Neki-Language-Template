@@ -10,7 +10,7 @@
     "value": [
       "(T) You smell.. unfamiliarr.",
       "(T) Purrceed.",
-      "(T) *sniffs*",
+      "(T) ^gray;*sniffs*^reset;",
       "(T) Mrr..?"
     ]
   },

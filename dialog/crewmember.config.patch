@@ -1,4 +1,5 @@
 [
+// neki
   {"op": "replace", "path": "/converse/neki",
     "value": {
       "default": [
@@ -9,6 +10,22 @@
         "(T) Let's go sleep.",
         "(T) I wanna sleep!",
         "(T) I wanna play!",
+        "(T) Purrr...",
+        "(T) Mrrow?"
+      ]
+    }
+  },
+
+// nekistripes
+  {"op": "replace", "path": "/converse/nekistripes",
+    "value": {
+      "default": [
+        "(T) Will you spend time with me today?",
+        "(T) Do you have anything I could eat?",
+        "(T) I really like your place!",
+        "(T) Where can I sleep?",
+        "(T) Let's go to bed.",
+        "(T) ^gray;*purrs softly*^reset;",
         "(T) Purrr...",
         "(T) Mrrow?"
       ]

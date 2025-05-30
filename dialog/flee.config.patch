@@ -1,4 +1,5 @@
 [
+// helpme
   {"op": "replace", "path": "/helpme/neki",
     "value": {
       "default": [
@@ -6,6 +7,15 @@
       ]
     }
   },
+  {"op": "replace", "path": "/helpme/nekistripes",
+    "value": {
+      "default": [
+        "(T) ^gray;*scared roar*^reset;"
+      ]
+    }
+  },
+
+// safe
   {"op": "replace", "path": "/safe/neki",
     "value": {
       "default": [
@@ -14,6 +24,16 @@
         "(T) I need to sleep this off.",
         "(T) I need some food now.",
         "(T) That was stressful!"
+      ]
+    }
+  },
+  {"op": "replace", "path": "/safe/nekistripes",
+    "value": {
+      "default": [
+        "(T) I knew I shouldn't have done that.",
+        "(T) I need to be more careful...",
+        "(T) I think I'm okay...",
+        "(T) I'm so sorry!"
       ]
     }
   }

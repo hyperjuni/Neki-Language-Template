@@ -1,4 +1,5 @@
 [
+// accuse
   {"op": "replace", "path": "/accuse/neki",
     "value": {
       "default": [
@@ -6,10 +7,28 @@
       ]
     }
   },
+  {"op": "replace", "path": "/accuse/nekistripes",
+    "value": {
+      "default": [
+        "(T) Please don't take my things, I need them!",
+        "(T) ^gray;*frustrated roar*^reset;"
+      ]
+    }
+  },
+
+// alert
   {"op": "replace", "path": "/alert/neki",
     "value": {
       "default": [
         "(T) WRRROOOWWWW!"
+      ]
+    }
+  },
+  {"op": "replace", "path": "/alert/nekistripes",
+    "value": {
+      "default": [
+        "(T) WRRROOOWWWW!",
+        "(T) ^gray;*roars*^reset;"
       ]
     }
   }

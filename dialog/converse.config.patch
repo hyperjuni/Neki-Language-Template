@@ -2,6 +2,7 @@
 
 // --------------- NPCs greeting Neki player ---------------
 
+// neki
   {"op": "replace", "path": "/greeting/default/neki",
     "value": [
       "(T) Excuse me.",
@@ -23,6 +24,28 @@
     ]
   },
 
+// nekistripes
+  {"op": "replace", "path": "/greeting/default/nekistripes",
+    "value": [
+      "(T) Excuse me.",
+      "(T) Hey there.",
+      "(T) Hey there!",
+      "(T) Uh, hello.",
+      "(T) Well, hi.",
+      "(T) Hello?",
+      "(T) Hello.",
+      "(T) Gah..!",
+      "(T) Hmm?",
+      "(T) Hey!",
+      "(T) Hm?",
+      "(T) Hi!",
+      "(T) Oh.",
+      "(T) ...",
+      "(T) ..!",
+      "(T) ..?"
+    ]
+  },
+
   {"op": "replace", "path": "/greeting/apex/neki",
     "value": [
       "(T) I'll pick up that can immediately!",
@@ -41,7 +64,7 @@
       "(T) Nice tail.",
       "(T) Excuse me.",
       "(T) Hello...",
-      "(T) *stares*"
+      "(T) ^gray;*stares*^reset;"
     ]
   },
 
@@ -163,6 +186,7 @@
 
 // --------------- Neki NPCs greeting player ---------------
 
+// neki
   {"op": "replace", "path": "/greeting/neki/default",
     "value": [
       "(T) Come back with more food!",
@@ -189,7 +213,65 @@
       "(T) Hey!"
     ]
   },
+
+// nekistripes
+  {"op": "replace", "path": "/greeting/nekistripes/default",
+    "value": [
+      "(T) Come back with more food!",
+      "(T) I wish you happy hunting!",
+      "(T) You have a strong odour.",
+      "(T) Did you feed me yet..?",
+      "(T) Where are the snacks?",
+      "(T) Do you like to play?",
+      "(T) Do you like my fur?",
+      "(T) Where are the toys?",
+      "(T) What's for dinner?",
+      "(T) Do you have food?",
+      "(T) Got toys for me?",
+      "(T) You smell weird.",
+      "(T) Got any boxes?",
+      "(T) I'm sleepy...",
+      "(T) Hiss! Mrrow?",
+      "(T) Wanna play?",
+      "(T) Feed me..?",
+      "(T) Feed me!",
+      "(T) Purrr..",
+      "(T) Mrrow?",
+      "(T) Heya!",
+      "(T) Hey!"
+    ]
+  },
+
+// neki
   {"op": "replace", "path": "/greeting/neki/generic",
+    "value": [
+      "(T) Come back with more food!",
+      "(T) I wish you happy hunting!",
+      "(T) You have a strong odour.",
+      "(T) Did you feed me yet..?",
+      "(T) Where are the snacks?",
+      "(T) Do you like to play?",
+      "(T) Where are the toys?",
+      "(T) Do you like my fur?",
+      "(T) What's for dinner?",
+      "(T) Do you have food?",
+      "(T) Got toys for me?",
+      "(T) You smell weird.",
+      "(T) Got any boxes?",
+      "(T) I'm sleepy...",
+      "(T) Hiss! Mrrow?",
+      "(T) Wanna play?",
+      "(T) Feed me..?",
+      "(T) Feed me!",
+      "(T) Purrr..",
+      "(T) Mrrow?",
+      "(T) Heya!",
+      "(T) Hey!"
+    ]
+  },
+
+// nekistripes
+  {"op": "replace", "path": "/greeting/nekistripes/generic",
     "value": [
       "(T) Come back with more food!",
       "(T) I wish you happy hunting!",
@@ -218,9 +300,20 @@
 
 // --------------- NPCs conversing with Neki player ---------------
 
+// neki
   {"op": "replace", "path": "/converse/default/neki",
     "value": [
       "(T) Hello, Neki.",
+      "(T) Greetings!",
+      "(T) Hello.",
+      "(T) Hi."
+    ]
+  },
+
+// nekistripes
+  {"op": "replace", "path": "/converse/default/nekistripes",
+    "value": [
+      "(T) Hello there.",
       "(T) Greetings!",
       "(T) Hello.",
       "(T) Hi."
@@ -510,12 +603,13 @@
 
 // --------------- Neki NPCs conversing with player ---------------
 
+// neki
   {"op": "replace", "path": "/converse/neki/default",
     "value": [
       "(T) Like how soft my fur is? I just licked it.",
       "(T) Today was fun, but I should've slept more!",
-      "(T) *sniffs*\nYou don't smell interesting.",
-      "(T) *sniffs*\nI like the way you smell.",
+      "(T) ^gray;*sniffs*^reset;\nYou don't smell interesting.",
+      "(T) ^gray;*sniffs*^reset;\nI like the way you smell.",
       "(T) Okay, so wherre's the food at..?",
       "(T) Are you cold? Because I'm not.",
       "(T) What's that you've got there?",
@@ -537,12 +631,34 @@
       "(T) Mrr?"
     ]
   },
+
+// nekistripes
+  {"op": "replace", "path": "/converse/nekistripes/default",
+    "value": [
+      "(T) Feel how soft my fur is... I just licked it!",
+      "(T) Today was fun, but I should've slept more.",
+      "(T) Could you please scratch behind my ear?",
+      "(T) Is there anything to eat around here?",
+      "(T) ^gray;*sniffs*^reset;\nYou smell so interesting!",
+      "(T) ^gray;*sniffs*^reset;\nI like the way you smell.",
+      "(T) Do you have something for me?",
+      "(T) Don't touch my tail, please.",
+      "(T) Do you have anything tasty?",
+      "(T) My paws are itchy.",
+      "(T) My ear is itchy.",
+      "(T) ^gray;*purrs softly*^reset;",
+      "(T) Mrrrow?",
+      "(T) Mrr?"
+    ]    
+  },
+
+// neki
   {"op": "replace", "path": "/converse/neki/generic",
     "value": [
       "(T) Like how soft my fur is? I just licked it.",
       "(T) Today was fun, but I should've slept more!",
-      "(T) *sniffs*\nYou don't smell interesting.",
-      "(T) *sniffs*\nI like the way you smell.",
+      "(T) ^gray;*sniffs*^reset;\nYou don't smell interesting.",
+      "(T) ^gray;*sniffs*^reset;\nI like the way you smell.",
       "(T) Okay, so wherre's the food at..?",
       "(T) Are you cold? Because I'm not.",
       "(T) What's that you've got there?",
@@ -560,6 +676,26 @@
       "(T) *purrs softly*",
       "(T) My claws itch.",
       "(T) Arre you fun?",
+      "(T) Mrrrow?",
+      "(T) Mrr?"
+    ]
+  },
+
+// nekistripes
+  {"op": "replace", "path": "/converse/nekistripes/generic",
+    "value": [
+      "(T) Feel how soft my fur is... I just licked it!",
+      "(T) Today was fun, but I should've slept more.",
+      "(T) Could you please scratch behind my ear?",
+      "(T) Is there anything to eat around here?",
+      "(T) ^gray;*sniffs*^reset;\nYou smell so interesting!",
+      "(T) ^gray;*sniffs*^reset;\nI like the way you smell.",
+      "(T) Do you have something for me?",
+      "(T) Don't touch my tail, please.",
+      "(T) Do you have anything tasty?",
+      "(T) My paws are itchy.",
+      "(T) My ear is itchy.",
+      "(T) ^gray;*purrs softly*^reset;",
       "(T) Mrrrow?",
       "(T) Mrr?"
     ]

@@ -1,4 +1,5 @@
 [
+// tagCriteria
   {"op": "replace", "path": "/tagCriteria/neki",
     "value": {
       "default": [
@@ -8,6 +9,18 @@
       ]
     }
   },
+  {"op": "replace", "path": "/tagCriteria/nekistripes",
+    "value": {
+      "default": [
+        "(Т) Please don't take my toys...",
+        "(Т) Where are you taking it..?",
+        "(Т) Aww, it's broken now...",
+        "(Т) ^gray;*frustrated roar*^reset;"
+      ]
+    }
+  },
+
+// enclosedArea
   {"op": "replace", "path": "/enclosedArea/neki",
     "value": {
       "default": [
@@ -17,6 +30,17 @@
       ]
     }
   },
+  {"op": "replace", "path": "/enclosedArea/nekistripes",
+    "value": {
+      "default": [
+        "(Т) My little home used to be so cozy before you did that...",
+        "(Т) My home is a little brroken...",
+        "(Т) Can you please fix my home?"
+      ]
+    }
+  },
+
+// otherDeed
   {"op": "replace", "path": "/otherDeed/neki",
     "value": {
       "default": [
@@ -26,6 +50,17 @@
       ]
     }
   },
+  {"op": "replace", "path": "/otherDeed/nekistripes",
+    "value": {
+      "default": [
+        "(Т) But the only company I'd ever allow in here is you...",
+        "(Т) You want me to move out? Did I do something wrong?",
+        "(Т) Do you hate me being here? Why..?"
+      ]
+    }
+  },
+
+// severe
   {"op": "replace", "path": "/severe/neki",
     "value": {
       "default": [
@@ -35,12 +70,31 @@
       ]
     }
   },
+  {"op": "replace", "path": "/severe/nekistripes",
+    "value": {
+      "default": [
+        "(Т) This place has become so windy and scary, I don't feel safe anymore.",
+        "(Т) I don't think I'll be able to stay here much longer like this...",
+        "(Т) Could you please do something about this broken little place?"
+      ]
+    }
+  },
+
+// final
   {"op": "replace", "path": "/final/neki",
     "value": {
       "default": [
         "(T) I give up, I'll go live in a box instead.",
         "(T) Living here has been terrible, I can't do it anymore...",
         "(T) You clearly don't love me enough, so I'll go find someone who does!"
+      ]
+    }
+  },
+  {"op": "replace", "path": "/final/nekistripes",
+    "value": {
+      "default": [
+        "(Т) I'm so sorry, but I cannot stay here any longer. I wish you all the best...",
+        "(Т) I thought you loved me, but I was probably wrong... Again."
       ]
     }
   }

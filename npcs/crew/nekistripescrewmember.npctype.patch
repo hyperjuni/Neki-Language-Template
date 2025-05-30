@@ -1,0 +1,19 @@
+[
+  {"op": "replace", "path": "/identity/name", "value": "(T) Stripes"},
+  {"op": "replace", "path": "/scriptConfig/crew/role/name", "value": "(T) Tiger"},
+  {"op": "replace", "path": "/scriptConfig/crew/role/field", "value": "(T) Being Adorable"},
+  {"op": "replace", "path": "/scriptConfig/crew/ranks",
+    "value": [
+      "(T) Not your average <role>",
+      "(T) The <role> you deserve",
+      "(T) Proficient in <field>",
+      "(T) One-of-a-kind <role>",
+      "(T) Master of <field>",
+      "(T) Adept at <field>"
+    ]
+  },
+
+  {"op": "replace", "path": "/scriptConfig/nekiStripesMultipleRecruitmentDisallowedText",
+    "value": "(T) But I am already on your crew, silly!"
+  }
+]

@@ -120,10 +120,20 @@
 
 // --------------- Neki NPCs hailing player ---------------
 
+// neki
   {"op": "replace", "path": "/hail/neki/default",
     "value": [
       "(T) What even are you?",
-      "(T) *sniffs*",
+      "(T) ^gray;*sniffs*^reset;",
+      "(T) Khhh!"
+    ]
+  },
+
+// nekistripes
+  {"op": "replace", "path": "/hail/nekistripes/default",
+    "value": [
+      "(T) What are you?",
+      "(T) ^gray;*sniffs*^reset;",
       "(T) Khhh!"
     ]
   },
@@ -134,7 +144,7 @@
       "(T) Your smell makes me hungry.",
       "(T) Smells like poultry.",
       "(T) I smell food.",
-      "(T) *sniffs*",
+      "(T) ^gray;*sniffs*^reset;",
       "(T) Khhh!"
     ]
   },
@@ -143,7 +153,7 @@
     "value": [
       "(T) What's that suspicious smell?",
       "(T) I smell a trraitor.",
-      "(T) *sniffs*",
+      "(T) ^gray;*sniffs*^reset;",
       "(T) Khhh!"
     ]
   },
@@ -153,7 +163,7 @@
       "(T) Mrr, the smell of fresh grass and blood!",
       "(T) I can smell frresh blood on you!",
       "(T) What's that lovely smell?",
-      "(T) *sniffs*",
+      "(T) ^gray;*sniffs*^reset;",
       "(T) Khhh!"
     ]
   },
@@ -162,7 +172,7 @@
     "value": [
       "(T) Mrr, smells like grease.",
       "(T) Smells like toys!",
-      "(T) *sniffs*",
+      "(T) ^gray;*sniffs*^reset;",
       "(T) Khhh!"
     ]
   },
@@ -170,7 +180,7 @@
   {"op": "replace", "path": "/hail/neki/human",
     "value": [
       "(T) Hello fellow human.",
-      "(T) *sniffs*",
+      "(T) ^gray;*sniffs*^reset;",
       "(T) Khhh!"
     ]
   },
@@ -181,7 +191,7 @@
       "(T) Your smell makes me hungry.",
       "(T) Smells like seafood.",
       "(T) I smell food.",
-      "(T) *sniffs*",
+      "(T) ^gray;*sniffs*^reset;",
       "(T) Khhh!"
     ]
   },
@@ -189,7 +199,7 @@
   {"op": "replace", "path": "/hail/neki/novakid",
     "value": [
       "(T) Did someone start a fire?",
-      "(T) *sniffs*",
+      "(T) ^gray;*sniffs*^reset;",
       "(T) Khhh!"
     ]
   },
@@ -197,7 +207,7 @@
   {"op": "replace", "path": "/hail/neki/neki",
     "value": [
       "(T) Something smells familiarr.",
-      "(T) *sniffs*",
+      "(T) ^gray;*sniffs*^reset;",
       "(T) Khhh!"
     ]
   }

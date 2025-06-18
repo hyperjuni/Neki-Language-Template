@@ -1,1 +1,1 @@
-[{"op":"add","path":"/nekiDescription","value":"(T) \"Take this clay, seal your face.\""}]
+[{"op":"replace","path":"/nekiDescription","value":"(T) \"Take this clay, seal your face.\""}]

@@ -1,1 +1,1 @@
-[{"op":"add","path":"/nekiDescription","value":"(T) Is this ground or roof?"}]
+[{"op":"replace","path":"/nekiDescription","value":"(T) Is this ground or roof?"}]

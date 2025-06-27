@@ -7,7 +7,7 @@
       "(T) This tree has stood for centuries, a symbol of the Protectorate's strength and dignity.",
       "(T) No, <entityname>, put those claws away. We have to protect the tree, not scratch it.",
       "(T) Chimes in the great tree. Windy songs of coming change. Fleeting petals fall.",
-      "(T) *sigh*",
+      "(T) ^gray;*sighs*^reset;",
       "(T) Clearly, your patience is short-lived as always.",
       "(T) Run along then, everyone's waiting for you.",
       "(T) I'll be here if you need me."

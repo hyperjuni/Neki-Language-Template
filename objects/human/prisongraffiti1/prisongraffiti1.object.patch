@@ -1,1 +1,1 @@
-[{"op":"replace","path":"/nekiDescription","value":"(T) *licks*\nMrr, blood!"}]
+[{"op":"replace","path":"/nekiDescription","value":"(T) ^gray;*licks*^reset;\nMrr, blood!"}]

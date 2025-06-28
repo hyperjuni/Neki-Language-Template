@@ -15,7 +15,7 @@
     "value": "(T) Unimpressed. The fabric on this pillow looks primitive even by my standards."
   },
   {"op": "replace", "path": "/floranDescription",
-    "value": "(T) Floran butt become shiny from ssitting on thisss!."
+    "value": "(T) Floran butt become shiny from ssitting on thisss!"
   },
   {"op": "replace", "path": "/avianDescription",
     "value": "(T) I think I know what this is made of, but that's hardly an improvement."

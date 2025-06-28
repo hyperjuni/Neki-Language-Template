@@ -5,17 +5,17 @@
       "default": [
         "(T) Put my stuff back!",
         "(T) You brroke everything!",
-        "(T) Where'd you put my toys!?"
+        "(T) Where'd you put my toys?!"
       ]
     }
   },
   {"op": "replace", "path": "/tagCriteria/nekistripes",
     "value": {
       "default": [
-        "(Т) Please don't take my toys...",
-        "(Т) Where are you taking it..?",
-        "(Т) Aww, it's broken now...",
-        "(Т) ^gray;*frustrated roar*^reset;"
+        "(T) Please don't take my toys...",
+        "(T) Where are you taking it..?",
+        "(T) Aww, it's broken now...",
+        "(T) ^gray;*frustrated roar*^reset;"
       ]
     }
   },
@@ -33,9 +33,9 @@
   {"op": "replace", "path": "/enclosedArea/nekistripes",
     "value": {
       "default": [
-        "(Т) My little home used to be so cozy before you did that...",
-        "(Т) My home is a little brroken...",
-        "(Т) Can you please fix my home?"
+        "(T) My little home used to be so cozy before you did that...",
+        "(T) My home is a little brroken...",
+        "(T) Can you please fix my home?"
       ]
     }
   },
@@ -45,7 +45,7 @@
     "value": {
       "default": [
         "(T) Khhh! I won't share my home!",
-        "(T) Why is there a smelly stranger in my home!?",
+        "(T) Why is there a smelly stranger in my home?!",
         "(T) If someone moves in, they'll become my dinner."
       ]
     }
@@ -53,9 +53,9 @@
   {"op": "replace", "path": "/otherDeed/nekistripes",
     "value": {
       "default": [
-        "(Т) But the only company I'd ever allow in here is you...",
-        "(Т) You want me to move out? Did I do something wrong?",
-        "(Т) Do you hate me being here? Why..?"
+        "(T) But the only company I'd ever allow in here is you...",
+        "(T) You want me to move out? Did I do something wrong?",
+        "(T) Do you hate me being here? Why..?"
       ]
     }
   },
@@ -73,9 +73,9 @@
   {"op": "replace", "path": "/severe/nekistripes",
     "value": {
       "default": [
-        "(Т) This place has become so windy and scary, I don't feel safe anymore.",
-        "(Т) I don't think I'll be able to stay here much longer like this...",
-        "(Т) Could you please do something about this broken little place?"
+        "(T) This place has become so windy and scary, I don't feel safe anymore.",
+        "(T) I don't think I'll be able to stay here much longer like this...",
+        "(T) Could you please do something about this broken little place?"
       ]
     }
   },
@@ -93,8 +93,8 @@
   {"op": "replace", "path": "/final/nekistripes",
     "value": {
       "default": [
-        "(Т) I'm so sorry, but I cannot stay here any longer. I wish you all the best...",
-        "(Т) I thought you loved me, but I was probably wrong... Again."
+        "(T) I'm so sorry, but I cannot stay here any longer. I wish you all the best...",
+        "(T) I thought you loved me, but I was probably wrong... Again."
       ]
     }
   }

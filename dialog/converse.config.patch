@@ -128,7 +128,7 @@
   {"op": "replace", "path": "/greeting/human/neki",
     "value": [
       "(T) Hell yeah, my day just got better!",
-      "(T) How dare you show your face here!?",
+      "(T) How dare you show your face here?!",
       "(T) The hell do you want with us now?",
       "(T) Oh look, it came to us by itself.",
       "(T) What is this.. thing, doing here?",
@@ -568,7 +568,7 @@
       "(T) While I abhor violence, I still deeply respect our warriors.",
       "(T) The longer the journey the more deserved the destination.",
       "(T) While things must be practical, never undervalue beauty.",
-      "(T) The last page of my book is missing! What will I do!?",
+      "(T) The last page of my book is missing! What will I do?!",
       "(T) It's foolish to crave power. Power destroys.",
       "(T) Life without beauty is but empty drudgery.",
       "(T) It is important to remain humble, I find.",

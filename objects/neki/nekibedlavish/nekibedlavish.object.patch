@@ -12,7 +12,7 @@
     "value": "(T) That's one heck of a luxurious place to sleep!"
   },
   {"op": "replace", "path": "/glitchDescription",
-    "value": "(T) Shocked: Never have I seen so much luxury cobbled together in such an impractical way."
+    "value": "(T) Shocked. Never have I seen so much luxury cobbled together in such an impractical way."
   },
   {"op": "replace", "path": "/floranDescription",
     "value": "(T) Thisss where Floran's couch went?!"

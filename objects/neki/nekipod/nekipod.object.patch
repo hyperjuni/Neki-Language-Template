@@ -31,7 +31,7 @@
   },
 
   {"op": "replace", "path": "/novakidDescription",
-    "value": "(T) I ain't going near that."
+    "value": "(T) I ain't goin' near that thing."
   },
   {"op": "replace", "path": "/nekiDescription",
     "value": "(T) I love mother."

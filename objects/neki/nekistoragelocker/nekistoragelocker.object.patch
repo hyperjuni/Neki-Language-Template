@@ -12,7 +12,7 @@
     "value": "(T) A stealthy storage locker. Ninja stash!"
   },
   {"op": "replace", "path": "/glitchDescription",
-    "value": "(T) Pleased. This ship's storage system is well concealed."
+    "value": "(T) Pleased. This ship's storage system is well-concealed."
   },
   {"op": "replace", "path": "/floranDescription",
     "value": "(T) Sssneaky storage."

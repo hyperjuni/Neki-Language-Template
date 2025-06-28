@@ -3,7 +3,7 @@
   {"op": "replace", "path": "/scriptConfig/dialog/crewmember/offer/neki",
     "value": {
       "default": [
-        "(T) So how's the food at your place?",
+        "(T) So, how's the food at your place?",
         "(T) Alright, show me your place.",
         "(T) You're taking me with you.",
         "(T) You know you want me."

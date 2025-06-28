@@ -27,6 +27,6 @@
     "value": "(T) This wheel is used by the Neki to craft various items."
   },
   {"op": "replace", "path": "/shortdescription",
-    "value": "^orange;Neki Wheel^reset;"
+    "value": "(T) ^orange;Neki Wheel^reset;"
   }
 ]

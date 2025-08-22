@@ -3,7 +3,7 @@
     "value": "(T) Maybe I can make m'self a new sweater on this."
   },
   {"op": "replace", "path": "/nekiDescription",
-    "value": "(T) The wheels spin and clothes come out!"
+    "value": "(T) The wheels spin and cute clothes come out!"
   },
   {"op": "replace", "path": "/hylotlDescription",
     "value": "(T) This would've been an instrument of art, had it been better maintained."

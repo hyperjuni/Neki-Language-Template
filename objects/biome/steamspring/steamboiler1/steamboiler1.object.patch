@@ -1,1 +1,1 @@
-[{"op":"replace","path":"/nekiDescription","value":"(T) A yucky little box that makes watersmoke."}]
+[{"op":"add","path":"/nekiDescription","value":"A yucky box with balls of steel."}]

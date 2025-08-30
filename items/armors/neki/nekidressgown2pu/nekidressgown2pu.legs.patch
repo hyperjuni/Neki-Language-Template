@@ -1,0 +1,4 @@
+[
+  {"op": "replace", "path": "/shortdescription", "value": "(T) Neki Gown+ Pushup"},
+  {"op": "replace", "path": "/description", "value": "(T) It's not like those balloons were good for much else anyway."}
+]

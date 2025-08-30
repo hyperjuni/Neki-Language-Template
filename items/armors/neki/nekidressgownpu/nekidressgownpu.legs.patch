@@ -1,0 +1,4 @@
+[
+  {"op": "replace", "path": "/shortdescription", "value": "(T) Neki Gown Pushup"},
+  {"op": "replace", "path": "/description", "value": "(T) A bleached curtain and water balloons could come in handy at any moment."}
+]

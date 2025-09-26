@@ -16,5 +16,4 @@ How to use:
 ## Links
 
 * Come chat with us at the [Neki Discord](https://discord.gg/R6tfkazYgb)
-* If you'd like to support me and this project, consider checking out my [Boosty](https://boosty.to/hyperjuni/donate)
   

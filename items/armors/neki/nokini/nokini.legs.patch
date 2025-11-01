@@ -1,4 +1,4 @@
 [
   {"op": "replace", "path": "/shortdescription", "value": "(T) Nokini"},
-  {"op": "replace", "path": "/description", "value": "(T) Birthday suit with strings."}
+  {"op": "replace", "path": "/description", "value": "(T) Birthday suit with strings.\n\nDesigned for SFW skins."}
 ]

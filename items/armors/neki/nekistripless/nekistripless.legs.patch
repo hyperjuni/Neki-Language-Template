@@ -1,4 +1,4 @@
 [
   {"op": "replace", "path": "/shortdescription", "value": "(T) Neki Stripless"},
-  {"op": "replace", "path": "/description", "value": "(T) The name's Tail. Cotton Tail."}
+  {"op": "replace", "path": "/description", "value": "(T) The name's Tail. Cotton Tail.\n\nDesigned for SFW skins."}
 ]

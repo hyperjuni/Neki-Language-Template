@@ -1,0 +1,4 @@
+[
+  {"op": "replace", "path": "/shortdescription", "value": "(T) Neki T5S Headwear"},
+  {"op": "replace", "path": "/description", "value": "(T) Is this Battletoads?!?"}
+]

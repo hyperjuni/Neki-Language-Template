@@ -1,0 +1,32 @@
+[
+  {"op": "replace", "path": "/novakidDescription",
+    "value": "(T) A stealthy locker. Ain't much use 'til it's fixed."
+  },
+  {"op": "replace", "path": "/nekiDescription",
+    "value": "(T) A brroken wallbox is not safe for sleeps."
+  },
+  {"op": "replace", "path": "/hylotlDescription",
+    "value": "(T) An inconspicuous storage solution. It's not currently powered."
+  },
+  {"op": "replace", "path": "/humanDescription",
+    "value": "(T) A stealthy storage locker. It doesn't seem to be working."
+  },
+  {"op": "replace", "path": "/glitchDescription",
+    "value": "(T) Disappointed. This ship's storage system is malfunctioning."
+  },
+  {"op": "replace", "path": "/floranDescription",
+    "value": "(T) Ssstorage. It'sss not working."
+  },
+  {"op": "replace", "path": "/avianDescription",
+    "value": "(T) A device that holds many items for safe keeping. It's broken at the moment."
+  },
+  {"op": "replace", "path": "/apexDescription",
+    "value": "(T) The ship's storage system. It's not currently functional."
+  },
+  {"op": "replace", "path": "/description",
+    "value": "(T) A shiplocker, coated in a dark substance."
+  },
+  {"op": "replace", "path": "/shortdescription",
+    "value": "(T) Shiplocker"
+  }
+]

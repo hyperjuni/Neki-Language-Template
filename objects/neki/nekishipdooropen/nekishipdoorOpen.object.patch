@@ -1,0 +1,32 @@
+[
+  {"op": "replace", "path": "/novakidDescription",
+    "value": "(T) The door is broken, it ain't closing any time soon."
+  },
+  {"op": "replace", "path": "/nekiDescription",
+    "value": "(T) Awf, it seems stuck."
+  },
+  {"op": "replace", "path": "/hylotlDescription",
+    "value": "(T) A basic, stealth-coated ship door. It won't close at the moment."
+  },
+  {"op": "replace", "path": "/humanDescription",
+    "value": "(T) Cool stealthy door. Too bad it isn't closing right now."
+  },
+  {"op": "replace", "path": "/glitchDescription",
+    "value": "(T) Disappointed. A door. It appears to be disabled currently."
+  },
+  {"op": "replace", "path": "/floranDescription",
+    "value": "(T) Sssneaky door won't close!"
+  },
+  {"op": "replace", "path": "/avianDescription",
+    "value": "(T) A dark door. It won't close."
+  },
+  {"op": "replace", "path": "/apexDescription",
+    "value": "(T) You'd think that one of these specialized doors would be more reliable."
+  },
+  {"op": "replace", "path": "/description",
+    "value": "(T) A door suitable for a spaceship."
+  },
+  {"op": "replace", "path": "/shortdescription",
+    "value": "(T) Neki Ship Door"
+  }
+]

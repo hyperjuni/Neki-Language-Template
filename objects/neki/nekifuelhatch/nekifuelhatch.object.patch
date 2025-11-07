@@ -1,0 +1,32 @@
+[
+  {"op": "replace", "path": "/novakidDescription",
+    "value": "(T) FTL fuel goes in here!"
+  },
+  {"op": "replace", "path": "/nekiDescription",
+    "value": "(T) Let's put the purrple goo in here and gogogo!"
+  },
+  {"op": "replace", "path": "/hylotlDescription",
+    "value": "(T) The humble FTL fuel hatch. Fuel is the lifeblood of exploration."
+  },
+  {"op": "replace", "path": "/humanDescription",
+    "value": "(T) The ship's fuel hatch. With fuel for the FTL drive I can explore outside this system."
+  },
+  {"op": "replace", "path": "/glitchDescription",
+    "value": "(T) Excited. This hatch fuels the FTL drive so that I may visit planets outside of this system."
+  },
+  {"op": "replace", "path": "/floranDescription",
+    "value": "(T) Fuel hatch for FTL drive. Let'ss fill it up!"
+  },
+  {"op": "replace", "path": "/avianDescription",
+    "value": "(T) The FTL fuel hatch. Let's load it up and take to the stars!"
+  },
+  {"op": "replace", "path": "/apexDescription",
+    "value": "(T) The FTL drive fuel hatch. Converts fuel into freedom."
+  },
+  {"op": "replace", "path": "/description",
+    "value": "(T) Accepts Liquid Erchius as fuel for the ship's FTL dive."
+  },
+  {"op": "replace", "path": "/shortdescription",
+    "value": "(T) FTL Fuel Hatch"
+  }
+]

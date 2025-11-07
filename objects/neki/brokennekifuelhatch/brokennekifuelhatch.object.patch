@@ -1,0 +1,32 @@
+[
+  {"op": "replace", "path": "/novakidDescription",
+    "value": "(T) FTL fuel goes in here! When it's fixed..."
+  },
+  {"op": "replace", "path": "/nekiDescription",
+    "value": "(T) Purrple goo goes in there... when it's not broken."
+  },
+  {"op": "replace", "path": "/hylotlDescription",
+    "value": "(T) Fuel is the lifeblood of exploration."
+  },
+  {"op": "replace", "path": "/humanDescription",
+    "value": "(T) A fuel hatch. I can fill this up and explore."
+  },
+  {"op": "replace", "path": "/glitchDescription",
+    "value": "(T) Excited. Once filled, we may visit another planet."
+  },
+  {"op": "replace", "path": "/floranDescription",
+    "value": "(T) Let'ss get going!"
+  },
+  {"op": "replace", "path": "/avianDescription",
+    "value": "(T) Let's load it up and take to the stars!"
+  },
+  {"op": "replace", "path": "/apexDescription",
+    "value": "(T) Converts fuel into freedom."
+  },
+  {"op": "replace", "path": "/description",
+    "value": "(T) A broken FTL fuel hatch. This won't do!"
+  },
+  {"op": "replace", "path": "/shortdescription",
+    "value": "(T) Broken FTL Fuel Hatch"
+  }
+]

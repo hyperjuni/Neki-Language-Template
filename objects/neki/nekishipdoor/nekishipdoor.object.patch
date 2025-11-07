@@ -1,0 +1,32 @@
+[
+  {"op": "replace", "path": "/novakidDescription",
+    "value": "(T) A door, the type you'd find on a ship."
+  },
+  {"op": "replace", "path": "/nekiDescription",
+    "value": "(T) Let me out! Oh, what's out here..? Let me back in! Now let me out again!"
+  },
+  {"op": "replace", "path": "/hylotlDescription",
+    "value": "(T) A basic ship door with what seems to be stealth coating."
+  },
+  {"op": "replace", "path": "/humanDescription",
+    "value": "(T) A dark spaceship door."
+  },
+  {"op": "replace", "path": "/glitchDescription",
+    "value": "(T) Uninformed. This otherwise standard spaceship door's coating is unfamiliar to me."
+  },
+  {"op": "replace", "path": "/floranDescription",
+    "value": "(T) Sssneaky sspaceship door."
+  },
+  {"op": "replace", "path": "/avianDescription",
+    "value": "(T) A dark spaceship door."
+  },
+  {"op": "replace", "path": "/apexDescription",
+    "value": "(T) Doors like this are common on ships, although not with this type of coating."
+  },
+  {"op": "replace", "path": "/description",
+    "value": "(T) A door suitable for a spaceship."
+  },
+  {"op": "replace", "path": "/shortdescription",
+    "value": "(T) Neki Ship Door"
+  }
+]

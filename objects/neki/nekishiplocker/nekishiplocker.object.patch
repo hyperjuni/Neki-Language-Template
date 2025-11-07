@@ -1,0 +1,32 @@
+[
+  {"op": "replace", "path": "/novakidDescription",
+    "value": "(T) A stealthy locker for stealthily puttin' things in."
+  },
+  {"op": "replace", "path": "/nekiDescription",
+    "value": "(T) A stealthy wallbox for stealthy wallsleeps."
+  },
+  {"op": "replace", "path": "/hylotlDescription",
+    "value": "(T) An inconspicuous storage solution."
+  },
+  {"op": "replace", "path": "/humanDescription",
+    "value": "(T) A stealthy storage locker. Ninja stash!"
+  },
+  {"op": "replace", "path": "/glitchDescription",
+    "value": "(T) Pleased. This ship's storage system is well-concealed."
+  },
+  {"op": "replace", "path": "/floranDescription",
+    "value": "(T) Sssneaky storage."
+  },
+  {"op": "replace", "path": "/avianDescription",
+    "value": "(T) A stealthy device that holds many items for safe keeping."
+  },
+  {"op": "replace", "path": "/apexDescription",
+    "value": "(T) This ship's storage system is coated similarly to the ship's exterior."
+  },
+  {"op": "replace", "path": "/description",
+    "value": "(T) A shiplocker, coated in a dark substance."
+  },
+  {"op": "replace", "path": "/shortdescription",
+    "value": "(T) Shiplocker"
+  }
+]

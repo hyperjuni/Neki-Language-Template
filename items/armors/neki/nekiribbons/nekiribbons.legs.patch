@@ -1,0 +1,4 @@
+[
+  {"op": "replace", "path": "/shortdescription", "value": "(T) Neki Ribbons"},
+  {"op": "replace", "path": "/description", "value": "(T) For when you'll urgently need something to play with."}
+]

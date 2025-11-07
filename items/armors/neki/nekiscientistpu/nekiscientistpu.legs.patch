@@ -1,0 +1,4 @@
+[
+  {"op": "replace", "path": "/shortdescription", "value": "(T) Neki Scientist Pushup"},
+  {"op": "replace", "path": "/description", "value": "(T) The extra padding is for when things go extra wrong."}
+]

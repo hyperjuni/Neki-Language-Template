@@ -1,0 +1,32 @@
+[
+  {"op": "replace", "path": "/novakidDescription",
+    "value": "(T) A hatch, the type you'd find on a ship."
+  },
+  {"op": "replace", "path": "/nekiDescription",
+    "value": "(T) A floor-door for me to fall through."
+  },
+  {"op": "replace", "path": "/hylotlDescription",
+    "value": "(T) A basic ship hatch with what appears to be stealth coating."
+  },
+  {"op": "replace", "path": "/humanDescription",
+    "value": "(T) A dark spaceship hatch."
+  },
+  {"op": "replace", "path": "/glitchDescription",
+    "value": "(T) Uninformed. The coating of this otherwise standard spaceship hatch is unfamiliar to me."
+  },
+  {"op": "replace", "path": "/floranDescription",
+    "value": "(T) Sssneaky sspaceship hatch."
+  },
+  {"op": "replace", "path": "/avianDescription",
+    "value": "(T) A dark spaceship hatch."
+  },
+  {"op": "replace", "path": "/apexDescription",
+    "value": "(T) Hatch designs like this are common on ships, albeit not with this type of coating."
+  },
+  {"op": "replace", "path": "/description",
+    "value": "(T) A hatch suitable for a spaceship."
+  },
+  {"op": "replace", "path": "/shortdescription",
+    "value": "(T) Neki Ship Hatch"
+  }
+]

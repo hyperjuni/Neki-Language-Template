@@ -15,7 +15,7 @@
     "value": "(T) Curious. What could this console be indicating?"
   },
   {"op": "replace", "path": "/floranDescription",
-    "value": "(T) Floran wantsss to whack thiese annoying lights!"
+    "value": "(T) Floran wantsss to whack these annoying lights!"
   },
   {"op": "replace", "path": "/avianDescription",
     "value": "(T) This blinking is so distracting! I can't look away."

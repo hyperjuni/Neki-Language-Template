@@ -1,0 +1,7 @@
+[
+  {"op": "replace", "path": "/completionText", "value": "(T) As your paw touches the blue light, a digital log gently slides out of the dashboard.\n\nThe log seems to be addressed to you."},
+  {"op": "replace", "path": "/text",
+    "value": "(T) A pleasant blue shimmer is emanating from one of the dashboard lights.\n\nYour curiosity is begging you to poke it."
+  },
+  {"op": "replace", "path": "/title", "value": "(T) Neki Tutorial"}
+]

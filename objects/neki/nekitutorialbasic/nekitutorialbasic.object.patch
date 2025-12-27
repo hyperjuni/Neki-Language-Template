@@ -1,0 +1,32 @@
+[
+  {"op": "replace", "path": "/novakidDescription",
+    "value": "(T) This 'ere console seems ta' want somethin'!"
+  },
+  {"op": "replace", "path": "/nekiDescription",
+    "value": "(T) Purrdy blue butt-ons! I wonder what they do."
+  },
+  {"op": "replace", "path": "/hylotlDescription",
+    "value": "(T) The console appears to be signaling to this vessel's captain."
+  },
+  {"op": "replace", "path": "/humanDescription",
+    "value": "(T) I should press it just so it stops blinking!"
+  },
+  {"op": "replace", "path": "/glitchDescription",
+    "value": "(T) Curious. What could this console be indicating?"
+  },
+  {"op": "replace", "path": "/floranDescription",
+    "value": "(T) Floran wantsss to whack thiese annoying lights!"
+  },
+  {"op": "replace", "path": "/avianDescription",
+    "value": "(T) This blinking is so distracting! I can't look away."
+  },
+  {"op": "replace", "path": "/apexDescription",
+    "value": "(T) This captain's console appears to be indicating something."
+  },
+  {"op": "replace", "path": "/description",
+    "value": "(T) A blinking ship console."
+  },
+  {"op": "replace", "path": "/shortdescription",
+    "value": "(T) Neki Tutorial"
+  }
+]

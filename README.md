@@ -4,7 +4,7 @@ This stand-alone mod for Starbound is a template for translating the Neki mod in
 It can be installed as-is by placing into the 'mods' folder of the game; the patches will replace all of the text, adding a "(T)" (for "Translate") before every line.
 
 How to use:
-- Make sure you are have [Neki](https://github.com/hyperjuni/Neki) installed
+- Make sure you have [Neki](https://github.com/hyperjuni/Neki) installed
 - Download (or clone) this repository into Starbound's 'mods' folder
 - Modify the '_metadata' file: edit 'author', 'name' and 'friendlyName' accordingly
 - Translate all of the text starting with a "(T)" in all of the files into your language

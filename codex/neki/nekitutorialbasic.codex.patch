@@ -28,6 +28,6 @@ Without some kind of clothing, you may attract unwanted attention in most places
 ^gray;*it cuts out abruptly; the memory card appears to be full*"
     ]
   },
-  {"op": "replace", "path": "/description", "value": "(T) The name displayed on the digital log appears to be yours."},
+  {"op": "replace", "path": "/description", "value": "(T) The name displayed on this digital log appears to be yours."},
   {"op": "replace", "path": "/title", "value": "(T) 0n your own"}
 ]

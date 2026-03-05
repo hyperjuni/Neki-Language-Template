@@ -3,5 +3,5 @@
   "friendlyName" : "Neki Language Template",
   "includes" : ["Neki"],
   "name" : "Neki_Language",
-  "version" : "0.99"
+  "version" : "0.99.11"
 }

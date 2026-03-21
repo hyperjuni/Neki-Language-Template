@@ -12,6 +12,8 @@ How to use:
 - Playtest some more, let your friends playtest it too :)
 - Publish your translation onto the Steam Workshop (and/or anywhere else)
 
+- Monitor this repo for changes and additions!
+
 ---
 ## Links
 

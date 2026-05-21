@@ -1,0 +1,4 @@
+[
+  {"op": "replace", "path": "/shortdescription", "value": "(T) Neki Sundress - Tube"},
+  {"op": "replace", "path": "/description", "value": "(T) At least I can slip out of either side of this thing.\n\nDesigned for SFW skins."}
+]

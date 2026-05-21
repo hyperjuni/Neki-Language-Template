@@ -1,0 +1,4 @@
+[
+  {"op": "replace", "path": "/shortdescription", "value": "(T) Neki Sundress - Cutout"},
+  {"op": "replace", "path": "/description", "value": "(T) Feeling cute, may rip to shreds later."}
+]

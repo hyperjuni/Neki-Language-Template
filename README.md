@@ -16,5 +16,5 @@ How to use:
 ---
 ## Links
 
-* Come chat with us at the [Neki Discord](https://discord.gg/R6tfkazYgb)
+* Come chat with us at the [Neki Discord](https://discord.gg/R6tfkazYgb)!
   

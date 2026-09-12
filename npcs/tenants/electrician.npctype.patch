@@ -1,6 +1,6 @@
 [
   {"op": "replace", "path": "/scriptConfig/dialog/converse/neki/default",
-    "value" : [
+    "value": [
       "(T) I'm here to take naps and chew sparrkly ropes! And I'm all out of ropes.",
       "(T) I'm an electrrrician, but... I have no idea how any of this works.",
       "(T) I'd rrrather be napping, but I have sparrkly ropes to play with.",

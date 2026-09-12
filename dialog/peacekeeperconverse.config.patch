@@ -1,5 +1,5 @@
 [
-  {"op": "replace",  "path": "/converse/apex/neki",
+  {"op": "replace", "path": "/converse/apex/neki",
     "value": [
       "(T) I knew there was good in the Neki, Officer <entityname>, and you're the living proof!",
       "(T) I'm just glad to finally meet a Neki who isn't telling me to \"pick up that can\"...",

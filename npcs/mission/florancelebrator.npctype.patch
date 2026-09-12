@@ -1,5 +1,5 @@
 [
-  {"op": "replace",  "path": "/scriptConfig/dialog/converse/floran/neki",
+  {"op": "replace", "path": "/scriptConfig/dialog/converse/floran/neki",
     "value": [
       "(T) Nuru returns! But who isss the Neki?",
       "(T) To the victors go the ssspoils!",

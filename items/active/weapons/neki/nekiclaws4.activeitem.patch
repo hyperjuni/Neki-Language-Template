@@ -1,4 +1,4 @@
 [
   {"op": "replace", "path": "/shortdescription", "value": "(T) Neki T4 Sharp Claws"},
-  {"op": "replace", "path": "/description", "value": "(T) Blood stains everywhere!"}
+  {"op": "replace", "path": "/description", "value": "(T) Blood stains everywhere!\n\n\nUpgrade in a Neki Pod."}
 ]

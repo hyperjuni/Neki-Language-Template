@@ -1,6 +1,6 @@
 [
-  {"op" : "replace", "path" : "/scriptConfig/dialog/converse/avian/neki",
-    "value" : [
+  {"op": "replace", "path": "/scriptConfig/dialog/converse/avian/neki",
+    "value": [
       "(T) Kluex has sent you down upon us as punishment for not heeding his word!",
       "(T) I am a mighty herald of Kluex, and you shall be respectful of that, clawed beast!",
       "(T) The word of Kluex shall daze you where you stand.. and make you keep your distance!",

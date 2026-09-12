@@ -5,6 +5,6 @@
   {"op": "replace", "path": "/paneLayout/btnCraft/caption", "value": "(T) Craft"},
   {"op": "replace", "path": "/paneLayout/lblProducttitle/value", "value": "(T) PRODUCT"},
   {"op": "replace", "path": "/paneLayout/lblSchematics/value", "value": "(T) BLUEPRINTS"},
-  {"op": "replace", "path": "/paneLayout/windowtitle/subtitle", "value": "(T) Apparel and furnishings"},
-  {"op": "replace", "path": "/paneLayout/windowtitle/title", "value": "(T) NEKI WHEEL"}
+  {"op": "replace", "path": "/paneLayout/windowtitle/subtitle", "value": "(T) Neki Claws"},
+  {"op": "replace", "path": "/paneLayout/windowtitle/title", "value": "(T) NEKI POD"}
 ]

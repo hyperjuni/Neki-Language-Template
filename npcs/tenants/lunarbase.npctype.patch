@@ -1,6 +1,6 @@
 [
   {"op": "replace", "path": "/scriptConfig/dialog/converse/neki/default",
-    "value" : [
+    "value": [
       "(T) Others seem to hate the smell of the purrrple goo, but I love how sweet it is!",
       "(T) I was digging the moon! There was purrrple goo in it."
     ]

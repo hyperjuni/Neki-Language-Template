@@ -1,4 +1,4 @@
 [
-  {"op": "replace", "path": "/shortdescription", "value": "(T) Cosmetic Toy Wings"},
-  {"op": "replace", "path": "/description", "value": "(T) [Neki]\nNo angels were harmed in the making of these. Probably."}
+  {"op": "replace", "path": "/shortdescription", "value": "(T) Neki Toy Wings"},
+  {"op": "replace", "path": "/description", "value": "(T) No angels were harmed in the making of these. Probably."}
 ]

@@ -41,7 +41,7 @@
   ],
   [
     {"op": "replace", "path": "/converse/default/neki",
-      "value": [      
+      "value": [
       // Vanilla
         "(T) Do you ever get scared that you'll fall into the infinite, empty void of space by accident? I know I do!",
         "(T) One day I'll have my own ship and crew! Captain <selfname> has a nice ring to it, don't you think?",
